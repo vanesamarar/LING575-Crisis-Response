@@ -1,0 +1,55 @@
+/O.NEW.KMFL.SV.W.0033.250506T2205Z-250506T2245Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Miami FL
+605 PM EDT Tue May 6 2025
+
+The National Weather Service in Miami has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern Hendry County in southern Florida...
+
+* Until 645 PM EDT.
+
+* At 605 PM EDT, a severe thunderstorm was located near Devils
+  Garden, or near Montura, moving northeast at 15 mph.
+
+  HAZARD...Ping pong ball size hail and 60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...People and animals outdoors will be injured. Expect hail 
+           damage to roofs, siding, windows, and vehicles. Expect 
+           wind damage to roofs, siding, and trees.
+
+* Locations impacted include...
+  Montura and Devils Garden.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+Large hail, damaging wind, and continuous cloud to ground lightning
+are occurring with this storm. Move indoors immediately. Lightning is
+one of nature's leading killers. Remember, if you can hear thunder,
+you are close enough to be struck by lightning.
+
+Torrential rainfall is occurring with this storm, and may lead to
+flash flooding. Do not drive your vehicle through flooded roadways.
+
+&&
+
+LAT...LON 2666 8095 2655 8112 2664 8129 2677 8124
+      2677 8107
+TIME...MOT...LOC 2205Z 209DEG 14KT 2665 8117 
+
+HAIL THREAT...RADAR INDICATED
+MAX HAIL SIZE...1.50 IN
+WIND THREAT...RADAR INDICATED
+MAX WIND GUST...60 MPH
+
+$$
+
+Baxter
