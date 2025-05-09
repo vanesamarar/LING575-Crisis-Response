@@ -1,0 +1,78 @@
+ZCZC MIATCDAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+Hurricane Helene Discussion Number  15
+NWS National Hurricane Center Miami FL       AL092024
+1100 PM EDT Thu Sep 26 2024
+ 
+The hurricane is about to make landfall in the Florida Big Bend
+region.  Timely observations from Air Force and NOAA Hurricane
+Hunter aircraft showed that Helene continued to strengthen rapidly
+to Category 4 status before it approached the coast, with the
+central pressure falling at about 3 mb per hour since this
+afternoon.  Peak 700 mb flight-level winds from the aircraft were
+136 kt, corresponding to an intensity of about 120 kt, which might
+be a bit conservative.  Radar and satellite images show numerous
+mesocyclones rotating around the eyewall.
+ 
+The large hurricane continues moving rapidly north-northeastward
+with the latest initial motion estimated to be 015/21 kt.  A
+generally northward track is expected overnight, taking the center
+from southern to northern Georgia through early Friday morning.
+Later on Friday and Saturday, Helene should slow down considerably
+while it interacts with a mid-level low to its northwest and west.
+The weakening system is likely to become nearly stationary in 48-60
+hours.  The official track forecast follows the dynamical model
+consensus.
+ 
+Although the system will weaken as it moves over land, the fast
+forward speed of Helene during the next 12 hours or so will result
+in a far inland penetration of strong winds over parts of the
+southeastern United States, particularly over Georgia, including
+strong gusts over the higher terrain of the southern Appalachians.
+Accordingly, a higher-than-normal gust factor is indicated in the
+official forecast while Helene is inland.
+ 
+KEY MESSAGES:
+ 
+1. A catastrophic and deadly storm surge is occurring along portions
+of the Florida Big Bend coast, where inundation could reach as high
+as 20 feet above ground level, along with destructive waves.  There
+is also a danger of life-threatening storm surge along the remainder
+of the west coast of the Florida Peninsula.
+ 
+2. Catastrophic hurricane-force winds are occurring near the coast
+within the eyewall of Helene and will spread inland over portions
+of northern Florida and southern Georgia.
+ 
+3. Damaging wind gusts will penetrate well inland over portions of
+Georgia and the Carolinas tonight, particularly over the higher
+terrain of the southern Appalachians. Residents in these areas
+should be prepared for the possibility of long-duration power
+outages.  If you use a generator after the storm, be sure it is
+placed outside at least 20 feet away from doors, windows, and
+garages to avoid deadly carbon monoxide poisoning.
+ 
+4. Catastrophic and life-threatening flash and urban flooding,
+including numerous significant landslides, is expected across
+portions of the southern Appalachians through Friday. Considerable
+to locally catastrophic flash and urban flooding is likely for
+northwestern and northern Florida and the Southeast through Friday.
+Widespread significant river flooding and isolated major river
+flooding are likely.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  27/0300Z 29.9N  83.9W  120 KT 140 MPH
+ 12H  27/1200Z 33.9N  84.0W   55 KT  65 MPH...INLAND
+ 24H  28/0000Z 36.9N  86.2W   30 KT  35 MPH...POST-TROP/EXTRATROP
+ 36H  28/1200Z 36.8N  87.5W   25 KT  30 MPH...POST-TROP/EXTRATROP
+ 48H  29/0000Z 36.9N  86.9W   20 KT  25 MPH...POST-TROP/EXTRATROP
+ 60H  29/1200Z 37.1N  86.4W   20 KT  25 MPH...POST-TROP/EXTRATROP
+ 72H  30/0000Z...DISSIPATED
+ 
+$$
+Forecaster Pasch
+ 
+NNNN
