@@ -33,7 +33,8 @@ def translate_text(files, lang):
 
 def main():
     #read in data files from data directory, probably should store the name of the file in var too
-
+    #also need to read in api key from env variable
+    #os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path/to/your/credentials.json"
     #below needs to be edited to correctly read in the files
     files=os.listdir("data")
     translate_text(files, "es")   #change lang codes as needed
