@@ -29,18 +29,18 @@ def load_alerts(data_dir):
                     alerts[category].append((file, content))
      return alerts    
 
-def translate_text(files, lang):
+def translate_text(alerts, lang):
      #Google Cloud Translation API client
-    #Not sure if the correct translation model was imported- google documentation not great
+     #Not sure if the correct translation model was imported- google documentation not great
      translate_client=translate.Client()       
 
      #iterate through files and translate each one to target language
-     for item in files:
+     for item in alerts:
          #open each file
          with open("data/%s" % item, "r") as openFile:  #these file reads are not going to work
              data=openFile.read()
              #send to translation
-             translation=translate_client.translate(data, target_language=lang)
+             translation=translate_client.translate(data, target_language=lang, source_language="en") #should shut off auto lang detection that eats credits
              #write to translated text to outfile
              with open("data/%s_%s" % (item, lang), "w") as outFile:  #this probably needs to be changed too
                  outFile.write(translation['translatedText'])
@@ -48,22 +48,31 @@ def translate_text(files, lang):
              outFile.close()
          openFile.close()
 
+#new loop to read through alerts dict and translate each file       
+'''
+    for key, value in alerts.items():
+     #create new file for each translated file, using category key and lang code
+     with open(f"{key}_{lang}.txt", "w") as outFile:    
+          translation=translate_client.translate(value, target_language=lang, source_language="en") #should shut off auto lang detection that eats credits
+          outFile.write(translation['translatedText'])
+     outFile.close()'''
+
 def main():
     #read in data files from data directory, probably should store the name of the file in var too
     #also need to read in api key from env variable
     #os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path/to/your/credentials.json"
     #below needs to be edited to correctly read in the files
-    data_dir = "data"
+    data_dir = "data" #need the actual path to data directory
+
+
     alerts = load_alerts(data_dir)
-    files=os.listdir("data")
-    translate_text(files, "es")   #change lang codes as needed
-    translate_text(files, "es")
-    translate_text(files, "es")
-    translate_text(files, "es")
-    translate_text(files, "es")
+    
+    #translate to target language
+    translate_text(alerts, "es")   #change lang codes as needed
+    translate_text(alerts, "es")
+    translate_text(alerts, "es")
+    translate_text(alerts, "es")
+    translate_text(alerts, "es")
+
 if __name__ == "__main__":
     main() 
-
-
-if __name__=="__main__":
-    main()
