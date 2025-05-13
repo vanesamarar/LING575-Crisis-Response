@@ -12,7 +12,7 @@ figured it would be easiest to fix all of this once we have the code to read the
 
 '''
 
-def load_alerts(data_dir):
+def load_alerts(data_dir): #change to ignore the subdirectories, pick best container 
 #load txt files from data directory and its subdirectories as a dict
      alerts = {}
      for root, _, files in os.walk(data_dir):
