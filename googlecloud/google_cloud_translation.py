@@ -12,6 +12,23 @@ figured it would be easiest to fix all of this once we have the code to read the
 
 '''
 
+def load_alerts(data_dir):
+#load txt files from data directory and its subdirectories as a dict
+     alerts = {}
+     for root, _, files in os.walk(data_dir):
+          for file in files:
+               if file.endswith(".txt"):
+                    category = os.path.basename(root)
+                    fpath = os.path.join(root, file)
+
+                    with open(fpath, "r", encoding="utf-8") as f:
+                         content = f.read().strip()
+
+                    if category not in alerts:
+                         alerts[category] = []
+                    alerts[category].append((file, content))
+     return alerts    
+
 def translate_text(files, lang):
      #Google Cloud Translation API client
     #Not sure if the correct translation model was imported- google documentation not great
@@ -36,12 +53,16 @@ def main():
     #also need to read in api key from env variable
     #os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path/to/your/credentials.json"
     #below needs to be edited to correctly read in the files
+    data_dir = "data"
+    alerts = load_alerts(data_dir)
     files=os.listdir("data")
     translate_text(files, "es")   #change lang codes as needed
     translate_text(files, "es")
     translate_text(files, "es")
     translate_text(files, "es")
     translate_text(files, "es")
+if __name__ == "__main__":
+    main() 
 
 
 if __name__=="__main__":
