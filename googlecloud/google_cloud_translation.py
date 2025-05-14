@@ -13,20 +13,18 @@ figured it would be easiest to fix all of this once we have the code to read the
 '''
 
 def load_alerts(data_dir): #change to ignore the subdirectories, pick best container 
-#load txt files from data directory and its subdirectories as a dict
-	alerts = {}
+#load txt files and their contents from data directory and store as list
+	alerts = []
 	for root, _, files in os.walk(data_dir):
 		for file in files:
 			if file.endswith(".txt"):
-				category = os.path.basename(root)
-				fpath = os.path.join(root, file)
+				full_path = os.path.join(root, file)
+				rel_path = os.path.relpath(full_path, data_dir)
 
-				with open(fpath, "r", encoding="utf-8") as f:
-					content = f.read().strip()
+				with open(full_path, "r", encoding="utf-8") as f:
+					content = f.read()
 
-				if category not in alerts:
-					alerts[category] = []
-				alerts[category].append((file, content))
+				alerts.append((rel_path, content))
 	return alerts    
 
 def translate_text(alerts, lang):
