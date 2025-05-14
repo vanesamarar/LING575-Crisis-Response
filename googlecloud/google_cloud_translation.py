@@ -11,22 +11,19 @@ Also, we need to read the names of the input files to make names for the output 
 figured it would be easiest to fix all of this once we have the code to read the directory.
 
 '''
-
-def load_alerts(data_dir): #change to ignore the subdirectories, pick best container 
-#load txt files and their contents from data directory and store as list
+  
+def load_alerts(data_dir):
+#load txt files and their contents from data directory and store as list	
 	alerts = []
 	for root, _, files in os.walk(data_dir):
-		for file in files:
-			if file.endswith(".txt"):
-				full_path = os.path.join(root, file)
-				rel_path = os.path.relpath(full_path, data_dir)
-
-				with open(full_path, "r", encoding="utf-8") as f:
-					content = f.read()
-
-				alerts.append((rel_path, content))
-	return alerts    
-
+        	for file in files:
+            		if file.endswith(".txt"):
+                		full_path = os.path.join(root, file)
+                		with open(full_path, "r", encoding="utf-8") as f:
+                    			content = f.read()
+                		alerts.append((file, content))
+    	return alerts
+	
 def translate_text(alerts, lang):
 	#initialize translation client
 	translate_client=translate.Client()
