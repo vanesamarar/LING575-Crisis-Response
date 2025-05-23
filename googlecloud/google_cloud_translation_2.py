@@ -7,8 +7,8 @@ output_dir = "translations"
 
 def load_alerts(data_dir):
 #load txt files and their contents from data directory and store as list
-  alerts = []
-  for root, _, files in os.walk(data_dir):
+  	alerts = []
+  	for root, _, files in os.walk(data_dir):
 		for file in files:
 			if file.endswith(".txt"):
 				full_path = os.path.join(root, file)
@@ -18,17 +18,27 @@ def load_alerts(data_dir):
 	return alerts
 
 def translate_text(alerts, lang, out_dir):
-  translate_client = translate.Client()
-  lang_dir = os.path.join(out_dir, lang)
-  os.makedirs(lang_dir, exist_ok=True)
+	translate_client = translate.Client()
+	lang_dir = os.path.join(out_dir, lang)
+	os.makedirs(lang_dir, exist_ok=True)
 
-  for file, content in alerts:
-        translation = translate_client.translate(
-            content,
-            target_language=lang,
-            source_language="en"
-        )
-        out_path = os.path.join(lang_dir, file)
-        with open(out_path, "w", encoding="utf-8") as f:
-            f.write(translation['translatedText'])
-        print(f"Translated {file} to {lang}")
+	for file, content in alerts:
+		translation = translate_client.translate(
+            	content,
+            	target_language=lang,
+            	source_language="en"
+        	)
+        	out_path = os.path.join(lang_dir, file)
+        	with open(out_path, "w", encoding="utf-8") as f:
+            		f.write(translation['translatedText'])
+        	print(f"Translated {file} to {lang}")
+
+def main():
+	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/vanesamarar/Downloads/crisis-alerts-translation-873a62787e85.json"
+	alerts = load_alerts(input_dir)
+
+	for lang in translation_langs:
+		translate_text(alerts, lang, output_dir)
+
+if __name__ == "__main__":
+	main()
