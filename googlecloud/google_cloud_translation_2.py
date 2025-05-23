@@ -34,7 +34,8 @@ def translate_text(alerts, lang, out_dir):
         	print(f"Translated {file} to {lang}")
 
 def main():
-	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/vanesamarar/Downloads/crisis-alerts-translation-873a62787e85.json"
+	#os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/vanesamarar/Downloads/crisis-alerts-translation-873a62787e85.json"
+	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
 	alerts = load_alerts(input_dir)
 
 	for lang in translation_langs:
