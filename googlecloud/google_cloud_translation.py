@@ -27,7 +27,7 @@ def load_alerts(data_dir):
 	
 def translate_text(alerts, lang):
 	#initialize translation client, key should be in .env file
-	translate_client=translate.Client(key=os.getenv("GOOGLE_APPLICATION_CREDENTIALS")) #need to add key and hide .env file
+	translate_client=translate.Client(key=os.getenv("GOOGLE_APPLICATION_CREDENTIALS_1")) #need to add key and hide .env file
 
 	#new loop to read through alerts dict and translate each file
 	for k, value in alerts.items():
@@ -36,7 +36,7 @@ def translate_text(alerts, lang):
 			translation=translate_client.translate(value, target_language=lang, source_language="en") #should shut off auto lang detection that eats credits
 			outFile.write(translation['translatedText'])
 	outFile.close()
-	
+
 def main():
 	#read in data files from data directory, probably should store the name of the file in var too
 	#also need to read in api key from env variable
