@@ -5,7 +5,7 @@ from transquest.algo.sentence_level.monotransquest.run_model import MonoTransQue
 #set up paths and languages
 alert_dir = "data/alerts"
 translation_base_dir = "data/translations"
-combined_dir = "preprocessing"
+combined_dir = "evaluation"
 translation_langs = ["es", "vi", "ko", "km", "so"]
 results_file = os.path.join(combined_dir, "evaluation_results.txt")
 #make sure all directories exist, make them if not
