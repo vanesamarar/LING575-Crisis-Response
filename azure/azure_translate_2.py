@@ -25,7 +25,7 @@ def load_alerts(data_dir):
 	return alerts
 
 def translate_text(alerts, lang, out_dir):
-	translator = MockAzureTranslateClient(lang)
+	translator = MockAzureTranslator(lang)
 	
 	'''key = os.getenv("AZURE_KEY_1") 
 	endpoint = os.getenv("AZURE_ENDPOINT") 
