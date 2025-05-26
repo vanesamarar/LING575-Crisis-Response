@@ -32,3 +32,13 @@ def combine_alerts_for_eval(src_dir, mt_dir, out_src_file, out_mt_file):
             mt_out.write(line + "\n")
 
     print(f"Combined {len(src_texts)} alert pairs into {out_src_file} and {out_mt_file}")
+
+if __name__ == "__main__":
+    languages = ["es", "vi", "ko", "km", "so"]
+    for lang in languages:
+        combine_alerts_for_eval(
+            src_dir="data/alerts",
+            mt_dir=f"data/translations/{lang}",
+            out_src_file="preprocessing/combined_alerts.txt",
+            out_mt_file=f"preprocessing/{lang}_combined.txt"
+        )
