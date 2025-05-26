@@ -54,9 +54,11 @@ def translate_text(alerts, lang, out_dir):
 		'''body =[{'text': content}] 
 		request = requests.post(constructed_url, params=params, headers=headers, json=body)
 		response=request.json()'''
+
 		out_path = os.path.join(lang_dir, file)
 		with open(out_path, "w", encoding="utf-8") as outFile:
-			outFile.write(response[0]['translations'][0]['text'])
+			#outFile.write(response[0]['translations'][0]['text'])
+			outFile.write(translated_text)
 		print(f"Translated {file} to {lang}")
 
 def main():
