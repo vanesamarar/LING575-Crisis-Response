@@ -2,6 +2,13 @@ import os
 import requests, uuid, json
 from dotenv import load_dotenv
 
+class MockAzureTranslator:
+    def __init__(self, lang):
+        self.lang = lang
+
+    def translate(self, text):
+        return f"[{self.lang} translation of]: {text}"
+
 def load_alerts(data_dir):
 	alerts = []
 	for root, _, files in os.walk(data_dir):
@@ -14,12 +21,11 @@ def load_alerts(data_dir):
 	return alerts
 
 def translate_text(alerts, lang, out_dir):
-	#initialize translation client
-	key = os.getenv("AZURE_KEY_1") #need to add key and hide .env file
-	endpoint = os.getenv("AZURE_ENDPOINT") #need to add endpoint url
+	translator = MockAzureTranslateClient(lang)
+	
+	'''key = os.getenv("AZURE_KEY_1") 
+	endpoint = os.getenv("AZURE_ENDPOINT") 
 	region = os.getenv("AZURE_REGION")
-
-	#dont think we need to specify location
 
 	path = '/translate'
 	constructed_url = endpoint + path
@@ -33,20 +39,17 @@ def translate_text(alerts, lang, out_dir):
 		'X-ClientTraceId':str(uuid.uuid4()),
 		'Ocp-Apim-Subscription-Key':key,
 		'Ocp-Apim-Subscription-Region': region #need to check this, otherwise optional
-	}
+	}'''
 
 	lang_dir = os.path.join(out_dir, lang)
 	os.makedirs(lang_dir, exist_ok=True)
 
 	for file, content in alerts:
-		#create new file for each translated file, using category key and lang c  
-		body =[{'text': content}] 
+		translated_text = translator.translate(content)
+		
+		'''body =[{'text': content}] 
 		request = requests.post(constructed_url, params=params, headers=headers, json=body)
-		response=request.json()
-		#print(json.dumps(response, sort_keys=True, ensure_ascii=False, indent=4, separators=(',', ':')))
-
-		#parse response
-		#response as a list of dictionaries
+		response=request.json()'''
 		out_path = os.path.join(lang_dir, file)
 		with open(out_path, "w", encoding="utf-8") as outFile:
 			outFile.write(response[0]['translations'][0]['text'])
