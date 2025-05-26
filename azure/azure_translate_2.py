@@ -3,11 +3,15 @@ import requests, uuid, json
 from dotenv import load_dotenv
 
 class MockAzureTranslator:
-    def __init__(self, lang):
-        self.lang = lang
+	def __init__(self, lang):
+		self.lang = lang
 
-    def translate(self, text):
-        return f"[{self.lang} translation of]: {text}"
+	def translate(self, text):
+		return f"[{self.lang} translation of]: {text}"
+
+translation_langs = ["es", "vi", "ko", "km", "so"]
+input_dir = "../data"
+output_dir = "../translations"
 
 def load_alerts(data_dir):
 	alerts = []
@@ -56,19 +60,9 @@ def translate_text(alerts, lang, out_dir):
 		print(f"Translated {file} to {lang}")
 
 def main():
-	load_dotenv() #load env variables form .env file -- explain in readme
-	input_dir = "data"
-	output_dir = "translations"
-	translation_langs = ["es", "vi", "ko", "km", "so"]
-	
+	load_dotenv() 
 	alerts=load_alerts(input_dir)
 	for lang in translation_langs:
 		translate_text(alerts, lang, output_dir)
 if __name__ == "__main__":
 	main()
-
-   #.env files create file .env hide this file and put keys in here - put in main
-   # define keys key =""
-   # from dotenv import load_dotenv
-   #  key=os.getenv("AZURE_TRANSLATE_KEY")
-   
