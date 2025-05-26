@@ -1,5 +1,6 @@
 import os
 
+#alerts need to be combined into one file and same for translations
 def combine_alerts_for_eval(src_dir, mt_dir, out_src_file, out_mt_file):
     src_texts = []
     mt_texts = []
