@@ -3,8 +3,8 @@ from comet import download_model, load_from_checkpoint
 from transquest.algo.sentence_level.monotransquest.run_model import MonoTransQuest
 
 #set up paths and languages
-alert_dir = "data/alerts"
-translation_base_dir = "data/translations"
+alert_dir = "data"
+translation_base_dir = "translations"
 combined_dir = "evaluation"
 translation_langs = ["es", "vi", "ko", "km", "so"]
 results_file = os.path.join(combined_dir, "evaluation_results.txt")
