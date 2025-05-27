@@ -17,22 +17,23 @@ def combine_alerts_for_eval(lang):
     src_dir = alert_dir
     mt_dir = os.path.join(translation_base_dir, lang)
 
-    for file in sorted(os.listdir(src_dir)):
-        if file.endswith(".txt"):
-            src_path = os.path.join(src_dir, file)
-            mt_path = os.path.join(mt_dir, file)
+    for root, _, files in os.walk(src_dir):
+        for file in sorted(files):
+            if file.endswith(".txt"):
+                src_path = os.path.join(root, file)
+                mt_path = os.path.join(mt_dir, file)
 
-            if not os.path.exists(mt_path):
-                print(f"Warning: No translation found for {file} in {lang}")
-                continue
+                if not os.path.exists(mt_path):
+                    print(f"Warning: No translation found for {file} in {lang}")
+                    continue
 
-            with open(src_path, "r", encoding="utf-8") as src_f:
-                src_text = src_f.read().strip()
-            with open(mt_path, "r", encoding="utf-8") as mt_f:
-                mt_text = mt_f.read().strip()
+                with open(src_path, "r", encoding="utf-8") as src_f:
+                    src_text = src_f.read().strip()
+                with open(mt_path, "r", encoding="utf-8") as mt_f:
+                    mt_text = mt_f.read().strip()
 
-            src_texts.append(src_text)
-            mt_texts.append(mt_text)
+                src_texts.append(src_text)
+                mt_texts.append(mt_text)
 
     with open(os.path.join(combined_dir, "combined_alerts.txt"), "w", encoding="utf-8") as src_out:
         for line in src_texts:
