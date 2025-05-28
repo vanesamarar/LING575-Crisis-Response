@@ -1,5 +1,5 @@
 from google.cloud import translate_v2 as translate
-import os
+import os, json
 from dotenv import load_dotenv
 
 #translates text using Neural Machine Translation in Google Cloud Translation API

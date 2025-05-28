@@ -1,4 +1,4 @@
-import os
+import os, json
 from dotenv import load_dotenv
 from google.cloud import translate_v2 as translate
 
