@@ -21,10 +21,27 @@ AZURE_ENDPOINT=""
 ### Google Setup
 Google Cloud Translation can be accessed via Google.
 
-1. Ensure the Cloud Translation API is enabled for the project
-2. Run "pip install --upgrade google-cloud-translate" in the terminal
+1. Create free account (https://cloud.google.com/?hl=en)
+2. Ensure the Cloud Translation API is enabled for the project
+3. Go to IAM in search bar and create new Service Account
+4. Grant service account access to use translation API 
+5. Go to keys and create new json key
+6. Add key to .env file and store json key with other files
+7. Download gcloud CLI (https://cloud.google.com/sdk/gcloud)
+8. Run 'gcloud init'
+9. Run 'pip install --upgrade google-cloud-translate'
 
-* have others to add here
+* I think this is right...
 
 ### Azure
+
+Azure AI Translator can be accessed via the Azure platform.
+
+1. Create a free Azure account ()
+2. Create a single service resource in the Azure portal. Location 'westus2' was chose. The key and endpoint are on the Keys and Endpoint page. If no endpoint listed, use "https://api.cognitive.microsofttranslator.com".
+3. Add keys and endpoint to .env
+4. Run 'pip install requests uuid'
+5. Store keys and endpoint in .env
+
+**Anything else to add to these?
 
