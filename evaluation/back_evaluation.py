@@ -5,20 +5,18 @@ from bert_score import score as bert_score
 
 providers = ["azure", "googlecloud"]
 langs = ["es", "vi", "ko", "km", "so"]
-data_dir = "data"
 base_dir = os.path.dirname(os.path.abspath(__file__))
-#comet is the only one that needs explicit downloading 
+
 comet_model_path = download_model("Unbabel/wmt22-comet-da")
 comet_model = load_from_checkpoint(comet_model_path)
 
-#assuming they live inside azure/evaluation and googlecloud/evaluation
-def load_combined_alerts(provider):
-    alert_path = os.path.join(base_dir, "..", provider, "evaluation", "combined_alerts.txt")
+def load_combined_alerts():
+    alert_path = os.path.join(base_dir, "combined_alerts.txt")
     with open(alert_path, "r", encoding="utf-8") as f:
         return [line.strip() for line in f.readlines()]
-#assuming they live inside azure(googlecloud)/backtranslations
+        
 def load_backtranslations(provider, lang):
-    bt_path = os.path.join(base_dir, "..", provider, "backtranslations", f"{lang}.txt")
+    bt_path = os.path.join(base_dir, "..", provider, "back_translations", f"{lang}.txt")
     if not os.path.exists(bt_path):
         print(f"Missing backtranslation for {provider} {lang}")
         return []
@@ -44,20 +42,28 @@ def evaluate_backtranslations(refs, bts):
     return comet_avg, bleu, bert_avg
     
 def main():
-    for provider in providers:
-        ref_lines = load_combined_alerts(provider)
-        output_path = os.path.join(base_dir, "..", provider, "evaluation", "backward_eval_results.txt")
+    ref_lines = load_combined_alerts(provider)
+    output_path = os.path.join(base_dir, "backward_eval_results.txt")
 
-        with open(output_path, "w", encoding="utf-8") as out_f:
-            out_f.write("Language\tCOMET\tBLEU\tBERTScore\n")
+    with open(output_path, "w", encoding="utf-8") as out_f:
+        out_f.write("Provider\tLanguage\tCOMET\tBLEU\tBERTScore\n")
+            
+        for provider in providers:
             for lang in langs:
                 bt_lines = load_backtranslations(provider, lang)
                 if not bt_lines:
-                    out_f.write(f"{lang}\tError\tError\tError\n")
+                    out_f.write(f"{provider}\t{lang}\tError\tError\tError\n")
                     continue
-                comet_avg, bleu, bert = evaluate_backtranslation(ref_lines, bt_lines)
-                out_f.write(f"{lang}\t{comet_avg:.4f}\t{bleu:.2f}\t{bert:.4f}\n")
-                print(f"{provider}/{lang}: COMET={comet_avg:.4f}, BLEU={bleu:.2f}, BERT={bert:.4f}")
 
+                combined_bt_path = os.path.join(base_dir, f"back_{provider}_{lang}_combined.txt")
+                with open(combined_bt_path, "w", encoding="utf-8") as f:
+                    f.write("\n".join(bt_lines) + "\n")
+                    
+                comet_avg, bleu, bert = evaluate_backtranslation(ref_lines, bt_lines)
+                if comet_avg is None:
+                    out_f.write(f"{provider}\t{lang}\tError\tError\tError\n")
+                else:
+                    out_f.write(f"{provider}\t{lang}\t{comet_avg:.4f}\t{bleu:.2f}\t{bert:.4f}\n")
+                    print(f"{provider}/{lang}: COMET={comet_avg:.4f}, BLEU={bleu:.2f}, BERT={bert:.4f}")
 if __name__ == "__main__":
     main()
