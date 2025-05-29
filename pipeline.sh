@@ -1,5 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 
+set -e
 echo "Starting pipeline..."
 
 echo "Running Azure forward translation..."
