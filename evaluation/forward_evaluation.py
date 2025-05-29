@@ -5,13 +5,13 @@ from transquest.algo.sentence_level.monotransquest.run_model import MonoTransQue
 providers = ["azure", "googlecloud"]
 translation_langs = ["es", "vi", "ko", "km", "so"]
 alert_dir = "data"
+shared_eval_dir = "evaluation"
 
 #combine alerts into one file, combine translations into single file per lang
 def combine_alerts_for_eval(lang, provider):
     src_texts, mt_texts = [], []
-    mt_dir = os.path.join(provider, "translations", lang)
-    combined_dir = os.path.join(provider, "evaluation")
-    os.makedirs(combined_dir, exist_ok=True)
+    mt_dir = os.path.join(provider, "forward_translations", lang)
+    os.makedirs(shared_eval_dir, exist_ok=True)
 
     for root, _, files in os.walk(alert_dir):
         for file in sorted(files):
@@ -31,16 +31,15 @@ def combine_alerts_for_eval(lang, provider):
                 src_texts.append(src_text)
                 mt_texts.append(mt_text)
 
-    with open(os.path.join(combined_dir, "combined_alerts.txt"), "w", encoding="utf-8") as src_out:
+    with open(os.path.join(shared_eval_dir, "combined_alerts.txt"), "w", encoding="utf-8") as src_out:
         src_out.write("\n".join(src_texts) + "\n")
 
-    with open(os.path.join(combined_dir, f"{lang}_combined.txt"), "w", encoding="utf-8") as mt_out:
+    with open(os.path.join(shared_eval_dir, f"{lang}_combined.txt"), "w", encoding="utf-8") as mt_out:
         mt_out.write("\n".join(mt_texts) + "\n")
 
 def evaluate_language(lang, provider, comet_model, mtq_model):
-    combined_dir = os.path.join(provider, "evaluation")
-    src_file = os.path.join(combined_dir, "combined_alerts.txt")
-    mt_file = os.path.join(combined_dir, f"{lang}_combined.txt")
+    src_file = os.path.join(shared_eval_dir, "combined_alerts.txt")
+    mt_file = os.path.join(shared_eval_dir, f"{provider}_{lang}_combined.txt")
 
     if not os.path.exists(src_file) or not os.path.exists(mt_file):
         print(f"[{provider}][{lang}] Skipping: Missing combined files.")
@@ -70,11 +69,11 @@ def main():
     comet_model = load_from_checkpoint(comet_model_path)
     mtq_model = MonoTransQuest(model_name_or_path="TransQuest/monotransquest-da-en")
 
+    os.makedirs(shared_eval_dir, exist_ok=True)
+    
     for provider in providers:
         print(f"\n=== Evaluating provider: {provider} ===") #remove after test
-        combined_dir = os.path.join(provider, "evaluation")
-        results_file = os.path.join(combined_dir, "evaluation_results.txt")
-        os.makedirs(combined_dir, exist_ok=True)
+        results_file = os.path.join(shared_eval_dir, "evaluation_results.txt")
     
         with open(results_file, "w", encoding="utf-8") as f:
             f.write("Language\tCOMET-QE\tMonoTransQuest\n")
