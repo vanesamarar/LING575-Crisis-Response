@@ -11,7 +11,7 @@ class MockAzureTranslator:
 
 translation_langs = ["es", "vi", "ko", "km", "so"]
 input_dir = "../data"
-output_dir = "../translations"
+output_dir = "forward_translations"
 
 def load_alerts(data_dir):
 	alerts = []
