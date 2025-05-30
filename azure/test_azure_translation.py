@@ -3,8 +3,8 @@ import requests, uuid, json
 from dotenv import load_dotenv
 
 translation_langs = ["es", "vi", "ko", "km", "so"]
-input_dir = "../test_data"
-output_dir = "test_forward_translations"
+input_dir = "test_data"
+output_dir = "azure/test_forward_translations"
 
 def load_alerts(data_dir):
 	alerts = []
