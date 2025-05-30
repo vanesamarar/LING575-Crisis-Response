@@ -32,7 +32,7 @@ def translate_text(alerts, lang):
 		'Ocp-Apim-Subscription-Region': region #need to check this, otherwise optional
 	}
 
-	output_dir = os.path.join("test_back_translations", lang)
+	output_dir = os.path.join("azure", "test_back_translations", lang)
     	os.makedirs(output_dir, exist_ok=True)
 
 	for fname, content in alerts:
@@ -50,7 +50,7 @@ def main():
 	langs = ["es", "vi", "ko", "km", "so"]
 
 	for lang in langs:
-        	input_dir = os.path.join("test_forward_translations", lang)
+        	input_dir = os.path.join("azure", "test_forward_translations", lang)
         	alerts = load_alerts(input_dir)
         	translate_text(alerts, lang)
 	
