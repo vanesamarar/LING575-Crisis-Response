@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 translation_langs = ["es", "vi", "ko", "km", "so"]
 input_dir = "../test_data"
-output_dir = "forward_translations"
+output_dir = "test_forward_translations"
 
 def load_alerts(data_dir):
 	alerts = []
@@ -18,11 +18,10 @@ def load_alerts(data_dir):
 	return alerts
 
 def translate_text(alerts, lang, out_dir):
-	translator = MockAzureTranslator(lang)
-	
 	key = os.getenv("AZURE_KEY_1") 
 	endpoint = os.getenv("AZURE_ENDPOINT") 
 	region = os.getenv("AZURE_REGION")
+	assert key and endpoint and region, "Missing Azure environment variables."
 
 	path = '/translate'
 	constructed_url = endpoint + path
@@ -45,10 +44,13 @@ def translate_text(alerts, lang, out_dir):
 		body =[{'text': content}] 
 		request = requests.post(constructed_url, params=params, headers=headers, json=body)
 		response=request.json()
+		if "error" in response:
+			print(f"Error translating {file} to {lang}: {response['error']}")
+			continue
+		translated_text = response[0]['translations'][0]['text']
 
 		out_path = os.path.join(lang_dir, file)
 		with open(out_path, "w", encoding="utf-8") as outFile:
-			outFile.write(response[0]['translations'][0]['text'])
 			outFile.write(translated_text)
 		print(f"Translated {file} to {lang}")
 
