@@ -2,8 +2,8 @@ from google.cloud import translate_v2 as translate
 import os
 
 translation_langs = ["es", "vi", "ko", "km", "so"]
-input_dir = "../test_data"
-output_dir = "test_forward_translations"
+input_dir = "test_data"
+output_dir = "googlecloud/test_forward_translations"
 
 def load_alerts(data_dir):
   	alerts = []
