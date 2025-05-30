@@ -4,13 +4,13 @@ from transquest.algo.sentence_level.monotransquest.run_model import MonoTransQue
 
 providers = ["azure", "googlecloud"]
 translation_langs = ["es", "vi", "ko", "km", "so"]
-alert_dir = "data"
+alert_dir = "test_data"
 shared_eval_dir = "evaluation"
 
 #combine alerts into one file, combine translations into single file per lang
 def combine_alerts_for_eval(lang, provider):
     src_texts, mt_texts = [], []
-    mt_dir = os.path.join(provider, "forward_translations", lang)
+    mt_dir = os.path.join(provider, "test_forward_translations", lang)
     os.makedirs(shared_eval_dir, exist_ok=True)
 
     for root, _, files in os.walk(alert_dir):
@@ -73,7 +73,7 @@ def main():
     
     for provider in providers:
         print(f"\n=== Evaluating provider: {provider} ===") #remove after test
-        results_file = os.path.join(shared_eval_dir, "evaluation_results.txt")
+        results_file = os.path.join(shared_eval_dir, f"{provider}_evaluation_results.txt")
     
         with open(results_file, "w", encoding="utf-8") as f:
             f.write("Language\tCOMET-QE\tMonoTransQuest\n")
