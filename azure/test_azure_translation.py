@@ -2,15 +2,8 @@ import os
 import requests, uuid, json
 from dotenv import load_dotenv
 
-class MockAzureTranslator:
-	def __init__(self, lang):
-		self.lang = lang
-
-	def translate(self, text):
-		return f"[{self.lang} translation of]: {text}"
-
 translation_langs = ["es", "vi", "ko", "km", "so"]
-input_dir = "../data"
+input_dir = "../test_data"
 output_dir = "forward_translations"
 
 def load_alerts(data_dir):
@@ -27,7 +20,7 @@ def load_alerts(data_dir):
 def translate_text(alerts, lang, out_dir):
 	translator = MockAzureTranslator(lang)
 	
-	'''key = os.getenv("AZURE_KEY_1") 
+	key = os.getenv("AZURE_KEY_1") 
 	endpoint = os.getenv("AZURE_ENDPOINT") 
 	region = os.getenv("AZURE_REGION")
 
@@ -43,21 +36,19 @@ def translate_text(alerts, lang, out_dir):
 		'X-ClientTraceId':str(uuid.uuid4()),
 		'Ocp-Apim-Subscription-Key':key,
 		'Ocp-Apim-Subscription-Region': region #need to check this, otherwise optional
-	}'''
+	}
 
 	lang_dir = os.path.join(out_dir, lang)
 	os.makedirs(lang_dir, exist_ok=True)
 
 	for file, content in alerts:
-		translated_text = translator.translate(content)
-		
-		'''body =[{'text': content}] 
+		body =[{'text': content}] 
 		request = requests.post(constructed_url, params=params, headers=headers, json=body)
-		response=request.json()'''
+		response=request.json()
 
 		out_path = os.path.join(lang_dir, file)
 		with open(out_path, "w", encoding="utf-8") as outFile:
-			#outFile.write(response[0]['translations'][0]['text'])
+			outFile.write(response[0]['translations'][0]['text'])
 			outFile.write(translated_text)
 		print(f"Translated {file} to {lang}")
 
