@@ -5,7 +5,8 @@ from bert_score import score as bert_score
 
 providers = ["azure", "googlecloud"]
 langs = ["es", "vi", "ko", "km", "so"]
-base_dir = os.path.dirname(os.path.abspath(__file__))
+alert_path = "evaluation/combined_alerts.txt"
+output_path = "evaluation/backward_eval_results.txt"
 
 comet_model_path = download_model("Unbabel/wmt22-comet-da")
 comet_model = load_from_checkpoint(comet_model_path)
