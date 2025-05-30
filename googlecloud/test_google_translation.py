@@ -1,14 +1,9 @@
-#from google.cloud import translate_v2 as translate
-from unittest.mock import MagicMock
+from google.cloud import translate_v2 as translate
 import os
 
-class MockTranslateClient:
-	def translate(self, text, target_language, source_language="en"):
-		return {'translatedText': f"[{target_language} translation of]: {text}"}
-
 translation_langs = ["es", "vi", "ko", "km", "so"]
-input_dir = "../data"
-output_dir = "forward_translations"
+input_dir = "../test_data"
+output_dir = "test_forward_translations"
 
 def load_alerts(data_dir):
   	alerts = []
@@ -22,8 +17,7 @@ def load_alerts(data_dir):
 	return alerts
 
 def translate_text(alerts, lang, out_dir):
-	#translate_client = translate.Client()
-	translate_client = MockTranslateClient()
+	translate_client = translate.Client()
 	lang_dir = os.path.join(out_dir, lang)
 	os.makedirs(lang_dir, exist_ok=True)
 
@@ -35,7 +29,7 @@ def translate_text(alerts, lang, out_dir):
         	print(f"Translated {file} to {lang}")
 
 def main():
-	#os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
 	alerts = load_alerts(input_dir)
 
 	for lang in translation_langs:
