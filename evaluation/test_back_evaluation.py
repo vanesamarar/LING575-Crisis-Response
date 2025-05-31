@@ -7,6 +7,7 @@ providers = ["azure", "googlecloud"]
 langs = ["es", "vi", "ko", "km", "so"]
 alert_path = "evaluation/combined_alerts.txt"
 output_path = "evaluation/backward_eval_results.txt"
+base_dir = os.path.dirname(os.path.abspath(__file__)) #might fix path issue?
 
 comet_model_path = download_model("Unbabel/wmt22-comet-da")
 comet_model = load_from_checkpoint(comet_model_path)
@@ -43,7 +44,7 @@ def evaluate_backtranslations(refs, bts):
     return comet_avg, bleu, bert_avg
     
 def main():
-    ref_lines = load_combined_alerts(provider)
+    ref_lines = load_combined_alerts()
     output_path = os.path.join(base_dir, "backward_eval_results.txt")
 
     with open(output_path, "w", encoding="utf-8") as out_f:
@@ -60,7 +61,7 @@ def main():
                 with open(combined_bt_path, "w", encoding="utf-8") as f:
                     f.write("\n".join(bt_lines) + "\n")
                     
-                comet_avg, bleu, bert = evaluate_backtranslation(ref_lines, bt_lines)
+                comet_avg, bleu, bert = evaluate_backtranslations(ref_lines, bt_lines)
                 if comet_avg is None:
                     out_f.write(f"{provider}\t{lang}\tError\tError\tError\n")
                 else:
