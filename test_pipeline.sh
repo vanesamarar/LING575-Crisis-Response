@@ -1,6 +1,8 @@
 #!/bin/bash
 
 set -e
+start_time=$(date +%s)
+
 echo "Starting pipeline..."
 
 echo "Running Azure forward translation..."
@@ -21,4 +23,7 @@ python3 googlecloud/test_google_backtranslation.py
 echo "Running backward evaluation..."
 python3 evaluation/test_back_evaluation.py
 
-echo "Pipeline ran successfully."
+end_time=$(date +%s)
+elapsed=$(( end_time - start_time ))
+
+echo "Pipeline ran successfully in $elapsed seconds."
