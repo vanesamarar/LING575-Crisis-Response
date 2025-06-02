@@ -2,15 +2,11 @@ import os
 import requests, uuid, json
 from dotenv import load_dotenv
 
-#do i need to import json.....?
+translation_langs = ["es", "vi", "ko", "km", "so"]
+input_dir = "data"
+output_dir = "azure/forward_translations"
 
-#copied from google cloud translation
-
-#add key and endpoint -- put key and endpoint in .env file
-#key = my api key is listed in my azure portal
- #not sure this is correct..... azure doesnt list my endpoints
 def load_alerts(data_dir):
-#load txt files and their contents from data directory and store as list
 	alerts = []
 	for root, _, files in os.walk(data_dir):
 		for file in files:
@@ -21,57 +17,53 @@ def load_alerts(data_dir):
 				alerts.append((file, content))
 	return alerts
 
-def translate_text(alerts, lang):
-	#initialize translation client
-	key=os.getenv("AZURE_KEY_1") #need to add key and hide .env file
-	endpoint=os.getenv("AZURE_ENDPOINT") #need to add endpoint url
+def translate_text(alerts, lang, out_dir):
+	key = os.getenv("AZURE_KEY_1") 
+	endpoint = os.getenv("AZURE_ENDPOINT") 
+	region = os.getenv("AZURE_REGION")
+	assert key and endpoint and region, "Missing Azure environment variables."
 
-	#dont think we need to specify location
-
-	path='/translate'
-	constructed_url=endpoint +path
-	params={
+	path = '/translate'
+	constructed_url = endpoint + path
+	params = {
 		'api-version':'3.0',
 		'from':'en',
 		'to':lang
 	}
-	headers={
+	headers = {
 		'Content-type':'application/json',
 		'X-ClientTraceId':str(uuid.uuid4()),
 		'Ocp-Apim-Subscription-Key':key,
-		'Ocp-Apim-Subscription-Region':'westus2' #need to check this, otherwise optional
+		'Ocp-Apim-Subscription-Region': region #need to check this, otherwise optional
 	}
 
-	for k, value in alerts.items():
-		#create new file for each translated file, using category key and lang c 
-		with open(f"{k}_{lang}.txt", "w") as outFile: 
-			body =[{'text': value}]
-			#make request to azure translation service   
-			request = requests.post(constructed_url, params=params, headers=headers, json=body)
-			response=request.json()
-			#print(json.dumps(response, sort_keys=True, ensure_ascii=False, indent=4, separators=(',', ':')))
+	lang_dir = os.path.join(out_dir, lang)
+	os.makedirs(lang_dir, exist_ok=True)
 
-			#parse response
-			#response as a list of dictionaries
-			outFile.write(response[0]['translations'][0]['text'])
-		outFile.close()
+	for file, content in alerts:
+		body =[{'text': content}] 
+		request = requests.post(constructed_url, params=params, headers=headers, json=body)
+		response=request.json()
+		if "error" in response:
+			print(f"Error translating {file} to {lang}: {response['error']}")
+			continue
+		translated_text = response[0]['translations'][0]['text']
+
+		out_path = os.path.join(lang_dir, file)
+		with open(out_path, "w", encoding="utf-8") as outFile:
+			outFile.write(translated_text)
+		print(f"Translated {file} to {lang}")
 
 def main():
-	load_dotenv() #load env variables form .env file -- explain in readme
-	
-	alerts=load_alerts("data")
-	
-	#translate to target languages:
-	translate_text(alerts, "es")	#Spanish translation
-	translate_text(alerts, "vi")	#Vietnamese translation
-	translate_text(alerts, "ko")	#Korean translation	
-	translate_text(alerts, "km")	#Khmer translation
-	translate_text(alerts, "so")	#Somali translation
+	load_dotenv()
+
+	print("AZURE_KEY_1:", os.getenv("AZURE_KEY_1"))
+	print("AZURE_ENDPOINT:", os.getenv("AZURE_ENDPOINT"))
+	print("AZURE_REGION:", os.getenv("AZURE_REGION"))
+ 
+	alerts=load_alerts(input_dir)
+	for lang in translation_langs:
+		translate_text(alerts, lang, output_dir)
 if __name__ == "__main__":
 	main()
-
-   #.env files create file .env hide this file and put keys in here - put in main
-   # define keys key =""
-   # from dotenv import load_dotenv
-   #  key=os.getenv("AZURE_TRANSLATE_KEY")
    
