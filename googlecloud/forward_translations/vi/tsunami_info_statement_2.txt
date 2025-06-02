@@ -1,0 +1,79 @@
+ZCZC
+WEPA42 PHEB 291501
+TIBPAC
+
+BẢN TIN THÔNG TIN VỀ SÓNG THẦN SỐ 1
+TRUNG TÂM CẢNH BÁO SÓNG THẦN NWS THÁI BÌNH DƯƠNG HONOLULU HI
+1501 UTC TUE 29 THÁNG 4 NĂM 2025
+
+...TUYÊN BỐ THÔNG TIN VỀ SÓNG THẦN PTWC...
+
+
+**** THÔNG BÁO **** THÔNG BÁO **** THÔNG BÁO **** THÔNG BÁO **** THÔNG BÁO *****
+
+ TUYÊN BỐ NÀY ĐƯỢC PHÁT HÀNH CHỈ ĐỂ CUNG CẤP THÔNG TIN HỖ TRỢ
+ UNESCO/IOC HỆ THỐNG CẢNH BÁO VÀ GIẢM THIỂU SÓT THÁI BÌNH DƯƠNG VÀ IS
+ DÀNH CHO CÁC CƠ QUAN QUỐC GIA Ở MỖI QUỐC GIA CỦA HỆ THỐNG ĐÓ.
+
+ CÁC CHÍNH QUYỀN QUỐC GIA SẼ XÁC ĐỊNH MỨC ĐỘ PHÙ HỢP
+ CẢNH BÁO CHO MỖI QUỐC GIA VÀ CÓ THỂ PHÁT HÀNH BỔ SUNG HOẶC TINH TẾ HƠN
+ THÔNG TIN.
+
+**** THÔNG BÁO **** THÔNG BÁO **** THÔNG BÁO **** THÔNG BÁO **** THÔNG BÁO *****
+
+
+THÔNG SỐ ĐỘNG ĐẤT SƠ BỘ
+---------------------------------
+
+  * ĐỘ LỚN 6.8
+  * THỜI GIAN GỐC 1454 UTC NGÀY 29 THÁNG 4 NĂM 2025
+  * TỌA ĐỘ 54,3 NAM 155,6 ĐÔNG
+  * ĐỘ SÂU 10 KM / 6 DẶM
+  * VỊ TRÍ KHU VỰC ĐẢO MACQUARIE
+
+
+SỰ ĐÁNH GIÁ
+----------
+
+  * MỘT TRẬN ĐỘNG ĐẤT CÓ ĐỘNG CƠ BAN ĐẦU LÀ 6,8 ĐÃ XẢY RA Ở
+    KHU VỰC QUẦN ĐẢO MACQUARIE VÀO LÚC 1454 UTC VÀO THỨ BA NGÀY 29 THÁNG 4
+    2025.
+
+  * DỰA TRÊN TẤT CẢ DỮ LIỆU CÓ SẴN... KHÔNG CÓ MỐI ĐE DỌA SÓNG THẦN
+    TỪ TRẬN ĐẤT NÀY.
+
+
+HÀNH ĐỘNG ĐƯỢC ĐỀ XUẤT
+-------------------
+
+  * KHÔNG CẦN HÀNH ĐỘNG.
+
+
+CẬP NHẬT TIẾP THEO VÀ THÔNG TIN BỔ SUNG
+--------------------------------------
+
+  * ĐÂY SẼ LÀ THÔNG BÁO DUY NHẤT ĐƯỢC PHÁT HÀNH CHO SỰ KIỆN NÀY TRỪ KHI
+    DỮ LIỆU BỔ SUNG ĐƯỢC NHẬN HOẶC TÌNH HÌNH THAY ĐỔI.
+
+  * THÔNG TIN CHÍNH THỨC VỀ ĐỘNG ĐẤT TỪ HOA KỲ
+    KHẢO SÁT ĐỊA CHẤT CÓ THỂ ĐƯỢC TÌM THẤY TRÊN INTERNET TẠI
+    ĐỘNG ĐẤT.USGS.GOV.
+
+  * THÔNG TIN THÊM VỀ SỰ KIỆN NÀY CÓ THỂ TÌM THẤY TẠI
+    WWW.TSUNAMI.GOV.
+
+  * CÁC KHU VỰC VEN BIỂN CỦA HAWAII... SAMOA CỦA MỸ... GUAM... VÀ
+    CNMI NÊN THAM KHẢO CÁC TIN NHẮN CỦA TRUNG TÂM CẢNH BÁO SÓNG THẦN THÁI BÌNH DƯƠNG
+    CỤ THỂ CHO NHỮNG ĐỊA ĐIỂM CÓ THỂ TÌM THẤY TẠI
+    WWW.TSUNAMI.GOV.
+
+  * KHU VỰC VEN BIỂN CỦA CALIFORNIA... OREGON... WASHINGTON...
+    BRITISH COLUMBIA VÀ ALASKA CHỈ NÊN ĐỀ CẬP ĐẾN CHÚNG TA
+    TRUNG TÂM CẢNH BÁO SÓNG THẦN QUỐC GIA TIN NHẮN CÓ THỂ TÌM THẤY
+    TẠI WWW.TSUNAMI.GOV.
+
+$$
+
+
+
+NNNN

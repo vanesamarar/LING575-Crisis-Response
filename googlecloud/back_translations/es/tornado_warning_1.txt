@@ -1,0 +1,52 @@
+/O.NEW.KEWX.TO.W.0005.250501T2238Z-250501T2330Z/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Austin/San Antonio TX
+5:38 PM CDT, Thursday, May 1, 2025
+
+The National Weather Service in Austin San Antonio has issued a
+
+* Tornado warning for...
+  Northwest Williamson County in south-central Texas...
+  Northeast Burnet County in south-central Texas...
+
+*Until 6:30 pm CDT.
+
+* At 5:38 pm CDT, a severe thunderstorm capable of producing a tornado.
+  It was located about Briggs, or 11 miles northeast of Bertram, moving
+  southbound at 5 mph.
+
+  DANGER...Tornado and hail the size of ping pong balls.
+
+  SOURCE...The radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those without it. 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur. Tree 
+           Damage is likely to occur.
+
+* Affected locations include...
+  Bertram, Joppa, Mahomet, Andice and Briggs.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+TAKE COVER NOW! Move to a basement or an interior room on the lowest level.
+Floor of a sturdy building. Avoid windows. If you are outdoors, in a
+In a mobile home or vehicle, move to the nearest solid shelter.
+and protect yourself from flying debris.
+
+With this storm, torrential rains are produced that can cause
+Flash floods. Do not drive your vehicle on flooded roads.
+
+&&
+
+LAT...LON 3070 9778 3070 9810 3092 9804 3092 9783
+TIME...MOT...LOC 2238Z 359DEG 6KT 3087 9795 
+
+TORNADO...RADAR INDICATED
+MAXIMUM HAIL SIZE...1.50 INCHES
+
+$$
+
+Brady

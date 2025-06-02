@@ -1,0 +1,48 @@
+Emergency - Fire Weather Message
+National Weather Service El Paso Tx/Santa Teresa NM
+Thursday, May 1, 2025 1:40 AM MDT
+
+...severe fire conditions are expected across southwestern New York.
+Sunday in Mexico...
+
+.An upper-level low-pressure system will approach the area.
+On Sunday the wind will blow from the west and during the day the wind will strengthen from the south.
+Southwest. Sustained winds of 20 to 30 miles per hour will be present.
+The minimum relative humidity is about 10%, which creates the critical humidity.
+Fire Hazard. Extremely dry fuel can cause fire to spread.
+fast.
+
+NMZ111-012145-
+/O.NEW.KEPZ.FW.A.0019.250504T1800Z-250505T0300Z/
+Southwest Desert and Lowlands/Las Cruces BLM/GLZ-
+Thursday, May 1, 2025 1:40 AM MDT
+
+...a fire alarm will be in effect starting Sunday afternoon.
+Sunday evening will be windy, with low relative humidity and
+Critical fuel shortages in southwestern New Mexico...
+
+* Affected areas...Fire Weather Zone 111 Southwestern Desert and 
+  Lowcountry/Las Cruces BLM/GLZ. 
+
+* Hours...Sunday noon to 9pm.
+
+* Wind...Southwest 20-30 mph, gusts up to 45 mph.
+
+* Relative humidity...minimum 8%.
+
+* Experimental RFTI...5~6, important.
+
+* IMPACT...Any fire that occurs is likely to spread rapidly. 
+  Burning outdoors is not recommended.
+
+Preventive/Preventive Measures...
+
+A fire weather watch indicates significant fire weather conditions.
+It is expected to occur. The forecast and possible
+Danger signal warning.
+
+&&
+
+$$
+
+Aaronson

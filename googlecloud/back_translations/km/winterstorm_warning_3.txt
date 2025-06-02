@@ -1,0 +1,89 @@
+WWUS43 KDTX 152010
+WSWDTX
+
+Urgent - Winter Weather Message
+National Weather Service Detroit/Pontiac MI
+310 PM EST Saturday, February 15, 2025
+
+MIZ049-055-063-070-076-083-160915-
+/O.CAN.KDTX.WW.Y.0006.000000T0000Z-250216T0000Z/
+/O.UPG.KDTX.WS.A.0002.250216T0000Z-250217T0000Z/
+/O.NEW.KDTX.WS.W.0002.250216T0500Z-250216T2100Z/
+Huron-Sanilac-St. Clair-Macomb-Wayne-Monroe-
+Including the cities of Bad Axe, Detroit, Warren, Port Huron,
+Sandusky and Monroe
+310 PM EST Saturday, February 15, 2025
+
+...Winter Storm Warning from midnight tonight until 4pm EST 
+Sunday...
+
+* What ... Heavy snowfall is expected. Total snow accumulation between 5 and 
+  7 inches. Winds gusting to 35 mph on Sunday, which could 
+  Leads to blowing and drifting of snow.
+
+*Where... Monroe, Wayne, Macomb, St. Clair, Sanilac, and Huron 
+  County.
+
+* When... From midnight to 4pm EST Sunday.
+
+* Impacts... Roads, especially bridges and overpasses 
+  It will likely become slippery and dangerous. Travel will be difficult.
+
+* More details... Pockets of light snow and freezing rain 
+  Looking around this evening, that might lead to some localization. 
+  Slippery spots on the road. However, the main bundle is heavier. 
+  Big snow will arrive after midnight.
+
+Preventive/preparatory actions...
+
+People should postpone all travel if possible. If travel is really 
+It is necessary to drive with extreme caution and be prepared immediately. 
+Visibility changes. Leave plenty of room between you and 
+The driver is ahead of you and allows extra time to reach you. 
+Goal: Avoid sudden braking or acceleration, and especially 
+Be careful on hills or when turning. Make sure your car. 
+winterized and in good working order.
+
+&&
+
+$$
+
+MIZ047-048-053-054-060> 062-068-069-075-082-160915-
+/O.CAN.KDTX.WW.Y.0006.000000T0000Z-250216T0000Z/
+/O.UPG.KDTX.WS.A.0002.250216T0000Z-250217T0000Z/
+/O.NEW.KDTX.WW.Y.0007.250216T0500Z-250216T2100Z/
+Midland-Bay-Saginaw-Tuscola-Shiawassee-Genesee-Lapeer-Livingston-
+Oakland-Washtenaw-Lenawee-
+Including the cities of Flint, Owosso, Midland, Ann Arbor,
+Lapeer, Pontiac, Adrian, Howell, Caro, Saginaw and Bay City
+310 PM EST Saturday, February 15, 2025
+
+...Winter Weather Advisory from midnight tonight until 4 p.m. 
+EST Sunday...
+
+* What... snow. Total snow accumulation between 3 and 6 inches. 
+  Winds gusting up to 35 miles per hour on Sunday could lead to 
+  Blowing and drifting of snow.
+
+* Places...most of southeastern Michigan.
+
+* When... From midnight to 4pm EST Sunday.
+
+* Impact... Plan for snow-covered and slippery road conditions, with 
+  Reduce visibility.
+
+* More details... Pockets of light snow and freezing rain 
+  Looking around this evening, that might lead to some localization. 
+  Slippery spots on the road. However, the main bundle of the spread 
+  The snow will arrive after midnight.
+
+Preventive/preparatory actions...
+
+Slow down and use caution when traveling. You can get the latest. 
+Road conditions from MDOT Michigan Drive map.
+
+&&
+
+$$
+
+SF

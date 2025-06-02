@@ -41,7 +41,7 @@ def translate_text(alerts, lang, out_dir):
 
 def main():
 	load_dotenv()
-	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS_1")
 	alerts = load_alerts(input_dir)
 
 	for lang in translation_langs:

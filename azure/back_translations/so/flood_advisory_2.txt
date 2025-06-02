@@ -1,0 +1,26 @@
+Flood Advisory
+National Weather Service Austin/San Antonio TX
+915 PM CDT Apr 20 2025
+
+EESXP013-010225-
+/O.EXP. KAWX.FA. Y.0005.000000T0000Z-250501T0215Z/
+/000000Z. OO.000000T0000Z.000000T0000Z.000000Z.000000Z.OO
+Tascosa TX-
+915 PM CDT Apr 20 2025
+
+... FLOOD ADVISORY IS DOWN...
+
+Flood Advisory happened in part of south central Texas, 
+including the following locality, Atascosa.
+
+The torrential rain is over. Flooding is now expected to result in a 
+threat. Please continue to heed the remaining road closures.
+
+&&
+
+LAT... LON 2888 9888 9823 9823 2884 9855 2893 9858
+      2896 9827 2893 9823
+
+$$
+
+OB

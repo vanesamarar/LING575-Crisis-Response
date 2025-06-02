@@ -1,0 +1,52 @@
+/O.NUEVO.KEWX.TO.W.0005.250501T2238Z-250501T2330Z/
+
+BOLETÍN - SE SOLICITA ACTIVACIÓN DE EAS
+Advertencia de tornado
+Servicio Meteorológico Nacional Austin/San Antonio TX
+17:38 CDT, jueves 1 de mayo de 2025
+
+El Servicio Meteorológico Nacional en Austin San Antonio ha emitido un
+
+* Advertencia de tornado para...
+  El noroeste del condado de Williamson en el centro sur de Texas...
+  Noreste del condado de Burnet en el centro sur de Texas...
+
+*Hasta las 6:30 p.m. CDT.
+
+* A las 5:38 p.m. CDT, una tormenta eléctrica severa capaz de producir un tornado.
+  Estaba ubicado sobre Briggs, o 11 millas al noreste de Bertram, moviéndose
+  hacia el sur a 5 mph.
+
+  PELIGRO...Tornado y granizo del tamaño de pelotas de ping pong.
+
+  FUENTE...El radar indicó rotación.
+
+  IMPACTO...Los escombros que salen volando serán peligrosos para quienes se encuentren sin ellos. 
+           refugio. Las casas móviles se dañarán o destruirán. 
+           Se producirán daños en techos, ventanas y vehículos. Árbol 
+           Es probable que se produzcan daños.
+
+* Las ubicaciones afectadas incluyen...
+  Bertram, Joppa, Mahomet, Andice y Briggs.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+¡CÚBRETE AHORA! Muévete a un sótano o a una habitación interior en el nivel más bajo.
+Piso de un edificio robusto. Evite las ventanas. Si está al aire libre, en un
+En una casa móvil o en un vehículo, muévase al refugio sólido más cercano.
+y protéjase de los escombros que vuelan.
+
+Con esta tormenta se producen lluvias torrenciales que pueden provocar
+Inundaciones repentinas. No conduzca su vehículo por carreteras inundadas.
+
+&&
+
+LAT...LON 3070 9778 3070 9810 3092 9804 3092 9783
+TIEMPO...MOT...LOC 2238Z 359DEG 6KT 3087 9795 
+
+TORNADO...RADAR INDICADO
+TAMAÑO MÁXIMO DEL GRANIZO...1,50 PULGADAS
+
+$$
+
+Brady

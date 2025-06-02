@@ -1,0 +1,192 @@
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC Human Rights
+ 
+BULLETIN
+Hurricane Helene Advisory Number 15
+NWS National Hurricane Center Miami, FL AL092024
+1100 PM EDT Thu 26 Sep 2024
+ 
+... HURRICANE HELENE IS VERY CLOSE TO MAKING LANDFALL IN FLORIDA
+FOLD...
+... ACCOMPANIED BY A CATASTROPHIC AND POTENTIALLY DEADLY STORM SURGE
+WINDS...
+ 
+1100 PM EDT SUMMARY... 0300 UTC... INFORMATION
+-----------------------------------------------
+LOCATION... 29.9N 83.9W
+ABOUT 75 MILES AWAY... 120 KM NORTHWEST OF CEDAR KEY, FLORIDA
+ABOUT 40 MILES... 70 KM SE OF TALLAHASSEE, FLORIDA
+MAXIMUM SUSTAINED WINDS... 140 MPH... 220 km/h
+PRESENT MOVEMENT... NNE OR 15 DEGREES AT 24 MPH... 39 KM/H
+MINIMUM CENTRAL PRESSURE... 938 MB... 27.70 INCHES
+ 
+CLOCKS AND WARNINGS
+--------------------
+CHANGES WITH THIS NOTICE:
+ 
+None
+ 
+SUMMARY OF CURRENT ALERTS AND WARNINGS:
+ 
+A storm surge warning is in effect for...
+* Playa Mexico to the east and south to Flamingo
+* Tampa Bay
+* Port of Charlotte
+ 
+A Hurricane Warning is in effect for...
+* Anclote River to Mexico Beach
+ 
+A hurricane watch is in effect for...
+* From Englewood to the Anclote River, including Tampa Bay
+ 
+A Tropical Storm Warning is in effect for...
+* Florida Keys, including Dry Tortugas
+* Flamingo to the Anclote River, including Tampa Bay
+* West of Mexico Beach to the Okaloosa/Walton County line
+* Flamingo north to Little River Inlet
+* Lake Okeechobee
+ 
+A storm surge warning means there is a life-threatening hazard
+flooding, due to the increase in water moving inland from the coast. For
+a representation of at-risk areas, see the National Climate
+Service Storm Surge/Warning Chart, available at
+hurricanes.gov.  This is a life-threatening situation.  People
+located within these areas must take all necessary measures to
+protect life and property from rising water and the possibility of
+other dangerous conditions.  Immediate follow-up of evacuation and others
+instructions from local officials.
+ 
+A hurricane warning means hurricane conditions are expected
+somewhere within the warning area.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+It is expected to be somewhere within the warning area.
+ 
+A hurricane watch means hurricane conditions are possible
+within the surveillance area.
+ 
+For storm information specific to your area in the United States
+States, including possible indoor watches and warnings, please
+monitoring products issued by the local National Weather Service
+Forecasting Office. For storm information specific to your area
+outside the United States, check products issued by
+its National Meteorological Service.
+ 
+DISCUSSION AND PERSPECTIVES
+----------------------
+At 1100 PM EDT (0300 UTC), the center of Hurricane Helene was
+located near latitude 29.9 North, longitude 83.9 West. Helene is
+moving north-northeast near 24 mph (39 km/h).  One shift
+to the north is expected during the night, occupying the center
+Georgia.  The center of the hurricane should make landfall
+very soon in the Big Bend region of Florida.  After touching land,
+Helene is expected to turn to the northwest and slow down over the
+Tennessee Valley on Friday and Saturday.
+ 
+Maximum sustained winds are near 140 mph (220 km/h) with higher winds
+Bursts.  Helene is an extremely dangerous Category 4 hurricane 
+the Saffir-Simpson hurricane-force wind scale.  Weakening expected 
+after Helene moves inland, but the rapid forward speed will allow 
+strong and damaging winds, especially in gusts, to penetrate well 
+across the southeastern United States, including over the 
+higher ground in southern Appalachia.
+ 
+Hurricane-force winds extend up to 60 miles (95 km) from the
+Center, tropical-storm-force winds extend outward up to 310 miles
+(500 km).  A sustained wind of 64 mph (103 km/h) with gusts of up to 84 mph 
+A speed of 135 km/h was recently reported in Cedar Key, Florida.   One 
+A gust of 83 mph (134 km/h) was recently reported in Steinhatchee, 
+Florida.
+ 
+The estimated minimum central pressure based on Hurricane Hunter 
+Aircraft Observations is 938 MB (27.70 inches).
+
+A NOAA National Ocean Service tide gauge located in Cedar Key 
+A water level of 7.33 feet above the highest mean level was recently reported 
+Water.
+ 
+HAZARDS AFFECTING THE EARTH
+----------------------
+Key messages for Helene can be found in the Tropical Cyclone
+Discussion regarding the WMO MIATCDAT4 AWIPS heading and the WTNT44 KNHC heading
+and on the web in hurricanes.gov/text/MIATCDAT4.shtml
+ 
+STORM SURGE: The combination of a life-threatening storm surge and
+The tide will cause normally dry areas near the coast to flood
+due to the increase in the waters that move inland from the coast.  Water could
+reach the following heights above the ground somewhere in the
+areas if the peak of the swell occurs at the time of high tide...
+ 
+Carrabelle, FL to Suwannee River, FL... 15-20 feet
+Apalachicola, FL to Carrabelle, FL... 10-15 feet
+Suwannee River, FL to Chassahowitzka, FL... 10-15 feet
+Chassahowitzka, FL to Anclote River, FL... 8-12 feet
+Indian Pass, FL to Apalachicola, FL... 6-10 feet
+Anclote River, FL in the middle of Longboat Key, FL... 5-8 feet
+Tampa Bay... 5-8 feet
+Middle of Longboat Key, FL to Englewood, FL... 4-7 feet
+East of Mexico Beach, FL to Indian Pass, FL... 3-5 feet
+Englewood, FL to Flamingo, FL... 3-5 feet
+Port of Charlotte... 3-5 feet
+ 
+The deepest waters will occur along the immediate coast near and to
+east of the place where it made landfall, where the swell will occur.
+accompanied by large and dangerous waves.  Flooding related to storm surges
+it depends on the relative timing of the swell and the tidal cycle,
+and it can vary greatly over short distances.  For information
+specific to your area, please refer to the products issued by your
+National Weather Service Forecast Office.
+ 
+For a full description of areas at risk of storm surge flooding,
+check the National Weather Service's maximum storm surge graph,
+Available in hurricanes.gov/graphics_at4.shtml?peakSurge.
+ 
+WIND: Hurricane conditions are occurring within the hurricane
+Warning zone.  When the eye passes by, people are reminded not to
+Venture into the relative calm, as dangerous winds will increase
+very quickly when the eye passes.  Tropical storm conditions are
+that occur in South and Central Florida, and these conditions
+continue to spread northward through tropical storm warning
+areas in the southeastern U.S. through early Friday morning.  Strong
+Damaging winds, especially in gusts, are likely to penetrate up to
+inland as the highest terrain in southern Appalachia.
+ 
+PRECIPITATION: Over portions of southeastern U.S. to the south
+Appalachia, Helene is expected to produce total rainfall accumulations
+6 to 12 inches, with isolated totals around 20 inches. This
+The rains are likely to cause catastrophic and potentially
+life-threatening flash and urban flooding, along with significant
+river floods. Numerous major landslides are expected in
+rugged terrain across southern Appalachia.
+ 
+For a complete description of the forecasted rainfall associated with
+Hurricane Helene, please see the storm from the National Weather Service
+Graph of total rainfall, available at
+hurricanes.gov/graphics_at4.shtml?rainqpf and the risk of flash floods
+Graph in hurricanes.gov/graphics_at4.shtml?ero.
+ 
+For a list of associated rainfall observations (and wind reports)
+This storm, see the companion storm summary in WBCSCCNS4 with the
+WMO ACUS44 KWBC Header or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc4.html.
+ 
+TORNADOES: Risk of multiple tornadoes continues tonight
+early Friday morning over parts of northern/central Florida, Georgia,
+South Carolina and southern North Carolina. The risk of tornadoes
+persist Friday in the Carolinas and southern Virginia.
+ 
+SWELL: Swells generated by Helene will affect much of Florida and
+the coasts of Georgia and the Carolinas over the next two years
+Days.  These waves are likely to cause life-threatening swell and
+rip current conditions.  Please check the products of your store
+Meteorological Office.
+ 
+NEXT NOTICE
+-------------
+Next interim notice at 200 AM EDT.
+Next full notice at 500 AM EDT.
+ 
+$$
+Forecaster Pasch
+ 
+NNNNN

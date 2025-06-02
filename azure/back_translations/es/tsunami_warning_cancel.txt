@@ -1,0 +1,56 @@
+WEXX30 PAAQ 081842
+TSUATE
+
+BULLETIN
+Public Message Number 3 on the Tsunami
+NWS National Tsunami Warning Center, Palmer, AK
+242 PM EDT FRI Jul 8, 2016
+
+... TSUNAMI WARNING CANCELED...
+
+* TSUNAMI WARNING FOR COASTAL AREAS OF
+   SOUTH CAROLINA - NORTH CAROLINA AND VIRGINIA
+
+OBSERVATIONS OF TSUNAMI ACTIVITY - UPDATED
+------------------------------------------
+ * The maximum observed height of the tsunami is the highest recorded water level
+   above the tide level as of the time of this message.
+
+OBSERVED TIME MAX.
+ TSUNAMI HEIGHT MEASUREMENT SITE
+ ---------------------------- ----------------       --------------
+ Hatteras, North Carolina, 1537 EDT, JULY 8, 0.9ft
+ Oregon Inlet NC 1554 EDT JUL 8 1.7ft
+ Beaufort, North Carolina, 1529 EDT JUL 8, 4.4ft
+
+RECOMMENDED ACTIONS - UPDATED
+-----------------------------
+ * Do not reoccupy danger zones until local emergency authorities
+   Indicate that it is safe to do so.
+
+IMPACTS - UPDATED
+-----------------
+ * Tsunami activity has decreased along the coasts of Puerto Rico.
+   The U.S. Virgin Islands, British Virgin Islands, and U.S. Virgin Islands
+   Canadian coasts in the Atlantic.
+
+* Ongoing activity may persist in some areas causing strong
+   Dangerous currents for bathers and boats.
+
+* The determination to reoccupy the risk areas must be made by
+   local officials.
+
+ADDITIONAL INFORMATION AND UPCOMING UPDATE
+--------------------------------------
+ * See the ntwc.arh.noaa.gov website for more information.
+   information.
+
+* Caribbean coastal regions outside of Puerto Rico, U.S. Virgin
+   The British Virgin Islands should refer to the Pacific
+   Messages from the Tsunami Warning Center in ptwc.weather.gov.
+
+* This will be the last U.S. National Tsunami Warning Center.
+   message issued for this event.
+
+$$
+

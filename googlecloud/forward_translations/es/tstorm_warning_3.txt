@@ -1,0 +1,55 @@
+/O.NUEVO.KPAH.SV.W.0215.250502T1754Z-250502T1845Z/
+
+BOLETÍN - SE SOLICITA TRANSMISIÓN INMEDIATA
+Advertencia de tormenta eléctrica severa
+Servicio Meteorológico Nacional Paducah KY
+12:54 PM CDT Viernes 2 de mayo de 2025
+
+El Servicio Meteorológico Nacional de Paducah ha emitido un
+
+* Advertencia de tormenta eléctrica severa para...
+  El condado de Daviess en el noroeste de Kentucky...
+  Este del condado de McLean en el noroeste de Kentucky...
+
+*Hasta las 14:45 CDT.
+
+* A las 12:54 PM CDT, se localizaron tormentas eléctricas severas a lo largo de una línea
+  extendiéndose desde cerca de Beech Grove hasta cerca de Central City, moviéndose
+  al noreste a 30 mph.
+
+  PELIGRO...ráfagas de viento de 60 mph y granizo del tamaño de una moneda de cinco centavos.
+
+  FUENTE...Indicado por radar.
+
+  IMPACTO...Espere daños en techos, revestimientos y árboles.
+
+* Las ubicaciones afectadas incluyen...
+  Owensboro, Calhoun, Livermore, Whitesville, Masonville,
+  Knottsville, St. Joseph, Island y Moseleyville.
+
+Esto incluye las siguientes carreteras...
+ Interestatal 165 entre los marcadores de millas 60 y 70.
+ Audubon Parkway cerca del marcador de milla 23.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+Para su protección, muévase a una habitación interior en el piso más bajo de un
+edificio.
+
+&&
+
+LAT...LON 3762 8692 3763 8695 3755 8705 3747 8711
+      3748 8713 3745 8710 3741 8711 3769 8739
+      3779 8712 3778 8710 3781 8707 3786 8691
+      3784 8691 3783 8689 3784 8686 3779 8682
+      3774 8682 3771 8686 3767 8682
+TIEMPO...MOT...LOC 1754Z 245DEG 24KT 3765 8740 3737 8710 
+
+AMENAZA DE GRANIZO...RADAR INDICADO
+TAMAÑO MÁXIMO DEL GRANIZO...0,88 PULGADAS
+AMENAZA DE VIENTO...RADAR INDICADO
+RÁFAGA DE VIENTO MÁXIMA...60 MPH
+
+$$
+
+DW

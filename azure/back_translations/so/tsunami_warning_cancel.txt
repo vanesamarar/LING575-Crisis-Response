@@ -1,0 +1,56 @@
+WEX30 PAAQ 081842
+TSUATE
+
+NEWS
+Tsunami Public Message Number 3
+NWS Palmer AK National Tsunami Warning Center
+242 PM EDT FRI APR 8 2016
+
+... TSUNAMIGA WARNING SUSPENDED...
+
+* TSUNAMIGA WARNINGS SUSPENDED IN COASTAL AREAS
+   SOUTH CAROLINA - NORTH CAROLINA AND VIRGINIA
+
+TSUNAMI ACTIVITY MONITORING - UPDATED
+------------------------------------------
+ * The observed max tsunami height is the highest recorded water level
+   above tire levels until the time of this message.
+
+TIME SEEN MAX
+ SITE OF HEIGHT TSUNAMI MEASUREMENTS
+ ---------------------------- ----------------       --------------
+ Hatteras North Carolina 1537 EDT JUL 8 0.9ft
+ NC 1554 EDT JUL 8 1.7ft
+ North Carolina 1529 EDT JUL 8 4.4ft
+
+RECOMMENDED STEPS - UPDATED
+-----------------------------
+ * Do not retake hazardous zones until municipal emergency officials
+   say it's safe to do so.
+
+EFFECTS - UPDATED
+-----------------
+ * Tsunami activity has eased off the coast of Puerto Rico,
+   EE. U.S. Virgin Islands, British Virgin Islands, and UNITED STATES and
+   Canadian beaches on the Atlantic.
+
+* Ongoing activities may remain in some areas resulting in more strength
+   the current poses a threat to swimmers and shipboats.
+
+* The decision to retake the threatened areas must be made
+   local officials.
+
+MORE INFORMATION AND NEXT UPDATE
+--------------------------------------
+ * Refer to the ntwc.arh.noaa.gov website for more
+   information.
+
+* Caribbean coastal regions outside of Puerto Rico, U.S. Virgin
+   Islands anf British Virgin Islands should refer to the Pacific
+   Message tsunami warning center in ptwc.weather.gov.
+
+* This will be the final US National Tsunami Warning facility.
+   a message issued for this incident.
+
+$$
+

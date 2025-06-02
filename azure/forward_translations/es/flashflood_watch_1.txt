@@ -1,0 +1,85 @@
+WGUS61 KLWX 160735
+FFALWX
+
+Alerta de inundación
+Servicio Meteorológico Nacional, Baltimore, MD/Washington DC
+235 AM EST Dom, 16 de febrero de 2025
+
+. Pueden caer fuertes lluvias sobre una capa de nieve profunda que conduce al derretimiento 
+creciente. Los caudales de los ríos pueden aumentar rápidamente y alcanzar niveles críticos. 
+Niveles.
+
+VAZ025-503-504-WVZ501-502-505-506-162300-
+/O.CON. KLWX.FA. A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Augusta-Tierras Altas Occidentales-Tierras Altas Orientales-Oeste Grant-Este
+Grant-Pendleton Occidental-Pendleton Oriental-
+235 AM EST Dom, 16 de febrero de 2025
+
+... LA ALERTA DE INUNDACIÓN PERMANECE VIGENTE HASTA ESTA TARDE...
+
+*QUÉ... Las inundaciones causadas por la lluvia y el deshielo continúan siendo 
+  posible.
+
+*DÓNDE... Partes del oeste de Virginia, incluidas las siguientes 
+  Augusta y Highland y el este de Virginia Occidental, incluyendo 
+  las siguientes áreas, Grant y Pendleton.
+
+*CUANDO... Hasta esta tarde.
+
+*IMPACTOS... La escorrentía excesiva puede provocar inundaciones de ríos, 
+  arroyos, arroyos y otros lugares bajos y propensos a inundaciones.
+
+* DETALLES ADICIONALES...
+  - La combinación de 1 a 2 pulgadas de lluvia, suelo saturado,
+    Y el derretimiento de la capa de nieve reciente puede resultar en inundaciones.
+  - Visite www.weather.gov/safety/flood para seguridad en caso de inundación
+    e información sobre la preparación.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+Debe monitorear los pronósticos posteriores y estar alerta ante posibles inundaciones 
+Advertencias. Aquellos que viven en áreas propensas a inundaciones deben estar preparados 
+para tomar medidas en caso de que se desarrollen inundaciones.
+
+&&
+
+$$
+
+MDZ001-501-WVZ503-162300-
+/O.CON. KLWX.FA. A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Garrett-Extremo Occidental Allegany-Mineral del Oeste-
+235 AM EST Dom, 16 de febrero de 2025
+
+... LA ALERTA DE INUNDACIÓN PERMANECE VIGENTE HASTA ESTA TARDE...
+
+*QUÉ... Las inundaciones causadas por la lluvia y el deshielo continúan siendo 
+  posible.
+
+*DÓNDE... Partes del oeste de Maryland, incluidas las siguientes 
+  Extremo Oeste de Allegany y Garrett y Este Oeste 
+  Virginia, incluyendo la siguiente área, Western Mineral.
+
+*CUANDO... Hasta esta tarde.
+
+*IMPACTOS... La escorrentía excesiva puede provocar inundaciones de ríos, 
+  arroyos, arroyos y otros lugares bajos y propensos a inundaciones.
+
+* DETALLES ADICIONALES...
+  - La combinación de 1 a 2 pulgadas de lluvia, suelo saturado,
+    Y el derretimiento de la capa de nieve reciente puede resultar en inundaciones.
+  - Visite www.weather.gov/safety/flood para seguridad en caso de inundación
+    e información sobre la preparación.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+Debe monitorear los pronósticos posteriores y estar alerta ante posibles inundaciones 
+Advertencias. Aquellos que viven en áreas propensas a inundaciones deben estar preparados 
+para tomar medidas en caso de que se desarrollen inundaciones.
+
+&&
+
+$$
+
+DHOF

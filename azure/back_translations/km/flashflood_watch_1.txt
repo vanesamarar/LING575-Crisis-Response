@@ -1,0 +1,85 @@
+WGUS61 KLWX 160735
+FFALWX
+
+Flood Watch
+National Weather Service Baltimore MD/Washington DC
+235 AM EST Sunday February 16, 2025
+
+. Heavy rain may fall on deep snow packages leading to melting 
+increased. The flow in the river can increase rapidly and reach severe levels 
+Level.
+
+VAZ025-503-504-WVZ501-502-505-506-162300-
+/O.CON. KLWX.FA .0003.000000T0000Z-250216T2300Z /
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Augusta-Western Highland-Eastern Highland-Western Grant-Eastern
+Grant-Western Pendleton-Eastern Pendleton-
+235 AM EST Sunday February 16, 2025
+
+... Flood watches remain in effect until this afternoon...
+
+* What... Floods caused by rain and snowmelt continue to exist 
+  Possible.
+
+* Where... Parts of West Virginia, including the following 
+  Augusta and Highland areas and eastern West Virginia, including 
+  The following areas are Grant and Pendleton.
+
+* When... Through this afternoon.
+
+* Impact... Excessive overflow can cause river flooding, 
+  rivers, rivers, and other low-lying and flood-prone locations.
+
+* More details...
+  - a combination of 1 to 2 inches of rainfall, saturated soil,
+    and the recent melting of snow packages may cause flooding.
+  - Please visit www.weather.gov/safety/flood for flood safety
+    and preparatory information.
+
+Action Caution/Readiness...
+
+You should monitor the forecast later and be cautious of possible flooding. 
+Warning. 
+To take action, floods should occur.
+
+&&
+
+$$
+
+MDZ001-501-WVZ503-162300-
+/O.CON. KLWX.FA .0003.000000T0000Z-250216T2300Z /
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Garrett-Strong Western Allegany-Western Mineral-
+235 AM EST Sunday February 16, 2025
+
+... Flood watches remain in effect until this afternoon...
+
+* What... Floods caused by rain and snowmelt continue to exist 
+  Possible.
+
+* Where... Parts of western Maryland, including the following 
+  Regional, Extreme Western Allegany and Garrett and the West East 
+  Virginia, including the Western Mineral Basin.
+
+* When... Through this afternoon.
+
+* Impact... Excessive overflow can cause river flooding, 
+  rivers, rivers, and other low-lying and flood-prone locations.
+
+* More details...
+  - a combination of 1 to 2 inches of rainfall, saturated soil,
+    and the recent melting of snow packages may cause flooding.
+  - Please visit www.weather.gov/safety/flood for flood safety
+    and preparatory information.
+
+Action Caution/Readiness...
+
+You should monitor the forecast later and be cautious of possible flooding. 
+Warning. 
+To take action, floods should occur.
+
+&&
+
+$$
+
+DHOF

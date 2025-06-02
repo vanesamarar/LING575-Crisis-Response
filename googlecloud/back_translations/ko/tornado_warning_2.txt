@@ -1,0 +1,50 @@
+/O.NEW.KEWX.TO.W.0003.250501T2129Z-250501T2200Z/
+
+Bulletin Board - EAS Activation Request
+Tornado warning
+National Weather Service Austin/San Antonio TX
+Thursday, May 1, 2025 4:29 PM CDT
+
+The National Weather Service in Austin-San Antonio said:
+
+* A TORNADO WARNING has been issued.
+  Northwestern Williamson County, located in south-central Texas...
+  Northeastern Burnett County, located in south-central Texas...
+
+* Until 5pm CDT.
+
+* A tornado was confirmed near Kempner or 8 at 4:28 p.m. CDT.
+  It is moving south at 10 mph, a few miles southwest of Copperas Cove.
+
+  Danger... destructive tornadoes and golf ball sized hail.
+
+  Source... Weather observers confirmed the tornado.
+
+  Impact... Flying debris can be dangerous to those not caught. 
+           Shelters. Mobile homes can be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles may occur. Trees 
+           Damage is expected.
+
+* The affected areas are as follows:
+  Briggs and Watson.
+
+Preventive/Preventive Measures...
+
+I say it again, there's a tornado on the ground. Take cover now!
+A basement or interior room on the lowest floor of a sturdy building.
+Avoid buildings, windows, outdoors, mobile homes or
+Take your vehicle to the nearest shelter and seek protection.
+Protect yourself from flying debris.
+
+&&
+
+Latitude...Path 3091 9783 3090 9777 3086 9775 3083 9814
+      3103 9810 3103 9791
+Time...MOT...LOC 2128Z 358DEG 10KT 3102 9799 
+
+Tornado...observed
+Maximum hail size...1.75 inches
+
+$$
+
+Brady

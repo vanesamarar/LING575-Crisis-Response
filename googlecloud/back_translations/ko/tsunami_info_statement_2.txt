@@ -1,0 +1,79 @@
+ZCZC
+WEPA42 PHEB 291501
+TV Pack
+
+Tsunami Information Manual No. 1
+NWS Pacific Tsunami Warning Center Honolulu HI
+Tuesday, April 29, 2025 1501 UTC
+
+...PTWC Tsunami Information Manual...
+
+
+**** Notice **** Notice **** Notice **** Notice **** Notice **** Notice *****
+
+ This statement is issued for information purposes only.
+ UNESCO/IOC Pacific Tsunami Warning and Mitigation System and IS
+ It targets each national agency of the system.
+
+ National authorities determine the appropriate level.
+ Warnings may be issued for each country, and additional or more detailed warnings may be issued.
+ information.
+
+**** Notice **** Notice **** Notice **** Notice **** Notice **** Notice *****
+
+
+Preliminary seismic parameters
+-----------------------------------------------
+
+  * Magnitude 6.8
+  * Origin time 29 April 2025 1454 UTC
+  * Coordinates 54.3 South, 155.6 East
+  * Depth 10km / 6 miles
+  * Location Macquarie Island area
+
+
+evaluation
+----------
+
+  * An earthquake measuring 6.8 occurred.
+    Macquarie Islands area at 14:54 UTC on Tuesday, April 29
+    2025.
+
+  * Based on all available data... there is no tsunami threat.
+    From this earthquake.
+
+
+Recommended Action
+-------------------
+
+  * No action is required.
+
+
+Next Updates and Additional Information
+------------------------------------------
+
+  * This is the only statement issued regarding this event.
+    Additional data is received or circumstances change.
+
+  * Authoritative information on earthquakes originating in the United States
+    Geological surveys can be found on the Internet.
+    Earthquake.USGS.GOV.
+
+  * Additional information about this event can be found at:
+    WWW.TSUNAMI.GOV.
+
+  * Hawaiian coastal areas... American Samoa... Guam... and
+    CNMI should refer to Pacific Tsunami Warning Center messages.
+    Especially about the places you can find in:
+    WWW.TSUNAMI.GOV.
+
+  * Coastal California... Oregon... Washington...
+    British Columbia and Alaska should refer to the United States only.
+    Messages that the National Tsunami Warning Center may find
+    At WWW.TSUNAMI.GOV
+
+$$
+
+
+
+No no no

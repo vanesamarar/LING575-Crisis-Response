@@ -1,0 +1,192 @@
+ZCZC MIATCPAT4 All
+TTAA00 KNHC DDHHMM
+ 
+notice
+Hurricane Helen Advisory No. 15
+NWS National Hurricane Center, Miami, FL, AL092024
+Thursday, September 26, 2024 at 1100 p.m. EDT
+ 
+... Hurricane Helen almost made landfall in Florida.
+Bow...
+... Catastrophic storm surge and life-threatening companionship
+Wind...
+ 
+1100 p.m. EDT Recap... 0300 UTC... information
+-----------------------------------------------
+Location... 29.9N 83.9W
+About 75 miles... 120 KM NW CEDAR QUAY FL
+About 40 miles... 70 KM SE TALLAHASSEE, FL
+Winds sustained up... 140 miles per hour... 220KM/h
+The current movement... 24 degrees at NNE or 15 MPH... 39KM/H
+Minimum center pressure... 938 MB... 27.70 inches
+ 
+Surveillance and Warning
+--------------------
+Changes in this advisory:
+ 
+none
+ 
+Summary of surveillance and alerts in place:
+ 
+A Storm Surge Warning is in effect.
+* Mexican beaches east and south to flamingos
+*Tampa bay
+* Charlotte Harbor
+ 
+A hurricane warning is in effect...
+* From the Anclote River to the Mexican Beach
+ 
+Hurricane Watch is valid when:
+*Englewood to Anclote River (including Tampa Bay)
+ 
+A Tropical Storm Warning is in effect.
+* Florida Keys, including Dry Tortugas
+*From Flamingo to the Anclote River, including Tampa Bay
+* Mexico Beach west to Okaloosa/Walton County line
+* Flamingos north to Little River Inlet
+* Lake Okeechobee
+ 
+A storm surge warning means there is a life-threatening hazard.
+Flooding caused by rising water moving inland from the coastline. because
+For a description of the danger zone, see National Weather.
+Service storm surge advisory/warning graphic, available at
+hurricanes.gov.  This is a life-threatening situation.  people
+You must be located within these areas and take all necessary measures.
+Protect lives and property from rising water and possibilities.
+Other dangerous conditions.  Quickly follow evacuation and other tasks.
+Instruction from local officials.
+ 
+A hurricane warning means hurricane conditions are expected
+Somewhere within the warning area.
+ 
+A Tropical Storm Warning means that a tropical storm condition is:
+Expect it to be somewhere within the alert area.
+ 
+A hurricane advisory means hurricane conditions are possible
+Within the surveillance area.
+ 
+Storm information for the area in the United States
+State including possible inland advisories and warnings, please
+Monitoring of products issued by the local National Weather Service
+Forecast Office. Storm information specific to your area
+Outside the United States, monitor products issued by .
+Your country's weather office.
+ 
+Discussion and Prospects
+----------------------
+At 1100 p.m. ET (0300 UTC), the center of Hurricane Helen
+It is located near latitude 29.9 north and longitude 83.9 west. Helene
+Move north-northeast near 24 mph (39 km/h).  turn
+It is expected to occupy the center overnight to the north.
+Georgia.  The center of the hurricane will make landfall.
+Soon in Florida's Big Bend area.  after disembarkation,
+Helene is expected to turn northwest and slow down over the river.
+The Tennessee Valley is on Fridays and Saturdays.
+ 
+Maximum sustained wind speeds are close to 140 mph (220 km/h) and beyond.
+Wind speed.  Helene is a very dangerous Category 4 hurricane. 
+Saffir-Simpson hurricane wind scale.  Weakening is expected 
+After Helene moves inland, however, the fast-forward speed will be allowed. 
+Strong and destructive winds, especially gusts of wind, can penetrate well. 
+Across the southeastern United States and inland 
+High terrain in the Southern Appalachian Mountains.
+ 
+Hurricane-class winds extend outward for up to 60 miles (95 kilometers).
+Winds from the center and tropical storm class extend outward up to 310 miles
+Persists with winds of 64 miles per hour (103 km/h) and gusts of 84 degrees. 
+A speed of 135 km/h was recently reported in Cedar Key, Florida.   A 
+Recently, a wind gust of 83 mph (134 km/h) was reported at Steinhatchee. 
+Florida.
+ 
+Minimum central pressure estimated based on Hurricane Hunter 
+Aerial observation is 938 MB (27.70 inches).
+
+NOAA National Ocean Service tide station located in Cedar Key 
+It was recently reported that an average water level of 7.33 feet means higher. 
+Water.
+ 
+Hazards affecting land
+----------------------
+The key message about Helene can be found in the tropical cyclone.
+Discussion on AWIPS Header MIATCDAT4 and WMO Header WTNT44 KNHC
+And on the web of hurricanes.gov/text/MIATCDAT4.shtml
+ 
+STORM SURGE: LIFE-THREATENING STORM SURGE AND
+Tides will flood normally dry areas near the coast
+by rising water moving inland from the coastline.  Water
+Somewhere marked, reach the next height from the ground.
+The area where the maximum tsunami occurs at high tide...
+ 
+Carrabelle, FL to Suwannee River, FL... 15-20 feet
+From Appalachicola, Florida to Caravel, Florida... 10-15 feet
+Suwannee River, Florida to Chassahowitzka, FL... 10-15 feet
+Chassahowitzka, FL to Anclote River, FL... 8-12 feet
+Indian Pass, FL - Appalachicola, FL... 6-10 feet
+Anclote River, FL to Longboat Key, halfway through FL... 5-8 feet
+Tampa bay... 5-8 feet
+From the middle of Longboat Key, Florida to Inglewood, Florida... 4-7 feet
+East of Mexico Beach, Florida Indian Pass, Florida ... 3-5 feet
+Flamingos in Inglewood, Florida... 3-5 feet
+Charlotte Harbor... 3-5 feet
+ 
+The deepest water occurs along the near coast.
+East of the landing site where the tsunami will be
+It is accompanied by large and dangerous waves.  Surge-related flooding
+It depends on the relative timing of the surge and tidal cycles.
+It can vary greatly over short distances.  Learn more
+Depending on your region, please refer to the products issued in your region.
+National Weather Service Forecast Office.
+ 
+To perfectly depict an area at risk of storm surge flooding:
+See the National Weather Service's Peak Storm Surge Graphic.
+Available at hurricanes.gov/graphics_at4.shtml?peakSurge.
+ 
+Wind: A hurricane situation is occurring within a hurricane.
+Warning area.  When the snow passes by, people are reminded of what not to do
+Dangerous winds will increase, so venture into a place of relative quiet.
+Very fast as the snow passes.  Tropical storm conditions include:
+It occurs in South and Central Florida, and these conditions
+Continue spreading north across tropical storm warning
+From the southeastern United States to early Friday.  strong
+Destructive winds, especially gusts, are likely to penetrate far
+It is located inland as a high point in the southern Appalachian Mountains.
+ 
+Rainfall: From parts of the southeastern United States to the south.
+The Appalachian Mountains, Helene, are expected to produce total rainfall
+That's about 6 to 12 inches, and a total of 20 inches in isolation. two
+Rainfall can have catastrophic and potentially catastrophic consequences.
+life-threatening flash and urban flooding, and severe
+River flooding. Numerous serious landslides are expected in the
+Steep terrain that runs through the Southern Appalachian Mountains.
+ 
+For a complete description of the expected rainfall associated with
+See Hurricane Helen, National Weather Service storm.
+Total rainfall graphic, available in
+hurricanes.gov/graphics_at4.shtml?rainqpf and flash flood risk
+hurricanes.gov/graphics_at4.shtml?ero of graphics.
+ 
+List of relevant rainfall observations (and wind reports)
+This storm is WBCSCCNS4 with the
+WMO header ACUS44 KWBC or the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc4.html.
+ 
+Tornado: The danger of multiple tornadoes continues into tonight.
+Early Friday morning in parts of North/Central Florida, Georgia,
+South Carolina, South North Carolina. The risk of tornadoes
+On Friday, it will last throughout the Carolinas and Southern Virginia.
+ 
+Waves: The swells produced by the Helene will affect much of Florida.
+Over the next few years, the coast of Georgia and Carolina
+These swells have the potential to cause life-threatening waves.
+RIP Current Status.  See products in your area.
+Observatory.
+ 
+Next Recommendation
+-------------
+The next midterm advisory will begin at 200 a.m. ET.
+The following advisory will be completed at 500 a.m. ET.
+ 
+$$
+Weathercaster Pash
+ 
+NNNN

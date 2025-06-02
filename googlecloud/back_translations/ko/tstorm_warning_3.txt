@@ -1,0 +1,55 @@
+/O.NEW.KPAH.SV.W.0215.250502T1754Z-250502T1845Z/
+
+Bulletin Board - Request for immediate broadcast
+Severe Thunderstorm Warning
+National Weather Service Paducah, Kentucky
+Friday, May 2, 2025 12:54 PM CDT
+
+The National Weather Service in Paducah released the following statement:
+
+* A severe thunderstorm warning has been issued.
+  Daviess County, located in northwestern Kentucky...
+  Eastern McLean County in northwestern Kentucky...
+
+* Until 2:45 p.m. CDT.
+
+* At 12:54 p.m. CDT, a line of severe thunderstorms developed.
+  It's moving, extending from near Beech Grove to near Central City.
+  Northeast at 30 miles per hour.
+
+  Hazardous...Wind gusts of up to 60 mph and hail the size of a nickel are expected.
+
+  Source...Radar displayed.
+
+  Impact...may cause damage to roofs, exterior walls, and trees.
+
+* The affected areas are as follows:
+  Owensboro, Calhoun, Livermore, Whitesville, Masonville,
+  Nottsville, St. Joseph, Ireland, Moseleyville.
+
+These include the following highways:
+ Highway 165 between mile markers 60 and 70.
+ Audubon Parkway, near mile marker 23.
+
+Preventive/Preventive Measures...
+
+For your protection, go to the inner room on the lowest floor.
+building.
+
+&&
+
+Latitude...Path 3762 8692 3763 8695 3755 8705 3747 8711
+      3748 8713 3745 8710 3741 8711 3769 8739
+      3779 8712 3778 8710 3781 8707 3786 8691
+      3784 8691 3783 8689 3784 8686 3779 8682
+      3774 8682 3771 8686 3767 8682
+Time...MOT...LOC 1754Z 245DEG 24KT 3765 8740 3737 8710 
+
+Hail threat...radar detected
+Maximum hail size...0.88 inches
+Strong winds threat...shown on radar
+Maximum gusts...60 MPH
+
+$$
+
+DW

@@ -1,0 +1,27 @@
+Flood warning
+National Weather Service Austin/San Antonio TX
+915 PM CDT Wednesday April 30, 2025
+
+TXC013-010225-
+/O.EXP.KEWX.FA.Y.0005.000000T0000Z-250501T0215Z/
+/00000.N.ER.0000000T0000Z.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Atascosa TX-
+915 PM CDT Wednesday April 30, 2025
+
+...FLOOD WARNING HAS EXPIRED...
+
+Flood warnings have expired for parts of south central Texas, 
+includes the following area: Atascosa.
+
+The heavy rains have ended. Flooding is no longer expected to cause 
+threat. Please continue to pay attention to remaining road closures.
+
+&&
+
+LAT...LON 2888 9818 2883 9823 2884 9855 2893 9858
+      2896 9827 2893 9823
+
+
+$$
+
+OB

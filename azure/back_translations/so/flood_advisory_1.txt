@@ -1,0 +1,48 @@
+Flood Advisory
+National Weather Service New Orleans LA
+850 PM CDT Thu May 1 2025
+
+NY091-105-020500-
+/O.NEW. KLIX.FA. Y.0028.250502T0150Z-250502T0500Z/
+/000000Z. OO.000000T0000Z.000000T0000Z.000000Z.000000Z.OO
+St. MashaNA LA-Tangipahoa LA-
+850 PM CDT Thu May 1 2025
+
+... FLOOD ADVISORY IN EFFECT UNTIL MIDNIGHT CDT TONIGHT...
+
+*WHAT IS IT... Flooding caused by excessive rainfall is expected.
+
+*FROM WHERE... Part of southeastern Louisiana, including the following 
+  Churches, St. Helena and Tangipahoa.
+
+* BRAND... Until midnight CDT.
+
+* IMPACT... Low flooding in low-lying areas and relatively poorly drained liquids. 
+
+* MORE DETAILS...
+  - At 850 PM CDT, Doppler radar pointed to heavy rain due to
+    and storms with storming. Minor flooding is underway or expected to begin
+    Shortly after the governor's area. Between 1.5 and 3 inches in
+    It rained.
+  - Additional precipitation up to 2 inches is expected to fall
+    environment. This additional rainfall results in minor flooding.
+  -Some areas that will experience flooding include...
+    Amite, Amite City, Independence and Roseland.
+  - http://www.weather.gov/safety/flood
+
+CAUTION/PREPAREDNESS OF STEPS...
+
+Turn away, don't drown when you're experiencing a flood of roads. Maximum flooding 
+death occurs in cars.
+
+Be especially careful at night when it is difficult to detect 
+the threat of flooding
+
+&&
+
+LAT... LON 3080 9062 9042 9046 3068 9037 3061 9047
+      3063 9055 3071 9062
+
+$$
+
+TJS

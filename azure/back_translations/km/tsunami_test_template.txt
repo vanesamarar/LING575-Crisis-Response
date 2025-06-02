@@ -1,0 +1,90 @@
+WEPA41 PAAQ 092041
+TSUWCA
+
+Newsletter
+Try... Tsunami Message No. 1...TEST
+NWS WEST COAST/ALASKA PALMER AK TSUNAMI WARNING CENTER
+141 pm PDT Mon Aug 9, 2010
+
+... This message is for testing purposes to illustrate an example
+   Message WEPA41...
+
+... Tsunami test counseling now has an effect that includes
+   COASTAL REGION OF CALIFORNIA AND OREGON FROM GUALALA POINT
+   CALIA / 80 MILE NW OF SAN FRANCISCO / TO DOUGLAS-LANE
+   OREGON COUNTY LINE / 10 MILES SW OF FLORENCE / ...
+
+... This message is only for the coastal areas of
+   CALIFORNIA FROM THE CALIFORNIA-MEXICO BORDER TO GUALALA
+   California Point / 80 miles NW of San Francisco / ...
+
+... This message is only for the coastal areas of
+   OREGON – WASHINGTON – BRITISH COLUMBIA AND ALASKA FROM
+   DOUGLAS-LANE COUNTY LINE OREGON/10 MILES SW OF FLORENCE/ TO
+   ATTU Alaska...
+
+Recommended actions
+ People in low-lying coastal areas should be wary of
+ Guidance from their local emergency officers.
+ Ordered by an emergency response agency only.
+ - People in the tsunami advisory area should move away from
+   Water... Off the beach and out of the harbor and marina.
+
+Primary seismic parameters
+ Torque – 7.3
+ Timings - 1350 AKDT August 08, 2010
+             1450 PDT Aug 8th, 2010
+             2150 UTC August 08 2010
+ Location – 41.5 North, 125.5 West
+              85 MI / 137 KM NW OF EUREKA CALIFORNIA
+             305 MILES / 491 KM NW OF SAN FRANCISCO, CALIFORNIA
+ Depth - 5 miles / 8 km
+
+Tsunami advisory means a tsunami wave capable of producing
+Strong currents or waves are dangerous to people in or near
+Water is expected.  Floods are noticeably widespread
+Not expected for areas under guidance.
+Danger to swimmers... The boat... and coastal structures and can
+Continued several hours after the arrival of the first wave.
+
+Pacific Coast Area Outside California / Oregon / Washington/ 
+BRITISH COLUMBIA AND ALASKA SHOULD REFER TO THE PACIFIC TSUNAMI 
+Message the Warning Center for information about the event at
+WWW. WEATHER.GOV/PTWC.
+
+This message is primarily based on seismic data. 
+This magnitude often creates dangerous tsunami waves.
+Becoming available, counseling areas will be refined.
+
+This message will be updated in 30 minutes or sooner if
+The tsunami message will remain in effect
+Until further notice.
+WCATWC.ARH.NOAA.GOV for more information.
+
+CAZ002-001-ORZ021-022-092141-
+Y.0014.100809T2041Z-100809T2141Z /
+THE COASTAL ZONE BETWEEN AND INCLUDING GUALALA POINT
+CALIA / 80 MILE NW OF SAN FRANCISCO / TO DOUGLAS-LANE
+OREGON COUNTY LINE / 10 MILES SW OF FLORENCE /
+141 pm PDT Mon Aug 9, 2010
+
+... Tsunami test counseling now has an effect that includes
+   COASTAL REGION OF CALIFORNIA AND OREGON FROM GUALALA POINT
+   CALIA / 80 MILE NW OF SAN FRANCISCO / TO DOUGLAS-LANE
+   OREGON COUNTY LINE / 10 MILES SW OF FLORENCE / ...
+
+People in the tsunami advisory area should move away from
+Water... Off the beach and out of the harbor and marina.
+
+Tsunami advisory means a tsunami wave capable of producing
+Strong currents or waves are dangerous to people in or near
+Flooding is imminent or expected.
+Tsunami waves are a series of
+Waves can be dangerous hours after first arrival
+Time. 
+
+Do not take action based on this test.
+Messages.
+
+$$
+

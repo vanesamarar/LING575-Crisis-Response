@@ -1,0 +1,141 @@
+WEAK51 PAAQ 081814
+Tsuak1
+
+circular
+Public Tsunami Message Number 1
+NWS National Tsunami Warning Center, Palmer, AK
+Friday, July 8, 2016 11:14 AM PDT
+
+...a tsunami warning has now been issued...
+
+
+
+A tsunami warning has been issued.
+
+ * Aleutian Islands - Samalga Pass, Alaska (30 miles southwest)
+   From Nikolski to Attu, Alaska, including the Pribilof Islands
+
+
+For other Pacific coasts of the United States and Canada in North America - 
+Tsunami hazard levels are being assessed.
+Further details will be provided in a supplementary message.
+
+
+Preliminary seismic parameters
+-----------------------------------------------
+ * The following parameters are based on a quick preliminary analysis.
+   Evaluation and changes may occur.
+
+ * Magnitude 8.2
+ * Origin time 1009 AKDT July 8, 2016
+                  July 8, 2016 11:09 AM PDT
+                  July 8, 2016 1809 UTC
+ * Coordinates 52.0 N 160.0 E
+ * 21 miles deep
+ * Bering I., 325 miles southwest of Komandorski.
+                  90 miles southeast of Petropavlovsk, Kamchatka
+
+
+Tsunami activity forecast
+-----------------------------
+ * Tsunami activity is expected to begin in the coming hours.
+   Located at the specified time.
+
+                 prediction
+                 start
+Tsunami source
+---- ----------
+
+ * Alaska
+Shemiya 1130 AKDT July 8
+Adak 1230 AKDT July 8
+St. Paul 1345 AKDT July 8
+
+
+Tsunami activity observation
+--------------------------------
+ * No tsunami observations were reported.
+
+
+Recommended Action
+-------------------
+Measures to protect human life and property
+It varies even within the tsunami warning area.
+
+If you are in a tsunami warning area,
+
+ * Move out of the water and away from the beach.
+   Ports, docks, breakwaters, bays and inlets.
+
+ * Pay attention to and follow the instructions of local authorities.
+   Emergency responders may have more detailed information.
+   Specific information about your location.
+
+ * If you feel a strong earthquake or long-term ground shaking
+   Take immediate protective measures, such as moving inland.
+   And/or it is better to walk uphill.
+
+ * Boat operator,
+     * Move your boat to another location if time and conditions permit.
+       A sea with a depth of at least 180 feet.
+
+     * If you are at sea, do not enter shallow water or ports.
+       Installed at docks, bays and inlets to prevent floating.
+       Submerged debris and strong currents.
+
+ * Do not go to the coast to observe the tsunami.
+
+ * Do not return to the shore until local emergency officials arrive.
+   This indicates that it is safe to do so.
+
+
+influence
+-------
+The impact depends on where the recommendation is located.
+region.
+
+If you are in a tsunami warning area,
+
+ * There is a possibility of a tsunami accompanied by strong waves and currents.
+
+ * Waves and currents can drown or injure people.
+   In the water.
+
+ * Currents at beaches, ports and docks
+   Bays and entrances can be particularly dangerous.
+
+ * Some effects may last from several hours to several days.
+   The arrival of the first wave.
+
+ * The first wave may not be the largest, so the later waves may be the largest.
+   It should be bigger.
+
+ * As the waves invade, each wave can last from 5 to 45 minutes.
+   And then step back.
+
+ * Coasts in all directions are under threat.
+   Waves can wrap around islands and headlands and extend into bays.
+
+ * A strong shaking or rolling of the ground indicates:
+   There was an earthquake and a tsunami may be imminent.
+
+ * Rapidly receding or retreating coastlines, abnormal waves and
+   Sound and strong currents are signs of a tsunami.
+
+ * A tsunami may appear as water moving rapidly out to sea.
+   A gentle tide, as if the waves were rolling in without breaking.
+   It looks like a series of crashing waves or a wall of foamy water.
+
+
+Additional information and next updates
+------------------------------------------
+ * For more information, visit the Internet site ntwc.arh.noaa.gov.
+   information.
+
+ * Residents of Pacific Coast areas other than California and Oregon
+   Washington, British Columbia and Alaska should see:
+   Check Pacific Tsunami Warning Center messages at ptwc.weather.gov.
+
+ * This message will be updated within 60 minutes.
+
+$$

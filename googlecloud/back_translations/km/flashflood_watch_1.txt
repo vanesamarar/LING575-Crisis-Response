@@ -1,0 +1,85 @@
+WGUS61 KLWX 160735
+FFALWX
+
+Flood watch
+National Weather Service Baltimore MD/Washington DC
+235 AM EST Sunday, February 16, 2025
+
+.Heavy rain can fall on deep snowpacks, leading to melting. 
+Increase. Flows in rivers can increase rapidly and reach critical levels. 
+Level.
+
+VAZ025-503-504-WVZ501-502-505-506-162300-
+/O.CON.KLWX.FA.A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Augusta-Western Highland-Eastern Highland-Western Grant-Eastern
+Grant-Western Pendleton-Eastern Pendleton-
+235 AM EST Sunday, February 16, 2025
+
+...Flood watch remains in effect this afternoon...
+
+* What... Flooding caused by rain and snowfall continues. 
+  Can.
+
+* Where... Parts of West Virginia include the following 
+  Augusta and Highland areas and eastern West Virginia, including 
+  The area below Grant and Pendleton.
+
+* When... pass this afternoon.
+
+* Impact... Excessive water flow can cause river flooding. 
+  Creeks, streams, and low-lying areas are prone to flooding.
+
+* More details...
+  - A combination of 1 to 2 inches of rain, saturated soil,
+    And the recent melting of the snowpack could cause flooding.
+  - Please visit www.weather.gov/safety/flood for flood safety.
+    And prepared information.
+
+Preventive/preparatory actions...
+
+You should monitor the forecast later and be aware of possible flooding. 
+Warning. Those living in areas prone to flooding should be prepared. 
+Take measures to prevent flooding.
+
+&&
+
+$$
+
+MDZ001-501-WVZ503-162300-
+/O.CON.KLWX.FA.A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Garrett-Extreme Western Allegany-Western Mineral-
+235 AM EST Sunday, February 16, 2025
+
+...Flood watch remains in effect this afternoon...
+
+* What... Flooding caused by rain and snowfall continues. 
+  Can.
+
+* Where... Parts of Western Maryland include the following 
+  Extreme Western Allegany and Garrett and Eastern Western Regions 
+  Virginia, including the lower West Ore.
+
+* When... pass this afternoon.
+
+* Impact... Excessive water flow can cause river flooding. 
+  Creeks, streams, and low-lying areas are prone to flooding.
+
+* More details...
+  - A combination of 1 to 2 inches of rain, saturated soil,
+    And the recent melting of the snowpack could cause flooding.
+  - Please visit www.weather.gov/safety/flood for flood safety.
+    And prepared information.
+
+Preventive/preparatory actions...
+
+You should monitor the forecast later and be aware of possible flooding. 
+Warning. Those living in areas prone to flooding should be prepared. 
+Take measures to prevent flooding.
+
+&&
+
+$$
+
+DHOF

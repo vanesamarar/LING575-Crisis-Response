@@ -1,0 +1,50 @@
+/O.NEW.KEWX.TO.W.0003.250501T2129Z-250501T2200Z/
+
+BULLETIN - Requested easy action
+Tornado warning
+National Weather Service Austin/San Antonio TX
+429 PM CDT Thursday, May 1, 2025
+
+The National Weather Service in Austin, San Antonio, released a
+
+*Tornado warning...
+  Williamson County, northwest Texas...
+  Burnet County, northeast of central Texas...
+
+*Until 500 PM CDT.
+
+* At 428 PM CDT, a confirmed tornado was located near Kempner or 8
+  A mile southwest of Copperas Cove, moving south at 10 mph.
+
+  Danger...tornadoes and golf balls the size of falling snow.
+
+  Source... Weather trackers confirmed a tornado.
+
+  Impact... Flying debris will be dangerous to those who don't catch it. 
+           Shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur. Trees 
+           Damage is likely.
+
+* Affected locations include...
+  Briggs and Watson.
+
+Preventive/preparatory actions...
+
+To reiterate, a tornado is on the ground. Take cover now! Move to the
+A basement or inner room on the lowest floor of a solid building.
+Buildings. Avoid windows. If you are outside, in a mobile home, or in
+Vehicles move to the nearest major shelter and protect
+yourself from flying debris.
+
+&&
+
+Lat...lon 3091 9783 3090 9777 3086 9775 3083 9814
+      3103 9810 3103 9791
+Time...MOT...LOC 2128Z 358DEG 10KT 3102 9799 
+
+TORNADO...observed
+Maximum snow size...1.75 inches
+
+$$
+
+Brady

@@ -1,0 +1,45 @@
+/O.NEW. KFWD.SV. W.0161.250426T2010Z-250426T2045Z/
+
+BULLETIN - EMERGENCY BROADCAST APPLIED
+Severe Hurricane Warning
+Fort Worth TX National Family Service
+310 PM CDT Sat Apr 26 2025
+
+The National Weather Service in Fort Worth has released a
+
+* Extreme Hurricane Storm Warning...
+  Middle East Lamar County in north-central texas...
+
+* Aa 345 PM CDT.
+
+* At 310 PM CDT, a severe thunderstorm struck near Blossom, or
+  12 miles east of Paris, it is moving northeast at 20 mph.
+
+SEARCH... 60 mph strong wind gusts and hail in the quarter amount.
+
+REFERENCES... Radar pointed out.
+
+IMPACT... It is expected to suffer losses in the vehicles won by hail. Forecast wind losses 
+           The roofs and rings and trees were extended.
+
+* Areas affected include...
+  Sun Valley, Blossom, Laylis, Faught, and Paris.
+
+CAUTION/PREPAREDNESS OF STEPS...
+
+For protection you get inside a structure that is severe and avoid
+windows.
+
+&&
+
+LAT... LON 3367 9546 9588 9533 3388 9531 9531 3360 9531
+BRAND... Mot... LOC 2010Z 217DEG 16KT 3370 9534 
+
+THREAT... SIGNALED RADAR
+MAX VIBRATION SIZE... 1.00 IN
+WIND THREAT... SIGNALED RADAR
+MAX WIND GUST... 60 MPH
+
+$$
+
+Langfeld

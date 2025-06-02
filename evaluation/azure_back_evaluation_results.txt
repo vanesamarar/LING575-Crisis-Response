@@ -1,0 +1,6 @@
+Provider   Language   COMET      BLEU       BERTScore 
+azure      es         0.6470     6.01       -0.2147   
+azure      vi         0.6504     5.01       -0.2249   
+azure      ko         0.6198     4.23       -0.2241   
+azure      km         0.6278     4.37       -0.2244   
+azure      so         0.5963     4.72       -0.2276   

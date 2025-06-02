@@ -1,0 +1,45 @@
+/O.NEW.KFWD.SV.W.0161.250426T2010Z-250426T2045Z/
+
+Bulletin Board - Request for immediate broadcast
+Severe Thunderstorm Warning
+National Weather Service, Fort Worth, Texas
+Saturday, April 26, 2025 at 3:10 PM CDT
+
+The National Weather Service in Fort Worth announced:
+
+* A severe thunderstorm warning has been issued.
+  East-central Lamar County in north-central Texas...
+
+* Until 3:45 p.m. CDT.
+
+* A severe thunderstorm developed near Blossom at 3:10 p.m. CDT.
+  It is 12 miles east of Paris, moving northeast at 20 miles per hour.
+
+  DANGER...wind gusts of up to 60 mph and hail the size of quarters.
+
+  Source...Radar displayed.
+
+  Impact...Hail damage to vehicles is expected. Wind damage is also expected. 
+           The roof, the exterior walls, even the trees.
+
+* The affected areas are as follows:
+  Sun Valley, Blossom, Nobis, Port, Paris.
+
+Preventive/Preventive Measures...
+
+For your protection, get inside a sturdy structure and stay away.
+window.
+
+&&
+
+Latitude...Path 3367 9546 3389 9533 3388 9531 3360 9531
+Time...MOT...LOC 2010Z 217DEG 16KT 3370 9534 
+
+Hail threat...radar detected
+Maximum hail size...1.00 inches
+Strong winds threat...shown on radar
+Maximum gusts...60 MPH
+
+$$
+
+Langfeldt

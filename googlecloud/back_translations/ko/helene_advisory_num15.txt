@@ -1,0 +1,197 @@
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+
+circular
+Hurricane Helen Advisory 15
+NWS National Hurricane Center Miami FL AL092024
+Thursday, September 26, 2024 at 11:00 PM EDT
+
+...there's a very good chance that Hurricane Helen will make landfall in Florida.
+bend...
+...catastrophic storm surges and life-threatening
+wind...
+
+
+11:00 PM EDT...0300 UTC...Information Summary
+-----------------------------------------------
+Location...29.9 degrees north latitude, 83.9 degrees west longitude
+About 75 miles northwest of Cedar Key, Florida...120 km
+About 40 miles southeast of Tallahassee, Florida...70 km
+Maximum sustained wind speed...140MPH...220KM/H
+Current movement...NNE or 15 degrees, 24 miles per hour...39 km per hour
+Minimum central pressure...938 MB...27.70 inches
+
+
+Watches and Alerts
+--------------------
+Changes pursuant to this notice:
+
+doesn't exist
+
+Summary of current surveillance and warnings:
+
+...a storm surge warning has been issued for the area.
+* Mexico Beach East and South to Flamingo
+* Tampa Bay
+* Charlotte Harbor
+
+A hurricane warning has been issued...
+* From the Anclote River to Mexico Beach
+
+A hurricane watch has been issued.
+* From Englewood to Anclote River, including Tampa Bay
+
+A tropical storm warning has been issued for ...
+* Florida Keys, including Dry Tortugas
+* From Flamingo to Anclote River, including Tampa Bay
+* West of Mexico Beach to the Okaloosa/Walton County border
+* North of Flamingo to Little River Inlet
+* Lake Okeechobee
+
+A storm surge warning means there is a life-threatening hazard.
+Flooding caused by rising water levels flowing inland from the coastline.
+For descriptions of hazardous areas, see the National Weather Service.
+Service Storm Surge Watch/Warning graphics are available at:
+hurricanes.gov. This is a life-threatening situation.
+If you are located within this area, you must take all necessary measures.
+Protects life and property from rising water and potential hazards.
+If any other dangerous situation occurs, immediately evacuate and take other measures.
+Directions from local officials.
+
+A hurricane warning means that hurricane conditions are expected.
+Somewhere within the warning zone.
+
+A tropical storm warning indicates that tropical storm conditions are possible.
+It is expected to occur somewhere within the warning zone.
+
+A hurricane watch means there is a possibility of hurricane conditions.
+Within the surveillance area.
+
+To find out storm information for your area in the United States:
+Countries with inland surveillance and warnings include:
+Monitor products issued by your local National Weather Service
+Forecast office. For storm information for your area.
+Outside the United States, monitor products issued by:
+Your national weather service.
+
+
+Discussion and Outlook
+----------------------
+As of 11 p.m. ET (3 a.m. UTC), the center of Hurricane Helen was
+It is located at about 29.9 degrees north latitude and 83.9 degrees west longitude. Helen
+Moving north-northeast at 24 miles per hour (39 km/h). Rotation
+It is expected to head north and pass through the center at night.
+Georgia. The center of the hurricane is expected to make landfall.
+It's expected to make landfall in Florida's Big Bend region soon.
+Helen is expected to turn northwest and slow down.
+It's Friday and Saturday in Tennessee Valley.
+
+Maximum sustained winds are expected to be close to 140 mph (220 km/h) and possibly higher.
+Gust. Helen is a very dangerous Category 4 hurricane. 
+Saffir-Simpson Hurricane Wind Speed Scale. Weakening Expected 
+After Helen moves inland, fast transmission speeds are allowed. 
+It is particularly susceptible to strong and destructive winds, especially when gusts blow. 
+Including the inland southeastern United States 
+The high terrain of the southern Appalachian Mountains.
+
+Hurricane-force winds can reach up to 60 miles (95 km).
+Central and tropical storm-force winds extend outward up to 310 miles.
+(500 km). Sustained winds of 64 mph (103 km/h) with gusts of 84 
+A recent record of mph (135 km/h) was reported in Cedar Key, Florida. 
+A gust of 83 mph (134 km/h) was recently reported in Steinhatchee. 
+Florida.
+
+Estimated minimum central pressure according to Hurricane Hunter 
+The aircraft observation was 938 mb (27.70 in).
+
+NOAA National Ocean Service Tide Gauge located in Cedar Key 
+A recent high water level of 7.33 feet above average was reported. 
+water.
+
+
+Risks affecting the land
+----------------------
+The key message to Helen can be found in the tropical depression.
+Discussion on AWIPS header MIATCDAT4 and WMO header WTNT44 KNHC
+And it's available on the web at hurricanes.gov/text/MIATCDAT4.shtml.
+
+Storm surge: Life-threatening storm surges and
+Normally dry areas near the coast will be flooded due to the tides.
+By rising water moving inland from the coastline. The water
+Reach the next height from the ground somewhere in the indicated area.
+Areas where maximum tsunamis occur during high tide...
+
+From Caravelle, Florida to the Suwannee River, Florida...15-20 feet
+From Apalachicola, Florida to Caravelle, Florida...10-15 feet
+From the Suwanee River, Florida to Chasahowitzka, Florida... 10-15 feet
+From Chassahovitzka, Florida to the Anclote River, Florida...8 to 12 feet
+From Indian Pass, Florida to Apalachicola, Florida...6-10 feet
+From the Anclote River in Florida to the middle of Longboat Key in Florida...5-8 feet.
+Tampa Bay...5-8 feet
+From the middle of Longboat Key, Florida to Inglewood, Florida...4-7 feet
+From Mexico Beach, Florida east to Indian Pass, Florida...3-5 feet
+From Inglewood, Florida to Flamingo, Florida...3-5 feet
+Charlotte Harbor...3-5 feet
+
+The deepest water occurs along the near shore.
+East of the landing site where the tsunami will occur
+Accompanied by large and dangerous waves. Floods due to tsunamis.
+It depends on the relative timing of the surge and tidal cycles.
+Even short distances can make a big difference. For more information,
+It varies by region, so check with your local authority for products issued in your region.
+National Meteorological Administration Forecast Office.
+
+For a complete description of areas at risk for storm surge flooding.
+See the National Weather Service's maximum storm surge graphic.
+See hurricanes.gov/graphics_at4.shtml?peakSurge.
+
+WIND: Hurricane conditions are developing within the hurricane.
+Warning zone. People are reminded not to do the following when passing through the snow:
+As dangerous winds increase, go to relatively calm places.
+Very fast as the snow passes. Tropical storm conditions
+Occurs in South and Central Florida and these conditions include:
+A tropical storm warning has been issued as it continues to move north.
+Strong winds are expected across the Southeastern United States through Friday morning.
+Especially when gusts blow, the damaging winds are likely to penetrate far.
+Inland are the high terrain of the Southern Appalachians.
+
+Precipitation: From parts of the southeastern United States to the southern regions
+The Appalachians and Helens are expected to record the highest total precipitation.
+6 to 12 inches, with an isolated total of about 20 inches.
+There is a possibility that the rain will cause a disaster.
+Significant life-threatening explosions and urban flooding
+River flooding. Multiple serious landslides are expected.
+The steep terrain of the southern Appalachian Mountains.
+
+For a complete description of the predicted rainfall
+Hurricane Helen, Check the National Weather Service Storm
+Total precipitation graphics are available at:
+hurricanes.gov/graphics_at4.shtml?rainqpf and heavy rain risk
+See the graphic at hurricanes.gov/graphics_at4.shtml?ero.
+
+Here is a list of rainfall observations (and wind reports):
+For this storm, see the accompanying storm summary in WBCSCCNS4.
+WMO Header ACUS44 KWBC or the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc4.html.
+
+TORNADOES: The risk of multiple tornadoes continues through tonight.
+Early Friday morning across parts of northern/central Florida and Georgia.
+South Carolina and southern North Carolina. Tornado risk
+Rain is expected to continue across the Carolinas and southern Virginia on Friday.
+
+Surfing: The waves generated by Helen will impact much of Florida.
+The Georgia and Carolina coasts over the next few years
+For several days, these waves have the potential to produce life-threatening waves.
+The current situation is not good. Please check the products of local companies.
+Meteorological Administration.
+
+
+Next recommendation
+-------------
+The next Interim Alert will be announced at 2:00 a.m. ET.
+The following full advisory will be released at 5:00 a.m. ET.
+
+$$
+Forecaster Pash
+
+No no no

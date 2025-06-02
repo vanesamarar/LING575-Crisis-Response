@@ -1,0 +1,78 @@
+ZCZC MIATCDAT4 TẤT CẢ
+TTAA00 KNHC DDHHMM
+
+Thảo luận về cơn bão Helene số 15
+Trung tâm Bão Quốc gia NWS Miami FL AL092024
+1100 PM EDT Thứ năm 26 tháng 9 năm 2024
+
+Cơn bão sắp đổ bộ vào Florida Big Bend
+khu vực. Quan sát kịp thời từ Không quân và NOAA Hurricane
+Máy bay Hunter cho thấy Helene tiếp tục mạnh lên nhanh chóng
+đến trạng thái Loại 4 trước khi nó tiếp cận bờ biển, với
+áp suất trung tâm giảm khoảng 3 mb mỗi giờ kể từ đó
+buổi chiều. Đỉnh 700 mb gió ở mức bay từ máy bay là
+136 kt, tương ứng với cường độ khoảng 120 kt, có thể
+hãy thận trọng một chút. Hình ảnh radar và vệ tinh cho thấy nhiều
+các xoáy thuận trung bình quay quanh thành mắt bão.
+
+Cơn bão lớn tiếp tục di chuyển nhanh về phía bắc-đông bắc
+với chuyển động ban đầu mới nhất ước tính là 015/21 kt. A
+nói chung đường đi về phía bắc dự kiến sẽ diễn ra vào ban đêm, đi vào trung tâm
+từ miền Nam đến miền Bắc Georgia cho đến sáng sớm thứ Sáu.
+Vào cuối ngày thứ sáu và thứ bảy, Helene sẽ chậm lại đáng kể
+trong khi nó tương tác với vùng áp thấp ở tầm trung ở phía tây bắc và phía tây.
+Hệ thống suy yếu có khả năng trở nên gần như tĩnh tại vào năm 48-60
+giờ. Dự báo đường đua chính thức tuân theo mô hình động lực
+sự đồng thuận.
+
+Mặc dù hệ thống sẽ yếu đi khi di chuyển trên đất liền, nhưng tốc độ
+tốc độ tiến về phía trước của Helene trong khoảng 12 giờ tới sẽ là
+trong một vùng đất sâu trong đất liền có gió mạnh thổi qua một số vùng
+đông nam Hoa Kỳ, đặc biệt là Georgia, bao gồm
+những cơn gió giật mạnh trên địa hình cao của dãy Appalachians phía Nam.
+Theo đó, một yếu tố gió giật cao hơn bình thường được chỉ ra trong
+dự báo chính thức khi Helene đang ở trong đất liền.
+
+THÔNG ĐIỆP CHÍNH:
+
+1. Một cơn bão dữ dội và chết người đang xảy ra dọc theo một số phần
+của bờ biển Florida Big Bend, nơi lũ lụt có thể lên tới mức cao
+ở độ cao 20 feet so với mặt đất, cùng với những con sóng dữ dội. Có
+cũng là mối nguy hiểm của cơn bão đe dọa tính mạng dọc theo phần còn lại
+của bờ biển phía tây Bán đảo Florida.
+
+2. Những cơn gió bão thảm khốc đang xảy ra gần bờ biển
+trong phạm vi mắt bão Helene và sẽ lan rộng vào đất liền trên một số phần
+của miền bắc Florida và miền nam Georgia.
+
+3. Những cơn gió giật mạnh sẽ xuyên sâu vào đất liền trên một số phần của
+Georgia và Carolinas tối nay, đặc biệt là trên cao
+địa hình của dãy núi Appalachians phía nam. Cư dân ở những khu vực này
+nên chuẩn bị cho khả năng mất điện kéo dài
+mất điện. Nếu bạn sử dụng máy phát điện sau cơn bão, hãy chắc chắn rằng nó
+đặt bên ngoài cách cửa ra vào, cửa sổ và ít nhất 20 feet
+gara để tránh ngộ độc khí carbon monoxide gây tử vong.
+
+4. Lũ quét và lũ lụt đô thị thảm khốc và đe dọa tính mạng,
+bao gồm nhiều vụ lở đất đáng kể, dự kiến sẽ xảy ra trên khắp
+một phần của dãy núi Appalachians phía nam cho đến thứ sáu. Đáng kể
+có khả năng xảy ra lũ quét và lũ lụt đô thị thảm khốc cục bộ
+tây bắc và bắc Florida và Đông Nam cho đến thứ sáu.
+Lũ lụt nghiêm trọng trên diện rộng và các con sông lớn bị cô lập
+có khả năng xảy ra lũ lụt.
+
+
+VỊ TRÍ DỰ BÁO VÀ GIÓ TỐI ĐA
+
+INIT 27/0300Z 29,9N 83,9W 120 KT 140 MPH
+ 12H 27/1200Z 33,9N 84,0W 55 KT 65 MPH...NỘI ĐỊA
+ 24H 28/0000Z 36,9N 86,2W 30 KT 35 MPH...SAU-TROP/EXTRATROP
+ 36H 28/1200Z 36,8N 87,5W 25 KT 30 MPH...SAU-TROP/EXTRATROP
+ 48H 29/0000Z 36,9N 86,9W 20 KT 25 MPH...SAU-TROP/EXTRATROP
+ 60H 29/1200Z 37,1N 86,4W 20 KT 25 MPH...SAU-TROP/EXTRATROP
+ 72H 30/0000Z...ĐÃ TAN BIẾN
+
+$$
+Dự báo viên Pasch
+
+NNNN

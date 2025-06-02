@@ -1,0 +1,78 @@
+ZCZC MIATCDAT4 TODOS
+TTAA00 KNHC DDHHMM
+
+Debate número 15 sobre el huracán Helene
+Centro Nacional de Huracanes del NWS Miami FL AL092024
+23:00 EDT, jueves 26 de septiembre de 2024
+
+El huracán está a punto de tocar tierra en el Big Bend de Florida
+región. Observaciones oportunas de la Fuerza Aérea y la NOAA sobre huracanes
+Los aviones Hunter demostraron que Helene continuó fortaleciéndose rápidamente
+a la categoría 4 antes de acercarse a la costa, con la
+La presión central está cayendo a unos 3 mb por hora desde entonces.
+Por la tarde. Los vientos máximos de 700 mb a nivel de vuelo de la aeronave fueron
+136 kt, correspondiente a una intensidad de unos 120 kt, lo que podría
+Sea un poco conservador. Las imágenes de radar y satélite muestran numerosos
+mesociclones girando alrededor de la pared del ojo.
+
+El gran huracán continúa moviéndose rápidamente hacia el norte-noreste.
+con el último movimiento inicial estimado en 015/21 kt. A
+En general, se espera una trayectoria hacia el norte durante la noche, tomando el centro
+desde el sur hasta el norte de Georgia hasta la madrugada del viernes.
+Más tarde el viernes y el sábado, Helene debería disminuir considerablemente su velocidad.
+Mientras interactúa con una zona de baja presión de nivel medio al noroeste y oeste.
+Es probable que el sistema que se está debilitando se vuelva casi estacionario en 48-60
+horas. El pronóstico oficial de la trayectoria sigue el modelo dinámico.
+consenso.
+
+Aunque el sistema se debilitará a medida que se mueva sobre tierra, el rápido
+La velocidad de avance de Helene durante las próximas 12 horas aproximadamente resultará
+en una penetración muy hacia el interior de fuertes vientos sobre partes del
+sureste de los Estados Unidos, particularmente sobre Georgia, incluyendo
+Fuertes ráfagas de viento sobre las zonas más altas de los Apalaches del sur.
+En consecuencia, se indica un factor de ráfaga superior al normal en el
+Pronóstico oficial mientras Helene está tierra adentro.
+
+MENSAJES CLAVE:
+
+1. Se está produciendo una marejada ciclónica catastrófica y mortal a lo largo de partes
+de la costa de Big Bend de Florida, donde las inundaciones podrían alcanzar niveles tan altos
+a 20 pies sobre el nivel del suelo, junto con olas destructivas. Allí
+También existe el peligro de marejadas ciclónicas potencialmente mortales a lo largo del resto
+de la costa oeste de la península de Florida.
+
+2. Se están produciendo vientos huracanados catastróficos cerca de la costa.
+dentro de la pared del ojo de Helene y se extenderá hacia el interior en porciones
+del norte de Florida y el sur de Georgia.
+
+3. Las ráfagas de viento dañinas penetrarán bien tierra adentro en partes de
+Georgia y las Carolinas esta noche, particularmente en las zonas más altas
+Terreno de los Apalaches del sur. Los residentes de estas zonas...
+Debería estar preparado para la posibilidad de un corte de energía de larga duración.
+cortes de energía. Si usa un generador después de la tormenta, asegúrese de que esté
+colocar afuera al menos a 20 pies de distancia de puertas, ventanas y
+garajes para evitar la intoxicación mortal por monóxido de carbono.
+
+4. Inundaciones repentinas y urbanas catastróficas y potencialmente mortales,
+Se esperan numerosos deslizamientos de tierra importantes en todo el país.
+partes del sur de los Apalaches hasta el viernes. Considerablemente
+Es probable que se produzcan inundaciones repentinas y urbanas catastróficas a nivel local.
+noroeste y norte de Florida y el sureste hasta el viernes.
+Inundaciones importantes y generalizadas de ríos y cauces aislados de grandes ríos
+Es probable que se produzcan inundaciones.
+
+
+POSICIONES PRONÓSTICAS Y VIENTOS MÁXIMOS
+
+INIT 27/0300Z 29.9N 83.9W 120 KT 140 MPH
+ 12H 27/1200Z 33.9N 84.0W 55 KT 65 MPH...TIERRA ADENTRO
+ 24H 28/0000Z 36.9N 86.2O 30 KT 35 MPH...POSTROP/EXTRATROP
+ 36H 28/1200Z 36.8N 87.5W 25 KT 30 MPH...POSTROP/EXTRATROP
+ 48H 29/0000Z 36.9N 86.9O 20 KT 25 MPH...POSTROP/EXTRATROP
+ 60H 29/1200Z 37.1N 86.4W 20 KT 25 MPH...POSTROP/EXTRATROP
+ 72H 30/0000Z...DISIPADO
+
+$$
+El pronosticador Pasch
+
+NNNN

@@ -1,0 +1,59 @@
+WEXX30 PAAQ 081842
+TSUATE
+
+BOLETÍN
+Mensaje público sobre el tsunami número 3
+Centro Nacional de Alerta de Tsunamis del NWS Palmer AK
+242 PM EDT VIERNES 8 de julio de 2016
+
+...SE CANCELA LA ALERTA DE TSUNAMI...
+
+ * SE CANCELA EL AVISO DE TSUNAMI PARA LAS ZONAS COSTERAS DE
+   CAROLINA DEL SUR - CAROLINA DEL NORTE Y VIRGINIA
+
+
+OBSERVACIONES DE LA ACTIVIDAD DEL TSUNAMI - ACTUALIZADAS
+------------------------------------------
+ * La altura máxima del tsunami observada es el nivel de agua más alto registrado.
+   por encima del nivel de la marea hasta el momento de este mensaje.
+
+                                  TIEMPO OBSERVADO MÁXIMO
+ LUGAR DE MEDICIÓN DE LA ALTURA DEL TSUNAMI
+ ---------------------------- ---------------- --------------
+ Hatteras, Carolina del Norte, 1537 EDT, 8 de julio, 0,9 pies
+ Entrada de Oregon, NC 1554 EDT 8 de julio 1,7 pies
+ Beaufort, Carolina del Norte, 1529 EDT, 8 de julio, 4,4 pies
+
+
+ACCIONES RECOMENDADAS - ACTUALIZADAS
+-----------------------------
+ * No vuelva a ocupar las zonas de peligro hasta que los funcionarios de emergencia locales
+   indicar que es seguro hacerlo.
+
+
+IMPACTOS - ACTUALIZADO
+-----------------
+ * La actividad del tsunami ha disminuido a lo largo de las costas de Puerto Rico,
+   Islas Vírgenes de los Estados Unidos, Islas Vírgenes Británicas y Estados Unidos y
+   Costas canadienses en el Atlántico.
+
+ * La actividad en curso puede persistir en algunas áreas causando fuertes
+   Corrientes peligrosas para bañistas y embarcaciones.
+
+ * La determinación de reocupar zonas de peligro deberá ser tomada por
+   funcionarios locales.
+
+
+INFORMACIÓN ADICIONAL Y PRÓXIMA ACTUALIZACIÓN
+--------------------------------------
+ * Consulte el sitio de Internet ntwc.arh.noaa.gov para obtener más información.
+   información.
+
+ * Regiones costeras del Caribe fuera de Puerto Rico, Islas Vírgenes de EE. UU.
+   Las islas y las Islas Vírgenes Británicas deben referirse al Pacífico.
+   Mensajes del Centro de Alerta de Tsunamis en ptwc.weather.gov.
+
+ * Este será el último Centro Nacional de Alerta de Tsunamis de EE. UU.
+   Mensaje emitido para este evento.
+
+$$

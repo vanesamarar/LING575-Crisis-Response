@@ -37,6 +37,7 @@ def translate_text(alerts, lang):
 			
 def main():
 	load_dotenv()
+	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS_2")
 	langs = ["es", "vi", "ko", "km", "so"]
 	for lang in langs:
 		input_dir = os.path.join("googlecloud", "forward_translations", lang)

@@ -1,0 +1,41 @@
+DÉBIL53 PAAQ 300402
+TIBAK1
+
+Declaración informativa sobre el tsunami número 1
+Centro Nacional de Alerta de Tsunamis del NWS Palmer AK
+802 PM AKDT martes 29 de abril de 2025
+
+...ESTE ES UN DECLARACIÓN INFORMATIVA SOBRE EL TSUNAMI...
+
+EVALUACIÓN
+----------
+ * NO hay peligro de tsunami por este terremoto.
+
+
+PARÁMETROS PRELIMINARES DEL TERREMOTO
+---------------------------------
+
+ * Los siguientes parámetros se basan en un análisis preliminar rápido.
+   evaluación del sismo y los cambios que puedan ocurrir.
+
+ * Magnitud 4,4
+ * Hora de origen 1959 AKDT 29 de abril de 2025
+                  2059 PDT 29 de abril de 2025
+                  0359 UTC 30 de abril de 2025
+ *Coordenadas 59.7 Norte 152.7 Oeste
+ * Profundidad 59 millas
+ * Ubicación 45 millas al oeste de Homer, Alaska
+                  140 millas al suroeste de Anchorage, Alaska
+
+
+INFORMACIÓN ADICIONAL Y PRÓXIMA ACTUALIZACIÓN
+--------------------------------------
+ * Estados Unidos emitirá más información.
+   Servicio Geológico (earthquake.usgs.gov) o el correspondiente
+   red sísmica regional.
+
+ * Este será el único Centro Nacional de Alerta de Tsunamis de EE.UU.
+   Mensaje emitido para este evento a menos que se proporcione información adicional
+   esté disponible.
+
+$$

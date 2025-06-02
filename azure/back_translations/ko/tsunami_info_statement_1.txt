@@ -1,0 +1,41 @@
+
+WEAK53 PAAQ 300402
+T-Vac1
+
+Tsunami Information Statement No. 1
+NWS National Tsunami Warning Center Palmer AK
+802 PM AKDT Tuesday, April 29, 2025
+
+... This is a tsunami information statement ...
+
+evaluation
+----------
+ * There is no tsunami risk from this earthquake.
+
+Preliminary Seismic Parameters
+---------------------------------
+
+* The following parameters are based on rapid preliminary research.
+   Seismic assessments and changes may occur.
+
+* Magnitude 4.4
+ * Time of Origin: 1959, AKDT, April 29, 2025
+                  2059 PDT April 29, 2025
+                  0359 UTC, April 30, 2025
+ * Coordinates: North 59.7 West 152.7
+ * 59 miles deep
+ * Location: 45 miles W in Homer, Alaska
+                  140 Mile SW in Anchorage, Alaska
+
+Additional Information and Next Updates
+--------------------------------------
+ * Additional information will be published in the United States.
+   Geological Survey (earthquake.usgs.gov) or the appropriate
+   Local seismic networks.
+
+* This will be the only national tsunami warning center in the United States.
+   Messages issued for this event unless additional information is provided
+   You can use it.
+
+$$
+

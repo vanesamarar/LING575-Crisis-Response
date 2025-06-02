@@ -1,0 +1,41 @@
+WEAK53 PAAQ 300402
+STEP1
+
+Tsunami Report Number 1
+NWS National Tsunami Warning Center Palmer AK
+802 PM AKDT Tuesday April 29 2025
+
+...this is a Tsunami INFORMATION STATEMENT...
+
+EVALUATION
+----
+ * There is no tsunami threat from this earthquake.
+
+
+INTRODUCTION INTRODUCTION EARTHQUAKE
+---------------------------------
+
+ * The following parameters are based on a quick preview.
+   Earthquake assessment and changes may occur.
+
+ * Size 4.4
+ * Original time 1959 AKDT April 29 2025
+                  2059 PDT April 29 2025
+                  0359 UTC April 30 2025
+ * Coordinates 59.7 North 152.7 West
+ * Depth 59 miles
+ * Location 45 miles W of Homer, Alaska
+                  140 miles SW of Anchorage, Alaska
+
+
+ADDITIONAL INFORMATION AND BREAKING NEWS
+----
+ * Additional information will be released by the United States
+   Earth Survey (earthquake.usgs.gov) or equivalent
+   regional seismic network.
+
+ * This will be the US National Tsunami Warning Center
+   The message issued for this event is for further information.
+   becomes available.
+
+$$

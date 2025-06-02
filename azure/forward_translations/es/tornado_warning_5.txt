@@ -1,0 +1,55 @@
+/O.NUEVO. KOHX. PARA. W.0014.250316T0031Z-250316T0100Z/
+
+BOLETÍN - ACTIVACIÓN DE EAS SOLICITADA
+Advertencia de tornado
+Servicio Meteorológico Nacional, Nashville, TN
+731 PM CDT sáb 15 de marzo de 2025
+
+El Servicio Meteorológico Nacional en Nashville ha emitido una
+
+* Aviso de tornado para...
+  El este del condado de Cumberland, en el centro de Tennessee...
+  El centro este del condado de Fentress, en el centro de Tennessee...
+
+* Hasta las 800 PM CDT.
+
+* A las 731 PM CDT, una tormenta eléctrica severa capaz de producir un tornado
+  se encontraba a 7 millas al oeste de Rockwood, moviéndose hacia el norte a 50 mph.
+
+PELIGRO... Tornado.
+
+FUENTE... Rotación indicada por radar.
+
+IMPACTO... Los escombros voladores serán peligrosos para aquellos que sean atrapados sin 
+           refugio. Las casas móviles serán dañadas o destruidas. 
+           Se producirán daños en techos, ventanas y vehículos.  Árbol 
+           Es probable que se produzcan daños.
+
+* Esta tormenta tornádica permanecerá principalmente sobre áreas rurales de
+  el este de los condados de Cumberland y el centro este de Fentress, incluyendo
+  las siguientes ubicaciones... Huerto de cangrejos.
+
+Esto incluye la Interestatal 40 entre los marcadores de milla 328 y 340.
+ 
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+¡CÚBRETE AHORA! Muévase a un sótano o a una habitación interior en el más bajo
+suelo de un edificio robusto. Evite las ventanas. Si estás al aire libre, en un
+casa móvil, o en un vehículo, muévase al refugio sustancial más cercano
+y protégete de los escombros voladores.
+
+&&
+
+LAT... LON 3637 8470 3638 8472 3635 8473 3635 8474
+      3633 8474 3632 8479 3611 8485 3608 8483
+      3610 8482 3609 8480 3605 8479 3600 8472
+      3591 8468 3583 8477 3579 8485 3580 8494
+      3646 8476 3644 8469 3640 8466
+HORA... MOT... LOC 0031Z 196DEG 44KT 3587 8481 
+
+TORNADO... RADAR INDICADO
+TAMAÑO MÁXIMO DE GRANIZO...<.75 IN
+
+$$
+
+10

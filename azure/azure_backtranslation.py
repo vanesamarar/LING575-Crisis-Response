@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 import requests, uuid, json
+import time
 
 def load_alerts(input_dir):
 	alerts = []
@@ -40,10 +41,13 @@ def translate_text(alerts, lang):
 		response = requests.post(constructed_url, params=params, headers=headers, json=body)
 		response_json = response.json()
 
+		#print("Response JSON:", response_json)
+
 		backtrans = response_json[0]['translations'][0]['text']
 		out_path = os.path.join(output_dir, fname)
 		with open(out_path, "w", encoding="utf-8") as out_f:
 			out_f.write(backtrans)
+		#time.sleep(0.5)
 
 def main():
 	load_dotenv()

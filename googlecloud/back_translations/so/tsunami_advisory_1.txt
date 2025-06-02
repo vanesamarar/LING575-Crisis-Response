@@ -1,0 +1,141 @@
+WEAK51 PAAQ 081814
+TSUAK1
+
+INFORMATION
+Tsunami Message to the Public 1
+NWS National Tsunami Warning Center Palmer AK
+1114 AM PDT Friday Jul 8 2016
+
+...A Tsunami Advisory is now in effect...
+
+
+
+Tsunami Impact Advisory;
+
+ * ALEUTIAN ISLANDS - Samalga Pass, Alaska (30 miles SW of
+   Nikolski) to Attu, Alaska including the Pribilof Islands
+
+
+Other US and Canadian coasts in North America - 
+The tsunami threat level is being assessed. more
+Information will be provided in additional messages.
+
+
+INTRODUCTION INTRODUCTION EARTHQUAKE
+---------------------------------
+ * The following parameters are based on a quick preview.
+   Evaluation and change may occur.
+
+ * Size 8.2
+ * Original time 1009 AKDT Jul 08 2016
+                  1109 PDT Jul 08 2016
+                  1809 UTC Jul 08 2016
+ * Coordinates 52.0 North 160.0 East
+ * Depth 21 miles
+ * Location 325 miles SW of Bering I., Komandorski
+                  90 miles SE of Petropavlovsk, Kamchatka
+
+
+TUNAMI ACTIVITY FORECAST
+-----
+ * Tsunami activity is predicted to begin in the following
+   locations at specified times.
+
+                 Forecast
+                 start
+Tsunami zone
+-------------
+
+ * Alaska
+Shemya 1130 AKDT Jul 8
+Adak 1230 AKDT Jul 8
+Saint Paul 1345 AKDT Jul 8
+
+
+Observing TUNAAMI ACTIVITIES
+----
+ * No tsunami observations are available to report.
+
+
+Recommended actions
+----
+Measures to protect people's lives and property
+Tsunami advisory areas vary.
+
+If you are in a tsunami advisory area;
+
+ * Move away from the water, the beach, and stay away.
+   ports, marinas, breakwaters, bays and inlets.
+
+ * Observe and follow your local guidelines.
+   emergency officials because they may have details or
+   Personal information on your site.
+
+ * If you feel a strong earthquake or widespread shaking of the ground
+   Take immediate protective measures such as moving indoors.
+   and/or a preferred hike on foot.
+
+ * Boat drivers,
+     * Where time and conditions permit you to move by boat
+       A sea depth of at least 180 feet.
+
+     * If at sea, avoid entering shallow waters, ports,
+       marinas, bays, and inlets to avoid floating and
+       Under the rubble and strong currents.
+
+ * Do not go to the beach to observe a tsunami.
+
+ * Do not return to the beach until local emergency officials arrive.
+   Show that it is safe to do so.
+
+
+IMPACT
+---
+The impact will vary across different areas of the advice.
+places.
+
+If you are in a tsunami advisory area;
+
+ * A tsunami with strong waves and currents is possible.
+
+ * waves and currents can drown or injure people on board
+   in the water.
+
+ * Now beaches and ports, marinas,
+   bays, and inlets may be particularly dangerous.
+
+ * Some effects may persist for many hours or days after
+   The arrival of the first wave.
+
+ * The first wave may not be the largest so subsequent waves may be
+   Great.
+
+ * Each wave can last from 5 to 45 minutes when the wave breaks.
+   and go back.
+
+ * Coasts facing all directions are threatened because
+   Waves can wrap around islands and headlands and into bays.
+
+ * Strong ground shaking indicates a
+   An earthquake has occurred and a tsunami may be approaching.
+
+ * Rapidly receding or receding coastline, irregular waves and
+   The sounds, and strong currents are signs of a tsunami.
+
+ * A tsunami can look like water rushing out to sea.
+   A gentle wave rising like a flood without breaking waves,
+   like a series of breaking waves, or a vicious wall of water.
+
+
+ADDITIONAL INFORMATION AND BREAKING NEWS
+----
+ * See the website ntwc.arh.noaa.gov for more information.
+   information.
+
+ * Residents of the Pacific coast outside of California, Oregon,
+   Washington, British Columbia and Alaska should refer to
+   Pacific Tsunami Warning Center messages at ptwc.weather.gov.
+
+ * This message will be updated in 60 minutes.
+
+$$

@@ -1,0 +1,48 @@
+Flood Advisory
+New Orleans LA National Weather Service
+850 PM CDT Thursday, May 1, 2025
+
+Lak 091-105-020500
+/O.NEW. Y.0028.250502T0150Z-250502T0500Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Helena LA-Tangipahoa Street, LA-
+850 PM CDT Thursday, May 1, 2025
+
+... Flood advisories are in effect until midnight CDT tonight...
+
+* What... Flooding caused by heavy rainfall is expected.
+
+* Where... Parts of southeastern Louisiana, including the following 
+  Community Church, St. Helena and Tangipahoa.
+
+* When... Until midnight CDT tonight
+
+* Impact... Minor flooding in low-lying areas and poor drainage. 
+
+* More details...
+  - At 850 PM CDT, the Doppler radar showed heavy rain due to
+    Minor flooding is ongoing or expected to start
+    Between 1.5 and 3 inches of
+    The rain fell.
+  - Additional rainfall of up to 2 inches is expected to exceed
+    The area. This additional rain will cause minor flooding.
+  - Some of the locations that will experience flooding include...
+    Amite, Amite, Independence, and Roseland.
+  - http://www.weather.gov/safety/flood
+
+Action Caution/Readiness...
+
+In turn, don't drown when encountering flooded roads. 
+The death occurred in a motor vehicle.
+
+Be careful especially at night when it's hard to recognize 
+Flood hazards.
+
+&&
+
+Lat... POON 3080 9062 3082 9046 3068 9037 3061 9047
+      3063 9055 3071 9062
+
+$$
+
+TJS

@@ -1,0 +1,134 @@
+ Zyksi
+WEPA40 PP 021340
+TSUPAC
+
+Tsunami Message No. 2
+NWS Pacific Tsunami Warning Center Honolulu Hello
+1340 UTC, Friday, May 2, 2025
+
+... PTWC tsunami threat message...
+
+Notice **** Notice **** Notice **** Notice *****
+
+This message is issued for information only in support of
+ UNESCO/IOC Pacific and IS Tsunami Warning and Mitigation System
+ means for national authorities in each country of that system.
+
+The national authority will determine the appropriate level of
+ Notification for each country and may issue additional or further refining
+ Information.
+
+Notice **** Notice **** Notice **** Notice *****
+
+The tsunami forecast has been updated in this message.
+
+Primary seismic parameters
+---------------------------------
+
+* Magnitude 7.5
+  * Start time: 1259 UTC, May 2, 2025
+  * Coordinates 56.8 South, 67.9 West
+  * Depth 48 km / 30 miles
+  * LOCATION OF DRAKE PASSAGE
+
+Rating
+----------
+
+* An earthquake with a primary magnitude of 7.5 occurred in
+    THE DRAKE PASSAGE AT 1259 UTC ON FRIDAY, MAY 2, 2025.
+
+* Based on all available data... Dangerous tsunami waves are
+    Forecast for some coasts.
+
+Tsunami threat forecast updated
+---------------------------------
+
+* Tsunami waves reaching 1 to 3 meters above flood level are
+    Possible along some coasts of
+
+Chile.
+
+* Tsunami waves reach 0.3 to 1 m above flood level
+    Possible for some beaches of
+
+Antarctica.
+
+* Actual size on the coast may vary from forecast
+    magnitude due to uncertainties in forecasts and domestically
+    FEATURES. ESPECIALLY THE MAXIMUM TSUNAMI WAVE SIZE ON THE ATOLLS
+    AND AT LOCATIONS WITH FRINGING OR BARRIER REEFS LIKELY TO
+    Be smaller than the forecast shows.
+
+* For other areas covered by this product, the forecast is not available
+    Not yet calculated. The forecast will be expanded if
+    Ukuhlaziywa kwe-product.
+
+Recommended actions
+-------------------
+
+* Government agencies responsible for threatened coastal areas
+    Should take measures to inform and advise any coast
+    People at risk in line with their own
+    Rating... Procedure and level of threat.
+
+* People in threatened coastal areas should be cautious
+    FOR INFORMATION AND FOLLOW THE INSTRUCTIONS FROM THE NATIONAL AND
+    Local authorities.
+
+Estimated time of arrival
+--------------------------
+
+* Estimated time of arrival -ETA- of the first tsunami wave
+    For places in the threatened areas are given below.
+    Arrival time may vary and the first wave may not be
+    The largest tsunami is a series of waves and time between
+    Waves can last five minutes to an hour.
+
+Location: Coordinating Area, ETA(UTC)
+    ------------------------------------------------------------
+    GOLFO DE PENAS CHILE 47.1S 74.9W 1522 05/02
+
+Possible side effects
+-----------------
+
+* A tsunami is a series of waves.
+    May vary from 5 minutes to an hour.
+    For several hours or longer after the first wave.
+
+* Impact can vary greatly from one part of the coast to
+    NEXT, DUE TO LOCAL BATHYMETRY AND SHAPE AND HEIGHT
+    of the coast.
+
+* The impact may also vary depending on the situation of the flood in
+    Maximum tsunami time.
+
+* People trapped in the water of a tsunami may drown... A
+    crushed by pieces in water... Or be swept out to sea.
+
+Next update and more information
+--------------------------------------
+
+* The next message will be issued within an hour... Or sooner if
+    Guaranteed status.
+
+* Earthquake Authorization Information from the United States
+    Geological surveys are available online at
+    Earthquake. USGS.GOV.
+
+*More information about this event can be found at
+    WWW. TSUNAMI.GOV.
+
+* Coastal areas of Hawaii... American Samoa... Gham... and
+    CNMI should refer to the Pacific Tsunami Warning Center message
+    Especially for those places available at
+    WWW. TSUNAMI.GOV.
+
+* The coastal region of California... Oregon... Washington...
+    BRITISH COLUMBIA AND ALASKA SHOULD REFER ONLY TO THE UNITED STATES.
+    Available National Tsunami Warning Center Messages
+    AT WWW. TSUNAMI.GOV.
+
+$$
+
+NNNN
+

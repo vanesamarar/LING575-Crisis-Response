@@ -1,0 +1,49 @@
+Flood warning
+National Weather Service New Orleans LA
+Thursday, May 1, 2025 at 8:50 PM CDT
+
+LAC091-105-020500-
+/O.NEW.KLIX.FA.Y.0028.250502T0150Z-250502T0500Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+St. Helena LA-Tangipahoa LA-
+Thursday, May 1, 2025 at 8:50 PM CDT
+
+...a flood watch is in effect until midnight CDT tonight...
+
+* What... Flooding is expected due to excessive rainfall.
+
+* Location...parts of southeastern Louisiana including: 
+  The main temple, St. Helena and Tangipahoa.
+
+* When...until midnight CDT tonight.
+
+* Impact...Minor flooding in low-lying and poorly drained areas. 
+
+* Additional details...
+  - At 8:50 p.m. CDT, Doppler radar showed heavy rain.
+    Thunderstorms. Minor flooding expected to continue or begin.
+    We will soon reach the recommended area. Between 1.5 inches and 3 inches.
+    It rained.
+  - Up to 2 inches of additional rainfall is expected.
+    Additional rain could cause minor flooding in the area.
+  - Areas at risk of flooding include:
+    Amite, Amite City, Independence, Roseland.
+  - http://www.weather.gov/safety/flood
+
+Preventive/Preventive Measures...
+
+When you come across a flooded road, look back. Don't drown. Most floods 
+Fatal accidents occur in vehicles.
+
+Be especially careful at night when it can be difficult to recognize. 
+Risk of flooding.
+
+&&
+
+Latitude...Path 3080 9062 3082 9046 3068 9037 3061 9047
+      3063 9055 3071 9062
+
+
+$$
+
+TJS

@@ -1,0 +1,85 @@
+WGUS61 KLWX 160735
+FFALWX
+
+Flood warning
+National Weather Service Baltimore MD/Washington DC
+235 AM EST Sunday, February 16, 2025
+
+Heavy rain can fall on thick snow leading to melting. 
+increase. River flows can increase rapidly and reach critical levels. 
+level
+
+VAZ025-503-504-WVZ501-502-505-506-162300-
+/O.CON.KLWX.FA.A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Augusta-West Highlands-East Highlands-West Grant-East
+Grant-Western Pendleton-Eastern Pendleton-
+235 AM EST Sunday, February 16, 2025
+
+...Flood warning remains in effect until this afternoon...
+
+* WHAT... Flooding from rain and snow melt continues 
+  feasible
+
+* WHERE...Parts of West Virginia, including the following 
+  area, Augusta and Highland and eastern West Virginia, including 
+  the following areas: Grant and Pendleton.
+
+* WHEN...Until this afternoon.
+
+* IMPACT...Excessive runoff can cause flooding in rivers, 
+  streams, creeks and other low-lying, flood-prone locations.
+
+* ADDITIONAL DETAILS...
+  - A combination of 1 to 2 inches of rain, saturated ground,
+    and melting of new snow can cause flooding.
+  - Please visit www.weather.gov/safety/flood for flood safety information.
+    and preparation information.
+
+PREVENTIVE/PREPAREDNESS ACTIONS...
+
+You should monitor future forecasts and be alert for the possibility of flooding. 
+Warning. People living in flood-prone areas should prepare 
+to take action when floods occur.
+
+&&
+
+$$
+
+MDZ001-501-WVZ503-162300-
+/O.CON.KLWX.FA.A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Garrett-Extreme Western Allegany-Western Minerals-
+235 AM EST Sunday, February 16, 2025
+
+...Flood warning remains in effect until this afternoon...
+
+* WHAT... Flooding from rain and snow melt continues 
+  feasible
+
+* WHERE...The western portions of Maryland, including the following 
+  area, the westernmost Allegany and Garrett and the eastern West 
+  Virginia, including the following area: Western Mineral.
+
+* WHEN...Until this afternoon.
+
+* IMPACT...Excessive runoff can cause flooding in rivers, 
+  streams, creeks and other low-lying, flood-prone locations.
+
+* ADDITIONAL DETAILS...
+  - A combination of 1 to 2 inches of rain, saturated ground,
+    and melting of new snow can cause flooding.
+  - Please visit www.weather.gov/safety/flood for flood safety information.
+    and preparation information.
+
+PREVENTIVE/PREPAREDNESS ACTIONS...
+
+You should monitor future forecasts and be alert for the possibility of flooding. 
+Warning. People living in flood-prone areas should prepare 
+to take action when floods occur.
+
+&&
+
+$$
+
+DHOF

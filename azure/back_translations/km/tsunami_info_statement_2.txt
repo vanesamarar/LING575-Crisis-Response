@@ -1,0 +1,73 @@
+ Zyksi
+WEPA42 PHEB 291501
+TIBPAC
+
+Tsunami News Statement No. 1
+NWS Pacific Tsunami Warning Center Honolulu Hello
+1501 UTC, Tuesday, April 29, 2025
+
+... PTWC Tsunami News Statement...
+
+Notice **** Notice **** Notice **** Notice *****
+
+This statement is issued for informational purposes only to support
+ UNESCO/IOC Pacific and IS Tsunami Warning and Mitigation System
+ means for national authorities in each country of that system.
+
+The national authority will determine the appropriate level of
+ Notification for each country and may issue additional or further refining
+ Information.
+
+Notice **** Notice **** Notice **** Notice *****
+
+Primary seismic parameters
+---------------------------------
+
+* Magnitude 6.8
+  * Start time: 1454 UTC, April 29, 2025
+  * Coordinates 54.3 South, 155.6 East
+  * Depth 10 km / 6 miles
+  * LOCATION: MACQUARIE ISLAND AREA
+
+Rating
+----------
+
+* An earthquake with a primary magnitude of 6.8 occurred in
+    MACQUARIE ISLAND REGION AT 1454 UTC ON TUESDAY, APRIL 29
+    2025.
+
+* Based on all available data... There is no tsunami threat
+    from the earthquake.
+
+Recommended actions
+-------------------
+
+* No action required.
+
+Next update and more information
+--------------------------------------
+
+* This will be the only statement issued for this event, except
+    Additional data is received or the status changes.
+
+* Earthquake Authorization Information from the United States
+    Geological surveys are available online at
+    Earthquake. USGS.GOV.
+
+*More information about this event can be found at
+    WWW. TSUNAMI.GOV.
+
+* Coastal areas of Hawaii... American Samoa... Gham... and
+    CNMI should refer to the Pacific Tsunami Warning Center message
+    Especially for those places available at
+    WWW. TSUNAMI.GOV.
+
+* The coastal region of California... Oregon... Washington...
+    BRITISH COLUMBIA AND ALASKA SHOULD REFER ONLY TO THE UNITED STATES.
+    Available National Tsunami Warning Center Messages
+    AT WWW. TSUNAMI.GOV.
+
+$$
+
+NNNN
+

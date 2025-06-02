@@ -1,0 +1,27 @@
+Aviso de inundaciones
+Servicio Meteorológico Nacional Austin/San Antonio TX
+21:15 CDT miércoles 30 de abril de 2025
+
+TXC013-010225-
+/O.EXP.KEWX.FA.Y.0005.000000T0000Z-250501T0215Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Atascosa TX-
+21:15 CDT miércoles 30 de abril de 2025
+
+...LA ADVERTENCIA DE INUNDACIÓN HA EXPIRADO...
+
+La alerta de inundaciones ha expirado para una parte del centro-sur de Texas, 
+incluida la siguiente zona, Atascosa.
+
+Las fuertes lluvias han cesado. Ya no se espera que las inundaciones supongan un problema. 
+Amenaza. Por favor, continúen prestando atención a los cierres de carreteras restantes.
+
+&&
+
+LAT...LON 2888 9818 2883 9823 2884 9855 2893 9858
+      2896 9827 2893 9823
+
+
+$$
+
+transmisión exterior

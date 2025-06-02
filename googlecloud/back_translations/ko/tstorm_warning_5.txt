@@ -1,0 +1,53 @@
+WUUS51 KLWX 010100
+SVRLWX
+MDC015-010130-
+/O.NEW.KLWX.SV.W.0021.250401T0100Z-250401T0130Z/
+
+Bulletin Board - Request for immediate broadcast
+Severe Thunderstorm Warning
+National Weather Service Baltimore MD/Washington DC
+Monday, March 31, 2025 at 9:00 PM EDT
+
+The National Weather Service in Sterling, Virginia, reported:
+
+* A severe thunderstorm warning has been issued.
+  Southeastern Cecil County in northeastern Maryland...
+
+* Until 9:30 p.m. ET.
+
+* At 8:59 p.m. ET, a line of severe thunderstorms developed.
+  It extends from Brentwood to near Cecilton and is moving east at 35 mph.
+
+  Danger...60mph gusts.
+
+  Source...automated surface weather observations.
+
+  Impact...Strong winds may cause damage to some trees and large branches. 
+           It can cause a fall, which can injure people outside. 
+           Damage to homes and vehicles. Roads may be blocked. 
+           A tree has fallen. Power outages may occur locally. 
+           Any light, unmoving object can become a projectile.
+
+* The affected areas are as follows:
+  Warwick, Cecilton, Brentwood, Chesapeake City, Bohemia's Mills and
+  Kayots.
+
+Preventive/Preventive Measures...
+
+For your protection, go to the inner room on the lowest floor.
+building.
+
+&&
+
+Latitude...Path 3938 7582 3937 7585 3937 7588 3954 7591
+      3957 7578 3938 7577
+Time...MOT...LOC 0059Z 265DEG 32KT 3953 7582 3937 7586 
+
+Hail threat...radar detected
+Maximum hail size...<0.75 inches
+Wind threat...observed
+Maximum gusts...60 MPH
+
+$$
+
+CJL

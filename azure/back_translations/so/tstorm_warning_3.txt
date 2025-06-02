@@ -1,0 +1,55 @@
+/O.NEW. KPAH.SV. W.0215.250502T1754Z-250502T1845Z/
+
+BULLETIN - EMERGENCY BROADCAST APPLIED
+Severe Hurricane Warning
+National Weather Service Paducah KY
+1254 PM CDT Fri 2025
+
+The National Weather Service in Paducah has issued a
+
+* Extreme Hurricane Storm Warning...
+  Daviess County in northwest Kentucky...
+  East McLean County in northwestern Kentucky...
+
+* Aa 145 PM CDT.
+
+* At 1254 PM CDT, severe thunderstorms hit a destination
+  beginning near Beech Grove near Central City, moving on to The City Center, moving on
+  northeast of 30 mph.
+
+SEARCH... 60 mph gray wind and nickel size hail.
+
+REFERENCES... Radar pointed out.
+
+IMPACT... You consider damaging roofs, sides and trees.
+
+* Areas affected include...
+  Owensboro, Calhoun, Livermore, Whitesville, Masonville,
+  Knottsville, St. Joseph, Island, and Moseleyville.
+
+This includes the following highways...
+ Interstate 165 between Mile Markers 60 and 70.
+ Audubon Parkway near Mile Marker 23.
+
+CAUTION/PREPAREDNESS OF STEPS...
+
+To maintain an indoor room on the lowest floor of a
+construction.
+
+&&
+
+LAT... LON 3762 8692 3865 8695 3755 8705 3705 3705 3747 8711
+      3748 8713 3745 8710 3741 8711 3769 8739
+      3779 8712 3778 8710 3781 8707 3786 8691
+      3784 8691 3783 8689 3784 8686 3779 8682
+      3774 8682 3771 8686 3767 8682
+BRAND... Mot... LOC 1754Z 245DEG 24KT 3765 8740 3737 8750 
+
+THREAT... SIGNALED RADAR
+MAX VIBRATION SIZE... 0.88 IE
+WIND THREAT... SIGNALED RADAR
+MAX WIND GUST... 60 MPH
+
+$$
+
+DW

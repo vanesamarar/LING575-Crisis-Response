@@ -1,0 +1,41 @@
+
+WEAK53 PAAQ 300402
+TIBAK1
+
+Bayaanka Warbixinta Tsunami Nambarka 1
+Xarunta Digniinta Tsunami qaran ee NWS Palmer AK
+802 PM AKDT Mar 29 2025
+
+... TANI WAA BAYAANKA MACLUUMAADKA TSUNAMI A ...
+
+QIIMAYNTA
+----------
+ * Dhulgariirkan halis tsunami ah kama jirto.
+
+HORUDHACA DHULGARIIRKA XUDUUDAHA
+---------------------------------
+
+* Beegyada soo socda waxay ku saleysan yihiin hordhac degdeg ah
+   Qiimaynta dhulgariirka iyo isbedelka ayaa dhici kara.
+
+* Cadadka 4.4
+ * 1959 AKDT Apr 29 2025
+                  2059 PDT Mar 29 2025
+                  0359 UTC Mar 30 2025
+ * Coordinates 59.7 Waqooyi 152.7 Galbeed
+ * Qoto 59 mayl
+ * Goobta 45 mayl W of Homer, Alaska
+                  140 miles SW of Anchorage, Alaska
+
+MACLUUMAAD DHEERAAD AH IYO UPDATE NEXT
+--------------------------------------
+ * Faahfaahin dheeri ah oo ay soo saari doonaan Mareykanka
+   Cilmi-baarida cilmi-baarida (earthquake.usgs.gov) ama waxa ku haboon
+   network seismic goboleed.
+
+* Tani waxay noqon doontaa xarunta kaliya ee Digniinta Tsunami National Maraykanka.
+   farriin lagu soo saaray dhacdadan haddii xog dheeri ah eysan ka soo bixin
+   noqon kartaa diyaar.
+
+$$
+
