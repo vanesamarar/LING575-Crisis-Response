@@ -17,7 +17,7 @@ def load_combined_alerts():
         return [line.replace("\n", " ").strip() for line in f.readlines() if line.strip()]
 
 def load_backtranslations(provider, lang):
-    bt_path = os.path.join(provider, "test_back_translations", lang)
+    bt_path = os.path.join(provider, "back_translations", lang)
     if not os.path.exists(bt_path):
         print(f"Missing backtranslation for {provider} {lang}")
         return []
@@ -27,15 +27,13 @@ def load_backtranslations(provider, lang):
         if filename.endswith(".txt"):
             filepath = os.path.join(bt_path, filename)
             with open(filepath, "r", encoding="utf-8") as f:
-                #bt_lines.extend([line.strip() for line in f if line.strip()]) THIS
-                #bt_lines.append(f.read().strip()) OR THIS 
                 content = f.read().replace("\n", " ").strip()
                 bt_lines.append(content)
 
     return bt_lines
 
 def load_forward_translations(provider, lang):
-    src_path = os.path.join(provider, "test_forward_translations", lang)
+    src_path = os.path.join(provider, "forward_translations", lang)
     if not os.path.exists(src_path):
         print(f"Missing forward translations for {provider} {lang}")
         return []
@@ -45,7 +43,6 @@ def load_forward_translations(provider, lang):
         if filename.endswith(".txt"):
             filepath = os.path.join(src_path, filename)
             with open(filepath, "r", encoding="utf-8") as f:
-                #src_lines.extend([line.strip() for line in f if line.strip()])
                 src_lines.append(f.read().strip())
 
     return src_lines
@@ -66,16 +63,6 @@ def evaluate_backtranslations(srcs, refs, bts):
     #BERTScore
     P, R, F1 = bert_score(bts, refs, lang="en", rescale_with_baseline=True)
     bert_avg = float(F1.mean())
-
-    for i in range(min(3, len(refs))):
-        print(f"REF {i} raw repr: {repr(refs[i])}")
-        print(f"BT  {i} raw repr: {repr(bts[i])}")
-
-    print("\n--- Sample backtranslation evaluation ---")
-    for i in range(min(3, len(refs))):
-        print(f"REF {i}: {refs[i]}")
-        print(f"BT  {i}: {bts[i]}")
-    print("--- End sample ---\n")
 
     return comet_avg, bleu, bert_avg
     
