@@ -1,20 +1,13 @@
-from google.cloud import translate_v2 as translate
-import os, json
 from dotenv import load_dotenv
+from google.cloud import translate_v2 as translate
+import os
+import html
 
-#translates text using Neural Machine Translation in Google Cloud Translation API
+translation_langs = ["es", "vi", "ko", "km", "so"]
+input_dir = "data"
+output_dir = "googlecloud/forward_translations"
 
-'''Translate_text function needs to be edited to correctly read in files from folder.
-We either need a good way to read in the files from their subdirectories or put all the files 
-together in one directory instead of sub directories.
-
-Also, we need to read the names of the input files to make names for the output files. I 
-figured it would be easiest to fix all of this once we have the code to read the directory.
-
-'''
-  
 def load_alerts(data_dir):
-#load txt files and their contents from data directory and store as list
 	alerts = []
 	for root, _, files in os.walk(data_dir):
 		for file in files:
@@ -24,36 +17,35 @@ def load_alerts(data_dir):
 					content = f.read()
 				alerts.append((file, content))
 	return alerts
-	
-def translate_text(alerts, lang):
-	#initialize translation client, key should be in .env file
-	translate_client=translate.Client(key=os.getenv("GOOGLE_APPLICATION_CREDENTIALS_1")) #need to add key and hide .env file
 
-	#new loop to read through alerts dict and translate each file
-	for k, value in alerts.items():
-		#create new file for each translated file, using category key and lang code
-		with open(f"{k}_{lang}.txt", "w") as outFile:    
-			translation=translate_client.translate(value, target_language=lang, source_language="en") #should shut off auto lang detection that eats credits
-			outFile.write(translation['translatedText'])
-	outFile.close()
+def translate_text(alerts, lang, out_dir):
+	translate_client = translate.Client()
+	lang_dir = os.path.join(out_dir, lang)
+	os.makedirs(lang_dir, exist_ok=True)
+
+	for file, content in alerts:
+		lines = content.strip().splitlines()
+		translations = []
+
+		for line in lines:
+			if line.strip() == "":
+				translations.append("")
+				continue
+			translated = translate_client.translate(line, target_language=lang, source_language="en")
+			unescaped = html.unescape(translated['translatedText'])
+			translations.append(unescaped)
+
+		out_path = os.path.join(lang_dir, file)
+		with open(out_path, "w", encoding="utf-8") as f:
+			f.write("\n".join(translations))
 
 def main():
-	#read in data files from data directory, probably should store the name of the file in var too
-	#also need to read in api key from env variable
-	#os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path/to/your/credentials.json"
-	load_dotenv() #reads in env variables from .env file
+	load_dotenv()
+	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+	alerts = load_alerts(input_dir)
 
-	#below needs to be edited to correctly read in the files
-	data_dir = "data" #hardcode actual path to data directory?
-
-	alerts = load_alerts(data_dir)
-	
-	#translate to target languages: 
-	translate_text(alerts, "es")	#Spanish translation
-	translate_text(alerts, "vi")	#Vietnamese translation
-	translate_text(alerts, "ko")	#Korean translation	
-	translate_text(alerts, "km")	#Khmer translation
-	translate_text(alerts, "so")	#Somali translation
+	for lang in translation_langs:
+		translate_text(alerts, lang, output_dir)
 
 if __name__ == "__main__":
-	main() 
+	main()
