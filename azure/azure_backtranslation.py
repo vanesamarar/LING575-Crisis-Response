@@ -14,8 +14,8 @@ def load_alerts(input_dir):
 	return alerts
 
 def translate_text(alerts, lang):
-	key=os.getenv("AZURE_KEY_2") #need to add key and hide .env file
-	endpoint=os.getenv("AZURE_ENDPOINT") #need to add endpoint url to .env ---- I THINK this can be the same endpoint url as forward translation
+	key=os.getenv("AZURE_KEY_2")
+	endpoint=os.getenv("AZURE_ENDPOINT")
 	region = os.getenv("AZURE_REGION", "westus2")
 
 	path='/translate'
