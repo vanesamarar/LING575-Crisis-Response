@@ -55,7 +55,12 @@ def translate_text(alerts, lang, out_dir):
 		print(f"Translated {file} to {lang}")
 
 def main():
-	load_dotenv() 
+	load_dotenv()
+
+	print("AZURE_KEY_1:", os.getenv("AZURE_KEY_1"))
+	print("AZURE_ENDPOINT:", os.getenv("AZURE_ENDPOINT"))
+	print("AZURE_REGION:", os.getenv("AZURE_REGION"))
+ 
 	alerts=load_alerts(input_dir)
 	for lang in translation_langs:
 		translate_text(alerts, lang, output_dir)
