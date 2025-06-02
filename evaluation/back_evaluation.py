@@ -61,7 +61,7 @@ def evaluate_backtranslations(srcs, refs, bts):
     bleu = corpus_bleu(bts, [refs]).score
     
     #BERTScore
-    P, R, F1 = bert_score(bts, refs, lang="en", rescale_with_baseline=True)
+    P, R, F1 = bert_score(bts, refs, lang="en", rescale_with_baseline=False)
     bert_avg = float(F1.mean())
 
     return comet_avg, bleu, bert_avg
