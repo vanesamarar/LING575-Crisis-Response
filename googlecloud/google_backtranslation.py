@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 from google.cloud import translate_v2 as translate
 import html
 
-#adjust load_alerts to account for directory formatting from forward translation -- see notes in main()
 def load_alerts(input_dir):
 	alerts = []
 	for root, _, files in os.walk(input_dir):
@@ -17,7 +16,7 @@ def load_alerts(input_dir):
 	
 def translate_text(alerts, lang):
 	translate_client = translate.Client()
-	output_dir = os.path.join("googlecloud", "test_back_translations", lang)
+	output_dir = os.path.join("googlecloud", "back_translations", lang)
 	os.makedirs(output_dir, exist_ok=True)
 	
 	for fname, content in alerts:
@@ -37,10 +36,10 @@ def translate_text(alerts, lang):
 			outFile.write("\n".join(translations))
 			
 def main():
-	load_dotenv() #reads in env variables from .env file
+	load_dotenv()
 	langs = ["es", "vi", "ko", "km", "so"]
 	for lang in langs:
-		input_dir = os.path.join("googlecloud", "test_forward_translations", lang)
+		input_dir = os.path.join("googlecloud", "forward_translations", lang)
 		alerts = load_alerts(input_dir)
 		translate_text(alerts, lang)
 
