@@ -1,0 +1,6 @@
+Provider   Language   COMET      BLEU       BERTScore 
+googlecloud es         0.9002     0.00       0.5862    
+googlecloud vi         0.9805     0.00       1.0000    
+googlecloud ko         0.8897     0.00       0.6866    
+googlecloud km         0.9810     0.00       1.0000    
+googlecloud so         0.9782     0.00       1.0000    
