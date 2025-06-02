@@ -1,6 +1,7 @@
 import os, json
 from dotenv import load_dotenv
 from google.cloud import translate_v2 as translate
+import html
 
 #adjust load_alerts to account for directory formatting from forward translation -- see notes in main()
 def load_alerts(input_dir):
@@ -15,23 +16,33 @@ def load_alerts(input_dir):
 	return alerts
 	
 def translate_text(alerts, lang):
-	translate_client=translate.Client(key=os.getenv("GOOGLE_APPLICATION_CREDENTIALS_2")) #need to add key and hide 
+	translate_client = translate.Client()
 	output_dir = os.path.join("googlecloud", "test_back_translations", lang)
 	os.makedirs(output_dir, exist_ok=True)
 	
 	for fname, content in alerts:
-		translated = translate_client.translate(content, target_language="en", source_language=lang)
-        	output_path = os.path.join(output_dir, fname)
-        	with open(output_path, "w", encoding="utf-8") as outFile:
-            		outFile.write(translated["translatedText"])
+		lines = content.strip().splitlines()
+		translations = []
+
+		for line in lines:
+			if line.strip() == "":
+				translations.append("")
+				continue
+			translated = translate_client.translate(line, target_language="en", source_language=lang)
+			unescaped = html.unescape(translated["translatedText"])
+			translations.append(unescaped)
+
+		output_path = os.path.join(output_dir, fname)
+		with open(output_path, "w", encoding="utf-8") as outFile:
+			outFile.write("\n".join(translations))
 			
 def main():
 	load_dotenv() #reads in env variables from .env file
 	langs = ["es", "vi", "ko", "km", "so"]
-    	for lang in langs:
-        	input_dir = os.path.join("googlecloud", "test_forward_translations", lang)
-        	alerts = load_alerts(input_dir)
-        	translate_text(alerts, lang)
+	for lang in langs:
+		input_dir = os.path.join("googlecloud", "test_forward_translations", lang)
+		alerts = load_alerts(input_dir)
+		translate_text(alerts, lang)
 
 
 if __name__ == "__main__":
