@@ -34,7 +34,7 @@ def translate_text(alerts, lang, out_dir):
 		'Content-type':'application/json',
 		'X-ClientTraceId':str(uuid.uuid4()),
 		'Ocp-Apim-Subscription-Key':key,
-		'Ocp-Apim-Subscription-Region': region #need to check this, otherwise optional
+		'Ocp-Apim-Subscription-Region': region
 	}
 
 	lang_dir = os.path.join(out_dir, lang)
@@ -52,14 +52,9 @@ def translate_text(alerts, lang, out_dir):
 		out_path = os.path.join(lang_dir, file)
 		with open(out_path, "w", encoding="utf-8") as outFile:
 			outFile.write(translated_text)
-		print(f"Translated {file} to {lang}")
 
 def main():
 	load_dotenv()
-
-	print("AZURE_KEY_1:", os.getenv("AZURE_KEY_1"))
-	print("AZURE_ENDPOINT:", os.getenv("AZURE_ENDPOINT"))
-	print("AZURE_REGION:", os.getenv("AZURE_REGION"))
  
 	alerts=load_alerts(input_dir)
 	for lang in translation_langs:
