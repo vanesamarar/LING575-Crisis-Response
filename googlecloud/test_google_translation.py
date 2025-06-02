@@ -1,13 +1,15 @@
+from dotenv import load_dotenv
 from google.cloud import translate_v2 as translate
 import os
+import html
 
 translation_langs = ["es", "vi", "ko", "km", "so"]
 input_dir = "test_data"
 output_dir = "googlecloud/test_forward_translations"
 
 def load_alerts(data_dir):
-  	alerts = []
-  	for root, _, files in os.walk(data_dir):
+	alerts = []
+	for root, _, files in os.walk(data_dir):
 		for file in files:
 			if file.endswith(".txt"):
 				full_path = os.path.join(root, file)
@@ -22,13 +24,25 @@ def translate_text(alerts, lang, out_dir):
 	os.makedirs(lang_dir, exist_ok=True)
 
 	for file, content in alerts:
-		translation = translate_client.translate(content, target_language=lang, source_language="en")
-        	out_path = os.path.join(lang_dir, file)
-        	with open(out_path, "w", encoding="utf-8") as f:
-            		f.write(translation['translatedText'])
-        	print(f"Translated {file} to {lang}")
+		lines = content.strip().splitlines()
+		translations = []
+
+		for line in lines:
+			if line.strip() == "":
+				translations.append("")  # preserve blank lines
+				continue
+			translated = translate_client.translate(line, target_language=lang, source_language="en")
+			unescaped = html.unescape(translated['translatedText'])
+			translations.append(unescaped)
+
+		out_path = os.path.join(lang_dir, file)
+		with open(out_path, "w", encoding="utf-8") as f:
+			f.write("\n".join(translations))
+		print(f"Translated {file} to {lang}")
+
 
 def main():
+	load_dotenv()
 	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
 	alerts = load_alerts(input_dir)
 
