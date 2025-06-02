@@ -33,26 +33,26 @@ def translate_text(alerts, lang):
 	}
 
 	output_dir = os.path.join("azure", "test_back_translations", lang)
-    	os.makedirs(output_dir, exist_ok=True)
+	os.makedirs(output_dir, exist_ok=True)
 
 	for fname, content in alerts:
-        	body = [{'text': content}]
-        	response = requests.post(constructed_url, params=params, headers=headers, json=body)
-        	response_json = response.json()
+		body = [{'text': content}]
+		response = requests.post(constructed_url, params=params, headers=headers, json=body)
+		response_json = response.json()
 
-        	backtrans = response_json[0]['translations'][0]['text']
-        	out_path = os.path.join(output_dir, fname)
-        	with open(out_path, "w", encoding="utf-8") as out_f:
-            		out_f.write(backtrans)
+		backtrans = response_json[0]['translations'][0]['text']
+		out_path = os.path.join(output_dir, fname)
+		with open(out_path, "w", encoding="utf-8") as out_f:
+			out_f.write(backtrans)
 
 def main():
 	load_dotenv() #load env variables form .env file
 	langs = ["es", "vi", "ko", "km", "so"]
 
 	for lang in langs:
-        	input_dir = os.path.join("azure", "test_forward_translations", lang)
-        	alerts = load_alerts(input_dir)
-        	translate_text(alerts, lang)
+		input_dir = os.path.join("azure", "test_forward_translations", lang)
+		alerts = load_alerts(input_dir)
+		translate_text(alerts, lang)
 	
 
 if __name__ == "__main__":
