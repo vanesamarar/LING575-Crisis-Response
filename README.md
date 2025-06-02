@@ -37,11 +37,26 @@ Google Cloud Translation can be accessed via Google.
 
 Azure AI Translator can be accessed via the Azure platform.
 
-1. Create a free Azure account ()
-2. Create a single service resource in the Azure portal. Location 'westus2' was chose. The key and endpoint are on the Keys and Endpoint page. If no endpoint listed, use "https://api.cognitive.microsofttranslator.com".
+1. Create a free Azure account (https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account)
+2. Create a single service resource in the Azure portal. Location 'westus2' was chosen. The key and endpoint are on the Keys and Endpoint page. If an endpoint is not listed, use "https://api.cognitive.microsofttranslator.com".
 3. Add keys and endpoint to .env
 4. Run 'pip install requests uuid'
 5. Store keys and endpoint in .env
 
 **Anything else to add to these?
+
+##Scripts and Evaluation --- add info here
+Run the following commands in the terminal to install the required evaluation packages. This process assumes conda is already installed. To download conda, download here: (https://www.anaconda.com/docs/getting-started/anaconda/main)
+
+This downloads transformers 4.6.1, python 3.8, and hf46 environment:
+'pip install python-dotenv'
+'conda install -c huggingface transformers=4.6.1'
+'pip install "unbabel-comet>=2.0.0" '
+'pip install transquest'
+'pip install simpletransformers'
+'pip install bert-score'
+
+
+
+
 
