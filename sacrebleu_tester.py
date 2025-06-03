@@ -158,11 +158,11 @@ google_bt = [google.strip()]
 copy_bt = [copy.strip()]
 
 # Compute BLEU scores
-bleu_azure = corpus_bleu(azure_bt, [reference])
-bleu_google = corpus_bleu(google_bt, [reference])
-bleu_copy = corpus_bleu(copy_bt, [reference])
+bleu_azure = corpus_bleu(azure_bt, [reference]).score
+bleu_google = corpus_bleu(google_bt, [reference]).score
+bleu_copy = corpus_bleu(copy_bt, [reference]).score
 
 # Output results
-print(f"BLEU (Azure):  {bleu_azure.score:.2f}")
-print(f"BLEU (Google): {bleu_google.score:.2f}")
-print(f"BLEU (Copy):   {bleu_copy.score:.2f}")
+print(f"BLEU (Azure):  {bleu_azure:.2f}")
+print(f"BLEU (Google): {bleu_google:.2f}")
+print(f"BLEU (Copy):   {bleu_copy:.2f}")

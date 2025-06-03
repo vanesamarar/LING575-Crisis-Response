@@ -1,0 +1,6 @@
+Provider     Language   BLEU      
+azure        es         68.34     
+azure        vi         59.92     
+azure        ko         39.12     
+azure        km         48.86     
+azure        so         57.35     
