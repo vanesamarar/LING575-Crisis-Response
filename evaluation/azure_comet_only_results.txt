@@ -1,0 +1,6 @@
+Provider   Language   COMET     
+azure      es         0.8655    
+azure      vi         0.8587    
+azure      ko         0.7731    
+azure      km         0.7946    
+azure      so         0.7979    

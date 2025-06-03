@@ -1,0 +1,6 @@
+Provider   Language   COMET     
+googlecloud es         0.8641    
+googlecloud vi         0.8659    
+googlecloud ko         0.7857    
+googlecloud km         0.8016    
+googlecloud so         0.8119    
