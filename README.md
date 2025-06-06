@@ -48,16 +48,16 @@ Your .gitignore file should list your json file(s) and your .env file. If only u
 **Anything else to add to these?
 
 ### Scripts
-1.google_cloud_translation.py
+1. google_cloud_translation.py
 This script translates English text (forward translation) using Neural Machine Translation in Google Cloud Translation API. Please ensure the above Google Cloud API credentials are correct prior to using.
 
-2.azure_translate.py
+2. azure_translate.py
 This script translates English text (forward translation) using the Azure Translator. Please ensure the above Azure API credentials are correct prior to using.
 
-3.google_cloud_backtranslation.py
+3. google_cloud_backtranslation.py
 This script translates text from 5 languages into English (backtranslation) using Neural Machine Translation in Google Cloud Translation API. Please ensure the above Google Cloud API credentials are correct prior to using.
 
-4.azure_backtranslation.py
+4. azure_backtranslation.py
 This script translates text from 5 languages into English (backtranslation) using the Azure Translator. Please ensure the above Azure API credentials are correct prior to using.
 
 
