@@ -98,7 +98,7 @@ This script evaluates the back-translations produced by scripts 4 and 5 using Co
 
 
 
-### Evaluation --- add MORE info here about implementation
+### Evaluation
 Run the following requirements commands below in the terminal to install the required evaluation packages. This process assumes conda is already installed. To download conda, download here: (https://www.anaconda.com/docs/getting-started/anaconda/main)
 
 
