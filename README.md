@@ -67,35 +67,36 @@ This will call the scripts outlined in the next section in the order they are pr
 Please ensure the above Google Cloud and Azure API credentials are correct prior to running.
 
 ### Scripts
+This script translates English text into the 5 target languages (forward translation) using the Azure Translator:
 ```bash
 1. azure_translation.py
 ```
-This script translates English text into the 5 target languages (forward translation) using the Azure Translator.
 
+
+This script translates English text into the 5 target languages (forward translation) using the Neural Machine Translation in Google Cloud Translation API:
 ```bash
 2. google_translation.py
 ```
-This script translates English text into the 5 target languages (forward translation) using the Neural Machine Translation in Google Cloud Translation API. 
 
+This script evaluates the forward translations produced by the first two scripts using Comet-Kiwi and MonoTransQuest:
 ```bash
 3. forward_evaluation.py
 ```
-This script evaluates the forward translations produced by the first two scripts using Comet-Kiwi and MonoTransQuest.
 
+This script translates the first script's output from the 5 languages back into English (back-translation) using the Azure Translator:
 ```bash
 4. azure_backtranslation.py
 ```
-This script translates the first script's output from the 5 languages back into English (back-translation) using the Azure Translator.
 
+This script translates the second script's output from the 5 languages back into English (back-translation) using Neural Machine Translation in Google Cloud Translation API:
 ```bash
 5. google_backtranslation.py
 ```
-This script translates the second script's output from the 5 languages back into English (back-translation) using Neural Machine Translation in Google Cloud Translation API.
 
+This script evaluates the back-translations produced by scripts 4 and 5 using Comet, BLEU, and BERTScore:
 ```bash
 6. back_evaluation.py
 ```
-This script evaluates the back-translations produced by scripts 4 and 5 using Comet, BLEU, and BERTScore.
 
 
 
@@ -104,16 +105,23 @@ Run the following commands in the terminal to install the required evaluation pa
 
 
 ### Requirements
+Set up environment (we used the HuggingFace Transformers 4.6.1 version within a Conda environment named hf46 using python version 3.8):
+```bash
+conda create -n hf46 python=3.8
+conda activate hf46
+conda install -c huggingface transformers=4.6.1
+```
+
 Install dependencies with:
 ```bash
-'pip install python-dotenv'
-'conda install -c huggingface transformers=4.6.1'
-'pip install "unbabel-comet>=2.0.0" '
-'pip install transquest'
-'pip install simpletransformers'
-'pip install bert-score'
+pip install python-dotenv
+pip install "unbabel-comet>=2.0.0" 
+pip install transquest
+pip install simpletransformers
+pip install bert-score
 ```
-We used the HuggingFace Transformers 4.6.1 version within a Conda environment named hf46 using python version 3.8.
+
+
 
 
 
