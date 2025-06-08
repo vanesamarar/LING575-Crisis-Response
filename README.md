@@ -41,14 +41,13 @@ Google Cloud Translation can be accessed via Google.
 8. Run 'gcloud init'
 9. Run 'pip install --upgrade google-cloud-translate'
 
-* I think this is right...
 
 ### Azure
 
 Azure AI Translator can be accessed via the Azure platform.
 
 1. Create a free Azure account (https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account)
-2. Create a single service resource. Location 'westus2' was chosen.
+2. Create a single service resource. Location 'westus2' and pricing tier S1 (standard pay as you go) were chosen.
 3. Navigate to Keys and Endpoint page and copy your endpoint and key. If an endpoint is not listed, use "https://api.cognitive.microsofttranslator.com".
 4. Add keys and endpoint to .env
 5. Run 'pip install requests uuid'
@@ -56,7 +55,6 @@ Azure AI Translator can be accessed via the Azure platform.
 
 Your .gitignore file should list your json file(s) and your .env file. If only using a single API key for both Azure and Google Cloud, you can change the 'AZURE_KEY_2' and "GOOGLE_APPLICATION_CREDENTIALS_2' in the azure_backtranslation.py and google_cloud_backtranslation.py scripts to reflect the single key, as 'AZURE_KEY_1' and 'GOOGLE_APPLICATION_CREDENTIALS_1'. If only using a single API credentials in each (compared to our two sets), you must change the scripts below to reflect the single key set. 
 
-**Anything else to add to these?
 
 ### Running the Pipeline
 Run the following command to execute the full pipeline:
@@ -101,10 +99,10 @@ This script evaluates the back-translations produced by scripts 4 and 5 using Co
 
 
 ### Evaluation --- add MORE info here about implementation
-Run the following commands in the terminal to install the required evaluation packages. This process assumes conda is already installed. To download conda, download here: (https://www.anaconda.com/docs/getting-started/anaconda/main)
+Run the following requirements commands below in the terminal to install the required evaluation packages. This process assumes conda is already installed. To download conda, download here: (https://www.anaconda.com/docs/getting-started/anaconda/main)
 
 
-### Requirements
+#### Requirements
 Set up environment (we used the HuggingFace Transformers 4.6.1 version within a Conda environment named hf46 using python version 3.8):
 ```bash
 conda create -n hf46 python=3.8
