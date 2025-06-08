@@ -1,6 +1,0 @@
-Provider     Language   COMET-Kiwi  
-googlecloud  es         0.4768      
-googlecloud  vi         0.4745      
-googlecloud  ko         0.5450      
-googlecloud  km         0.5431      
-googlecloud  so         0.3772      
