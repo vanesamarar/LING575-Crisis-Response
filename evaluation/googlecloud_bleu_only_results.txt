@@ -1,6 +1,0 @@
-Provider     Language   BLEU      
-googlecloud  es         66.11     
-googlecloud  vi         61.73     
-googlecloud  ko         38.25     
-googlecloud  km         51.36     
-googlecloud  so         59.98     
