@@ -102,7 +102,7 @@ This script evaluates the back-translations produced by scripts 4 and 5 using Co
 Run the following requirements commands below in the terminal to install the required evaluation packages. This process assumes conda is already installed. To download conda, download here: (https://www.anaconda.com/docs/getting-started/anaconda/main)
 
 
-#### Requirements
+### Requirements
 Set up environment (we used the HuggingFace Transformers 4.6.1 version within a Conda environment named hf46 using python version 3.8):
 ```bash
 conda create -n hf46 python=3.8
