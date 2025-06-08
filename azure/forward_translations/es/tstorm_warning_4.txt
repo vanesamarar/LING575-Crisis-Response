@@ -1,0 +1,45 @@
+/O.NUEVO. KFWD.SV. W.0161.250426T2010Z-250426T2045Z/
+
+BOLETÍN - SE SOLICITA TRANSMISIÓN INMEDIATA
+Advertencia de tormenta eléctrica severa
+Servicio Meteorológico Nacional, Fort Worth, TX
+310 PM CDT sáb 26 abr 2025
+
+El Servicio Meteorológico Nacional en Fort Worth ha emitido una
+
+* Advertencia de tormenta eléctrica severa para...
+  El centro este del condado de Lamar, en el centro norte de Texas...
+
+* Hasta las 345 PM CDT.
+
+* A las 310 PM CDT, una tormenta eléctrica severa se ubicó cerca de Blossom, o
+  12 millas al este de París, moviéndose hacia el noreste a 20 mph.
+
+PELIGRO... Ráfagas de viento de 60 mph y granizo del tamaño de un cuarto.
+
+FUENTE... Radar indicado.
+
+IMPACTO... Se esperan daños por granizo en vehículos. Espere daños por viento 
+           a techos, revestimientos y árboles.
+
+* Las ubicaciones afectadas incluyen...
+  Sun Valley, Blossom, Novice, Faught y Paris.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+Para su protección, ingrese a una estructura resistente y manténgase alejado de
+Windows.
+
+&&
+
+LAT... LON 3367 9546 3389 9533 3388 9531 3360 9531
+HORA... MOT... LOC 2010Z 217DEG 16KT 3370 9534 
+
+AMENAZA DE GRANIZO... RADAR INDICADO
+TAMAÑO MÁXIMO DE GRANIZO... 1.00 PULGADAS
+AMENAZA DE VIENTO... RADAR INDICADO
+RÁFAGA DE VIENTO MÁXIMA... 60 MPH
+
+$$
+
+Langfeld

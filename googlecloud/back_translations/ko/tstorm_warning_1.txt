@@ -1,0 +1,50 @@
+/O.NEW.KEWX.SV.W.0087.250501T2335Z-250502T0015Z/
+
+Bulletin Board - Request for immediate broadcast
+Severe Thunderstorm Warning
+National Weather Service Austin/San Antonio TX
+Thursday, May 1, 2025 6:35 PM CDT
+
+The National Weather Service in Austin-San Antonio said:
+
+* A severe thunderstorm warning has been issued.
+  North-central Burnett County, located in south-central Texas...
+
+* Until 7:15 p.m. CDT.
+
+* At 6:35 p.m. CDT, a severe thunderstorm was located 7 miles to the southwest.
+  Moving northeast of Lampasas at 5 mph.
+
+  Hazardous...Wind gusts of up to 60 mph and hail the size of a half dollar are expected.
+
+  Source...Radar displayed.
+
+  Impact...Hail damage to vehicles is expected. Wind damage is also expected. 
+           The roof, the exterior walls, even the trees.
+
+* These severe thunderstorms will persist mainly over rural areas.
+  North-central Burnett County.
+
+Preventive/Preventive Measures...
+
+For your protection, go to the inner room on the lowest floor.
+building.
+
+Large hail, strong winds, persistent cloud-to-ground lightning
+There is lightning with this storm. Go indoors immediately.
+One of nature's major killers. Remember this when you hear thunder.
+You are close enough to be struck by lightning.
+
+&&
+
+Latitude...Path 3101 9800 3089 9822 3103 9840 3103 9803
+Time...MOT...LOC 2335Z 233DEG 5KT 3099 9829 
+
+Hail threat...radar detected
+Maximum hail size...1.25 inches
+Strong winds threat...shown on radar
+Maximum gusts...60 MPH
+
+$$
+
+Brady

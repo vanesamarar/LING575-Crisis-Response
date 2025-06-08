@@ -1,0 +1,55 @@
+/O.NEW. KOHX. PARA. W.0014.250316T0031Z-250316T0100Z/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service, Nashville, TN
+731 PM CDT Sat Mar 15, 2025
+
+The National Weather Service in Nashville has issued a
+
+* Tornado warning for...
+  East Cumberland County, in central Tennessee...
+  East-central Fentress County, in central Tennessee...
+
+* Until 800 PM CDT.
+
+* At 731 PM CDT, a severe thunderstorm capable of producing a tornado
+  was located 7 miles west of Rockwood, moving north at 50 mph.
+
+DANGER... Tornado.
+
+FOUNTAIN... Rotation indicated by radar.
+
+IMPACT... Flying debris will be dangerous for those who are caught without 
+           refuge. Mobile homes will be damaged or destroyed. 
+           Damage will occur to roofs, windows and vehicles.  Tree 
+           Damage is likely.
+
+* This tornadic storm will remain primarily over rural areas of the
+  eastern Cumberland counties and east-central Fentress, including
+  The following locations... Crab orchard.
+
+This includes Interstate 40 between mile markers 328 and 340.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+COVER UP NOW! Move to a basement or interior room on the lowest floor
+floor of a robust building. Avoid windows. If you're outdoors, in a
+mobile home, or in a vehicle, move to the nearest substantial shelter
+and protect yourself from flying debris.
+
+&&
+
+LAT... LON 3637 8470 3638 8472 3635 8473 3635 8474
+      3633 8474 3632 8479 3611 8485 3608 8483
+      3610 8482 3609 8480 3605 8479 3600 8472
+      3591 8468 3583 8477 3579 8485 3580 8494
+      3646 8476 3644 8469 3640 8466
+HOUR... MOT... LOC 0031Z 196DEG 44KT 3587 8481 
+
+TORNADO... INDICATED RADAR
+MAXIMUM HAIL SIZE...<.75 IN
+
+$$
+
+10

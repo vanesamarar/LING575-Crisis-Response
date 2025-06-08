@@ -1,0 +1,132 @@
+WEAK51 PAAQ 081814
+Tsuak1
+
+notice
+Public tsunami message number 1
+NWS National Tsunami Warning Center Palmer AK
+1114 AM PDT Friday, July 8, 2016
+
+... A tsunami warning is in effect...
+
+Tsunami Advisory in effect;
+
+* Aleutian Islands - Alaska Samalga Pass (30 miles SW
+   Nikolski) to Attu, Alaska, including the Pribilof Islands
+
+For other U.S. and Canadian Pacific coasts in North America - 
+We are assessing tsunami risk levels.  more
+Information is provided as an additional message.
+
+Preliminary Seismic Parameters
+---------------------------------
+ * The following parameters are based on rapid preliminary research.
+   Evaluations and changes may occur.
+
+* Magnitude 8.2
+ * Origin time: 1009 AKDT, July 8, 2016
+                  1109 PDT 07/08/2016
+                  1809 UTC July 8, 2016
+ * Coordinates: North 52.0 East 160.0
+ * 21 miles deep
+ * Location Bering I., 325 miles SW of Komandorski
+                  Petropavlovsk, 90 miles southeast of Kamchatka
+
+Tsunami activity forecast
+-----------------------------
+ * Tsunami activity is expected to begin with:
+   location at the specified time.
+
+forecast
+                 start
+Tsunami site
+----             ----------
+
+*alaska
+Shemya 1130 AKDT July 8
+Adak 1230 AKDT July 8
+St. Paul 1345 AKDT 08 Jul
+
+Observation of tsunami activity
+--------------------------------
+ * There is no tsunami observation data that can be reported.
+
+Recommended Action
+-------------------
+Actions to protect people's lives and property
+Tsunami advisories vary within the area.
+
+If you are in a tsunami advisory area;
+
+* Stay away from the water, on the beach, away from the water.
+   Harbor, marina, breakwater, bay and entrance.
+
+* Pay attention to and follow directions in your area.
+   Emergency officials may be more detailed or
+   Specific information about your location.
+
+* When you feel a strong earthquake or feel the ground rolling
+   Take immediate protective measures, such as moving inland.
+   and/or uphill is preferably on foot.
+
+* Boat operators,
+     *If time and conditions permit, the boat can be moved out.
+       The ocean is at least 180 feet deep.
+
+* shallow water in the sea, not entering the port,
+       marinas, bays and entrances to prevent floating
+       Submerged debris and strong currents.
+
+* Do not go to the shore to observe the tsunami.
+
+*Do not return to shore until a local emergency occurs.
+   It indicates that it is safe to do so.
+
+influence
+-------
+The impact may vary depending on the location of the advisory
+Area.
+
+If you are in a tsunami advisory area;
+
+* Tsunami accompanied by strong waves and currents may occur.
+
+* Waves and currents can drown or injure people who:
+   In the water.
+
+* Beaches, ports, marinas,
+   The bay and entrance can be especially dangerous.
+
+* Some effects may last from a few hours to a few days.
+   The arrival of the first wave.
+
+* The first wave may not be the biggest, so there may be waves later.
+   Get bigger.
+
+* Each wave can last from 5 to 45 minutes as the wave encroaches.
+   Then he resigns.
+
+* Coasts facing all directions are threatened because:
+   The waves wrap around the island and headland, and you can enter the bay.
+
+* If the ground shakes or rolls strongly,
+   An earthquake may have occurred and a tsunami may be imminent.
+
+* Sharply receding or receding coastlines, unusual waves, and
+   Sound and strong currents are signs of a tsunami.
+
+* A tsunami can take the form of a rapid movement of water into the ocean.
+   The tide that comes in calmly like a flood without breaking waves,
+   A continuation of the breaking waves, or into a wall of foaming water.
+
+Additional Information and Next Updates
+--------------------------------------
+ * For details, please refer to the ntwc.arh.noaa.gov of the Internet site.
+   Information.
+
+* Pacific coast residents other than California and Oregon,
+   Washington, British Columbia, and Alaska should refer to:
+   Pacific Tsunami Warning Center Message ptwc.weather.gov.
+
+* This message will be updated within 60 minutes.
+
+$$

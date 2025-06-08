@@ -1,0 +1,85 @@
+WGUS61 KLWX 160735
+FFALWX
+
+Flood Protection
+National Weather Service Baltimore MD/Washington DC
+235 AM EST Sunday Feb 16 2025
+
+.Heavy rain may fall on deep snowpack leading to melting. 
+increasing. River flows may increase rapidly and reach dangerous levels. 
+levels.
+
+VAZ025-503-504-WVZ501-502-505-506-162300-
+/O.CON.KLWX.FA.A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Augusta-Western Highland-East Highland-West Grant-East
+Grant-West Pendleton-East Pendleton-
+235 AM EST Sunday Feb 16 2025
+
+...Flood monitoring continues this afternoon...
+
+* WHAT...Flooding caused by rain and snow continues 
+  possible.
+
+* WHERE...Parts of West Virginia, including the following 
+  areas, Augusta and Highland and eastern West Virginia, including 
+  the following places, Grant and Pendleton.
+
+* WHEN...Until the afternoon.
+
+* IMPACT...Overpopulation may result in river flooding, 
+  streams, creeks, and other low-lying areas and areas prone to flooding.
+
+* MORE DETAILS...
+  - A combination of 1 to 2 inches of rain, full ground,
+    and recent snowmelt could cause flooding.
+  Please visit www.weather.gov/safety/flood for flood safety.
+    and preparedness information.
+
+PREPARED STEPS...
+
+You should monitor the latest forecast and be aware of possible flooding. 
+Warning: Those living in flood-prone areas should be prepared. 
+Action must be taken to prevent flooding.
+
+&&
+
+$$
+
+MDZ001-501-WVZ503-162300-
+/O.CON.KLWX.FA.A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Garrett-Western Allegany-Western-Mining-
+235 AM EST Sunday Feb 16 2025
+
+...Flood monitoring continues this afternoon...
+
+* WHAT...Flooding caused by rain and snow continues 
+  possible.
+
+* WHERE... Parts of western Maryland, including the following 
+  areas, West Allegany in Extreme and Garrett and west east 
+  Virginia, including the following area, Western Mineral.
+
+* WHEN...Until the afternoon.
+
+* IMPACT...Overpopulation may result in river flooding, 
+  streams, creeks, and other low-lying areas and areas prone to flooding.
+
+* MORE DETAILS...
+  - A combination of 1 to 2 inches of rain, full ground,
+    and recent snowmelt could cause flooding.
+  Please visit www.weather.gov/safety/flood for flood safety.
+    and preparedness information.
+
+PREPARED STEPS...
+
+You should monitor the latest forecast and be aware of possible flooding. 
+Warning: Those living in flood-prone areas should be prepared. 
+Action must be taken to prevent flooding.
+
+&&
+
+$$
+
+DHOF

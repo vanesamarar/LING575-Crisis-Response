@@ -1,0 +1,167 @@
+Declaración de inundaciones
+Servicio Meteorológico Nacional de Nueva Orleans, Luisiana
+731 PM CDT Sábado 3 de mayo de 2025
+
+...La alerta de inundaciones continúa para los siguientes ríos en 
+Luisiana...
+
+  Río Mississippi en la reserva que afecta a St. John The Baptist, St. 
+  Parroquias de Charles y St. James.
+
+  Río Mississippi en Donaldsonville afectando la parroquia de Ascension.
+
+  Río Mississippi en Baton Rouge que afecta a West Baton Rouge y 
+  Parroquias del este de Baton Rouge.
+
+  Río Mississippi en Red River Landing que afecta a Pointe Coupee, 
+  Parroquias de West Feliciana y East Baton Rouge.
+
+Para el bajo río Mississippi...incluido Red River Landing, Baton 
+Rouge, Donaldsonville, Reserve...Se pronostican grandes inundaciones.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+Se recomienda precaución al caminar cerca de las riberas de los ríos.
+
+Los automovilistas no deben intentar conducir alrededor de las barricadas ni conducir 
+vehículos a través de zonas inundadas.
+
+Hay información adicional disponible en www.weather.gov/lix. Haga clic aquí. 
+en el menú Ríos y lagos para pronósticos y observaciones.
+
+El próximo comunicado se emitirá el domingo por la mañana a las 11:45 AM CDT.
+
+&&
+
+LAC089-093-095-041645-
+/O.CON.KLIX.FL.W.0017.000000T0000Z-250509T0900Z/
+/RRVL1.1.ER.250423T2330Z.250504T0600Z.250509T0300Z.NO/
+731 PM CDT Sábado 3 de mayo de 2025
+
+...LA ADVERTENCIA DE INUNDACIÓN PERMANECE EN VIGENCIA HASTA LA MAÑANA DEL VIERNES...
+
+* QUÉ...Se están produciendo inundaciones menores y se pronostican inundaciones menores.
+
+* DÓNDE... Río Mississippi en la Reserva.
+
+*CUÁNDO...Hasta la madrugada del viernes.
+
+* IMPACTOS...A 24.0 pies, se aplicarán procedimientos de campana lenta para 
+  transporte fluvial.
+
+* DETALLES ADICIONALES...
+  - A las 6:00 p.m. CDT del sábado el escenario medía 23,6 pies.
+  - El nivel de banco lleno es de 15,0 pies.
+  - Pronóstico...Se espera que el río suba hasta una cresta de 23,7
+    pies justo después de la medianoche de esta noche. Luego caerá por debajo
+    Nivel de inundación a última hora de la noche del jueves.
+  - El nivel de inundación es de 22,0 pies.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+LAT...LON 3007 9046 2999 9048 3001 9087 3009 9079
+
+
+$$
+
+LAC005-041645-
+/O.CON.KLIX.FL.W.0016.000000T0000Z-250510T2100Z/
+/DONL1.2.ER.000000T0000Z.250501T1000Z.250510T1500Z.NO/
+731 PM CDT Sábado 3 de mayo de 2025
+
+...LA ADVERTENCIA DE INUNDACIÓN PERMANECE EN VIGENCIA HASTA EL SÁBADO 10 DE MAYO...
+
+* ¿QUÉ?... Se están produciendo inundaciones moderadas y se están produciendo inundaciones moderadas. 
+  pronóstico.
+
+* DÓNDE... Río Mississippi en Donaldsonville.
+
+*CUÁNDO...Hasta el sábado 10 de mayo.
+
+* DETALLES ADICIONALES...
+  - A las 6:00 p.m. CDT del sábado el escenario medía 30.8 pies.
+  - El nivel del agua llena es de 23,0 pies.
+  - Pronóstico...Se espera que el río descienda por debajo del nivel de inundación.
+    Sábado 10 de mayo y continúa cayendo hasta 13,1 pies el sábado,
+    31 de mayo.
+  - El nivel de inundación es de 27,0 pies.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+LAT...LON 3009 9079 3001 9087 3032 9130 3035 9113
+
+
+$$
+
+LAC033-121-041645-
+/O.CON.KLIX.FL.W.0015.000000T0000Z-250512T1800Z/
+/BTRL1.3.ER.250416T1420Z.250501T1800Z.250512T1200Z.NO/
+731 PM CDT Sábado 3 de mayo de 2025
+
+...LA ADVERTENCIA DE INUNDACIÓN PERMANECE EN VIGENCIA HASTA EL LUNES 12 DE MAYO...
+
+* ¿QUÉ?... Se están produciendo grandes inundaciones y se pronostican grandes inundaciones.
+
+* DÓNDE... Río Mississippi en Baton Rouge.
+
+*CUÁNDO...Hasta el lunes 12 de mayo.
+
+* IMPACTOS...A 43,0 pies, se realizan actividades de transporte marítimo e industriales. 
+  significativamente afectadas. Las zonas bajas desprotegidas serán 
+  Las operaciones agrícolas se verán afectadas por las inundaciones en el oeste. 
+  Lado del río. La ciudad de Baton Rouge está protegida por diques. 
+  en este nivel.
+
+* DETALLES ADICIONALES...
+  - A las 6:00 p.m. CDT del sábado el escenario medía 42,0 pies.
+  - La etapa de banco lleno mide 29,0 pies.
+  - Pronóstico...Se espera que el río descienda por debajo del nivel de inundación.
+    Lunes 12 de mayo.
+  - El nivel de inundación es de 35,0 pies.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+LAT...LON 3035 9113 3032 9130 3071 9159 3074 9130
+
+
+$$
+
+LAC033-077-125-041645-
+/O.CON.KLIX.FL.W.0009.000000T0000Z-250521T1800Z/
+/RRLL1.3.ER.250411T2108Z.250430T2000Z.250521T1200Z.NO/
+731 PM CDT Sábado 3 de mayo de 2025
+
+...LA ADVERTENCIA DE INUNDACIÓN PERMANECE EN VIGENCIA HASTA EL MIÉRCOLES 21 DE MAYO...
+
+* ¿QUÉ?... Se están produciendo inundaciones moderadas y se están produciendo inundaciones moderadas. 
+  pronóstico.
+
+* DÓNDE... Río Mississippi en Red River Landing.
+
+*CUÁNDO...Hasta el miércoles 21 de mayo.
+
+* IMPACTOS...A 59,0 pies, el dique de la orilla este se cubrirá y el 
+  Las tierras agrícolas de la prisión entre los dos diques se inundarán. Angola 
+  El desembarco será bajo el agua, cerrando el ferry allí. Todo el río 
+  Las islas a lo largo del tramo desde Red River Landing hasta Baton Rouge... 
+  Permanecen inundados de campamentos recreativos y granjas en el fondo del río. 
+  tierra bajo el agua.
+
+* DETALLES ADICIONALES...
+  - A las 6:00 p.m. CDT del sábado el escenario medía 59,1 pies.
+  - La etapa de banco lleno mide 46,0 pies.
+  - Pronóstico...Se espera que el río descienda por debajo del nivel de inundación.
+    Miércoles 21 de mayo y continuará cayendo hasta 37.0 pies el sábado.
+    31 de mayo.
+  - El nivel de inundación es de 48,0 pies.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+LAT...LON 3074 9137 3071 9159 3102 9170 3103 9153
+
+
+$$

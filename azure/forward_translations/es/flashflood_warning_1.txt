@@ -1,0 +1,48 @@
+/O.NUEVO. KEWX. SS. W.0001.250501T2316Z-250502T0215Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+
+BOLETÍN - ACTIVACIÓN DE EAS SOLICITADA
+Advertencia de inundación repentina
+Servicio Meteorológico Nacional Austin/San Antonio, TX
+616 PM CDT jueves 1 de mayo de 2025
+
+El Servicio Meteorológico Nacional en Austin/San Antonio ha emitido una
+
+* Advertencia de inundación repentina para...
+  El noroeste del condado de Burnet, en el centro sur de Texas...
+  El noreste del condado de Llano, en el centro sur de Texas...
+
+* Hasta las 915 PM CDT.
+
+* A las 616 PM CDT, el radar Doppler indicó que se estaban produciendo tormentas eléctricas 
+  Fuertes lluvias en toda la zona bajo aviso. Entre 2 y 4 pulgadas de lluvia 
+  han caído. Las inundaciones repentinas están en curso o se espera que comiencen 
+  próximamente.
+
+PELIGRO... Inundaciones repentinas que amenazan la vida. Tormentas
+           produciendo inundaciones repentinas.
+
+FUENTE... Radar.
+
+IMPACTO... Inundaciones repentinas de arroyos y arroyos que amenazan la vida,
+           zonas urbanas, carreteras, calles y pasos inferiores.
+
+* Algunos lugares que experimentarán inundaciones repentinas incluyen...
+  Burnet, Presa de Buchanan, Buchanan Lake Village, Parque Estatal del Lago Inks 
+  y Remolque.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+Dé la vuelta, no se ahogue cuando se encuentre con carreteras inundadas. La mayoría de las inundaciones 
+Las muertes ocurren en vehículos.
+
+&&
+
+LAT... LON 3092 9832 3070 9818 3070 9840 3090 9850
+
+INUNDACIÓN... RADAR INDICADO
+AMENAZA DE DAÑOS POR INUNDACIONES REPENTINAS... CONSIDERABLE
+
+$$
+
+27

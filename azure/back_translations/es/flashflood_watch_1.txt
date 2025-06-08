@@ -1,0 +1,85 @@
+WGUS61 KLWX 160735
+FFALWX
+
+Flood Alert
+National Weather Service, Baltimore, MD/Washington DC
+235 AM EST Sun, February 16, 2025
+
+. Heavy rain may fall on a layer of deep snow leading to melting 
+increasing. River flows can increase rapidly and reach critical levels. 
+Levels.
+
+VAZ025-503-504-WVZ501-502-505-506-162300-
+/O.CON. KLWX.FA. A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Augusta-Western Highlands-Eastern Highlands-West Grant-East
+Grant-Pendleton Occidental-Pendleton Oriental-
+235 AM EST Sun, February 16, 2025
+
+... THE FLOOD ALERT REMAINS IN FORCE UNTIL THIS AFTERNOON...
+
+*WHAT... Flooding caused by rain and snowmelt continues to be 
+  possible.
+
+*WHERE... Parts of Western Virginia, including the following 
+  Augusta and Highland and eastern West Virginia, including 
+  the following areas, Grant and Pendleton.
+
+*WHEN... Until this afternoon.
+
+*IMPACTS... Excessive runoff can lead to river flooding, 
+  streams, streams, and other low-lying and flood-prone places.
+
+* ADDITIONAL DETAILS...
+  - The combination of 1 to 2 inches of rain, saturated soil,
+    And melting of recent snowpack can result in flooding.
+  - Visit www.weather.gov/safety/flood for flood safety
+    and information on preparation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor subsequent forecasts and be alert to potential flooding 
+Warnings. Those who live in flood-prone areas should be prepared 
+to take action in case flooding develops.
+
+&&
+
+$$
+
+MDZ001-501-WVZ503-162300-
+/O.CON. KLWX.FA. A.0003.000000T0000Z-250216T2300Z/
+/00000.0.RS.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Garrett-Western End Allegany-West Ore-
+235 AM EST Sun, February 16, 2025
+
+... THE FLOOD ALERT REMAINS IN FORCE UNTIL THIS AFTERNOON...
+
+*WHAT... Flooding caused by rain and snowmelt continues to be 
+  possible.
+
+*WHERE... Parts of western Maryland, including the following 
+  West End of Allegany and Garrett and East West 
+  Virginia, including the next area, Western Mineral.
+
+*WHEN... Until this afternoon.
+
+*IMPACTS... Excessive runoff can lead to river flooding, 
+  streams, streams, and other low-lying and flood-prone places.
+
+* ADDITIONAL DETAILS...
+  - The combination of 1 to 2 inches of rain, saturated soil,
+    And melting of recent snowpack can result in flooding.
+  - Visit www.weather.gov/safety/flood for flood safety
+    and information on preparation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor subsequent forecasts and be alert to potential flooding 
+Warnings. Those who live in flood-prone areas should be prepared 
+to take action in case flooding develops.
+
+&&
+
+$$
+
+DHOF

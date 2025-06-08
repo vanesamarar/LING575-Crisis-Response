@@ -1,0 +1,167 @@
+Flood statement
+National Weather Service New Orleans LA
+731 PM CDT Saturday, May 3, 2025
+
+...Flood warnings continue for the lower rivers in 
+Louisiana...
+
+  Mississippi River At Reserve affecting St. John The Baptist, St. 
+  Charles and St. James Parishes.
+
+  The Mississippi River at Donaldsonville affects Ascension Parish.
+
+  The Mississippi River in Baton Rouge affects West Baton Rouge and 
+  East Baton Rouge Parishes.
+
+  The Mississippi River at Red River Landing impacts Pointe Coupee, 
+  West Feliciana and East Baton Rouge Parishes.
+
+For the lower Mississippi River... including Red River Landing, Baton 
+Rouge, Donaldsonville, Reserve...major flooding is predicted.
+
+Preventive/preparatory actions...
+
+Please be careful when walking near the river.
+
+Drivers should not attempt to drive around barriers or drive around. 
+Cars passing through flooded areas.
+
+More information is available at www.weather.gov/lix. Click 
+On the Rivers and Lakes menu for forecasts and observations.
+
+The next statement will be released Sunday morning at 1145 a.m. CDT.
+
+&&
+
+LAC089-093-095-041645-
+/O.CON.KLIX.FL.W.0017.000000T0000Z-250509T0900Z/
+/RRVL1.1.ER.250423T2330Z.250504T0600Z.250509T0300Z.NO/
+731 PM CDT Saturday, May 3, 2025
+
+...Flood warnings remain in place until Friday morning...
+
+* What... Minor flooding is occurring and minor flooding is predicted.
+
+* Where ... the Mississippi River is in reserve.
+
+* When... until Friday morning.
+
+* Impact... At 24.0 feet, a slow bell procedure will be adopted for 
+  River transport.
+
+* More details...
+  - At 6:00 PM CDT Saturday, the stage was 23.6 feet.
+  - Bankfull stage is 15.0 feet.
+  - Forecast... the river will rise to level 23.7
+    The leg after midnight tonight. Then it will drop below.
+    Flood stage on Thursday evening.
+  - Flood stage 22.0 feet.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+Lat...lon 3007 9046 2999 9048 3001 9087 3009 9079
+
+
+$$
+
+LAC005-041645-
+/O.CON.KLIX.FL.W.0016.000000T0000Z-250510T2100Z/
+/DONL1.2.ER.000000T0000Z.250501T1000Z.250510T1500Z.NO/
+731 PM CDT Saturday, May 3, 2025
+
+...Flood warnings remain in effect until Saturday, May 10th...
+
+* What... Moderate flooding is happening, and moderate flooding is 
+  Forecast
+
+* Where ... the Mississippi River at Donaldsonville.
+
+*WHEN... Until Saturday, May 10th.
+
+* More details...
+  - At 6:00 PM CDT Saturday, the stage is 30.8 feet.
+  - Bankfull stage is 23.0 feet.
+  - Forecast... River water will drop below flood stage
+    Saturday, May 10th and continued to fall to 13.1 feet Saturday.
+    May 31st.
+  - Flood stage 27.0 feet.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+Lat...lon 3009 9079 3001 9087 3032 9130 3035 9113
+
+
+$$
+
+LAC033-121-041645-
+/O.CON.KLIX.FL.W.0015.000000T0000Z-250512T1800Z/
+/BTRL1.3.ER.250416T1420Z.250501T1800Z.250512T1200Z.NO/
+731 PM CDT Saturday, May 3, 2025
+
+...Flood warnings remain in place until Monday, May 12...
+
+* What...a great flood is happening, and a great flood is predicted.
+
+* Where ... the Mississippi River in Baton Rouge.
+
+*WHEN... Until Monday, May 12th.
+
+* Impact... At 43.0 feet, transportation and industrial activities are 
+  Severely affected. Unprotected lowlands will be 
+  Flooding and agricultural operations will be affected in the west. 
+  On one side of the river. The city of Baton Rouge is protected by the road. 
+  At this level.
+
+* More details...
+  - At 6:00 PM CDT Saturday, the stage was 42.0 feet.
+  - Bankfull stage is 29.0 feet.
+  - Forecast... River water will drop below flood stage
+    Monday, May 12th.
+  - Flood stage 35.0 feet.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+Lat...lon 3035 9113 3032 9130 3071 9159 3074 9130
+
+
+$$
+
+LAC033-077-125-041645-
+/O.CON.KLIX.FL.W.0009.000000T0000Z-250521T1800Z/
+/RRLL1.3.ER.250411T2108Z.250430T2000Z.250521T1200Z.NO/
+731 PM CDT Saturday, May 3, 2025
+
+...Flood warnings remain in effect until Wednesday, May 21...
+
+* What... Moderate flooding is happening, and moderate flooding is 
+  Forecast.
+
+* Where ... the Mississippi River at Red River Landing.
+
+*WHEN... Until Wednesday, May 21st.
+
+* Impact... At 59.0 feet, the east bank level will peak and 
+  The farmland between the two steps will be flooded. Angola 
+  The landing will be underwater, closing the ferry there. All rivers. 
+  The islands along the route from Red River Landing to Baton Rouge will 
+  Still flooded with recreational camps and farms in the riverbed 
+  Underwater land.
+
+* More details...
+  - At 6:00 PM CDT Saturday, the stage was 59.1 feet.
+  - Bankfull stage is 46.0 feet.
+  - Forecast... River water will drop below flood stage
+    Wednesday, May 21 and continued to drop to 37.0 feet Saturday.
+    May 31st.
+  - Flood stage 48.0 feet.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+Lat...lon 3074 9137 3071 9159 3102 9170 3103 9153
+
+
+$$

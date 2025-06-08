@@ -1,0 +1,192 @@
+ZCZC MIATCPAT4 TODOS
+TTAA00 KNHC DDHHMM
+ 
+BOLETÍN
+Aviso Número 15 del Huracán Helene
+Centro Nacional de Huracanes del NWS Miami, FL AL092024
+1100 PM EDT Jue 26 Sep 2024
+ 
+... EL HURACÁN HELENE ESTÁ MUY CERCA DE TOCAR TIERRA EN LA FLORIDA
+DOBLAR...
+... ACOMPAÑADO DE UNA MAREJADA CICLÓNICA CATASTRÓFICA Y POTENCIALMENTE MORTAL
+VIENTOS...
+ 
+RESUMEN DE 1100 PM EDT... 0300 UTC... INFORMACIÓN
+-----------------------------------------------
+UBICACIÓN... 29.9N 83.9W
+A UNAS 75 MI... 120 KM AL NOROESTE DE CEDAR KEY, FLORIDA
+A UNAS 40 MI... 70 KM AL SE DE TALLAHASSEE, FLORIDA
+VIENTOS MÁXIMOS SOSTENIDOS... 140 MPH... 220 km/h
+MOVIMIENTO PRESENTE... NNE O 15 GRADOS A 24 MPH... 39 KM/H
+PRESIÓN CENTRAL MÍNIMA... 938 MB... 27.70 PULGADAS
+ 
+RELOJES Y ADVERTENCIAS
+--------------------
+CAMBIOS CON ESTE AVISO:
+ 
+Ninguno
+ 
+RESUMEN DE LAS ALERTAS Y ADVERTENCIAS VIGENTES:
+ 
+Una advertencia de marejada ciclónica está en efecto para...
+* Playa México hacia el este y el sur hasta Flamingo
+* Bahía de Tampa
+* Puerto de Charlotte
+ 
+Una Advertencia de Huracán está en efecto para...
+* Río Anclote a Playa México
+ 
+Una alerta de huracán está en efecto para...
+* De Englewood al río Anclote, incluyendo la bahía de Tampa
+ 
+Una Advertencia de Tormenta Tropical está en efecto para...
+* Cayos de Florida, incluyendo Dry Tortugas
+* Flamenco al río Anclote, incluyendo la bahía de Tampa
+* Al oeste de Mexico Beach hasta la línea del condado de Okaloosa/Walton
+* Flamenco hacia el norte hasta Little River Inlet
+* Lago Okeechobee
+ 
+Una advertencia de marejada ciclónica significa que existe un peligro de peligro para la vida
+inundación, por el aumento del agua que se desplaza tierra adentro desde la costa. Para
+una representación de las áreas en riesgo, consulte el Clima Nacional
+Gráfico de Vigilancia/Advertencia de Marejada Ciclónica de Servicio, disponible en
+hurricanes.gov.  Esta es una situación que pone en peligro la vida.  Personas
+ubicados dentro de estas áreas deben tomar todas las medidas necesarias para
+proteger la vida y la propiedad de la crecida del agua y la posibilidad de
+otras condiciones peligrosas.  Seguimiento inmediato de la evacuación y otros
+instrucciones de los funcionarios locales.
+ 
+Una advertencia de huracán significa que se esperan condiciones de huracán
+en algún lugar dentro del área de advertencia.
+ 
+Una Advertencia de Tormenta Tropical significa que las condiciones de tormenta tropical son
+Se espera que esté en algún lugar dentro del área de advertencia.
+ 
+Una alerta de huracán significa que las condiciones de huracán son posibles
+dentro del área de vigilancia.
+ 
+Para obtener información sobre tormentas específica de su área en los Estados Unidos
+Estados, incluidas las posibles vigilancias y advertencias interiores, por favor
+productos de monitoreo emitidos por el Servicio Meteorológico Nacional local
+Oficina de Pronósticos. Para obtener información sobre tormentas específica de su área
+fuera de los Estados Unidos, controle los productos emitidos por
+su servicio meteorológico nacional.
+ 
+DISCUSIÓN Y PERSPECTIVAS
+----------------------
+A las 1100 PM EDT (0300 UTC), el centro del huracán Helene fue
+ubicado cerca de la latitud 29.9 Norte, longitud 83.9 Oeste. Helene es
+moviéndose hacia el norte-noreste cerca de 24 mph (39 km/h).  Un turno
+hacia el norte se espera durante la noche, ocupando el centro
+Georgia.  El centro del huracán debería tocar tierra
+muy pronto en la región de Big Bend de Florida.  Después de tocar tierra,
+Se espera que Helene gire hacia el noroeste y disminuya la velocidad sobre el
+Valle de Tennessee el viernes y el sábado.
+ 
+Los vientos máximos sostenidos están cerca de 140 mph (220 km/h) con vientos más altos
+Ráfagas.  Helene es un huracán de categoría 4 extremadamente peligroso 
+la escala de vientos huracanados de Saffir-Simpson.  Se espera un debilitamiento 
+después de que Helene se mueva hacia el interior, pero la rápida velocidad de avance permitirá 
+vientos fuertes y dañinos, especialmente en ráfagas, para penetrar bien 
+tierra adentro a través del sureste de los Estados Unidos, incluyendo sobre el 
+terreno más alto del sur de los Apalaches.
+ 
+Los vientos huracanados se extienden hasta 60 millas (95 km) de la
+Los vientos del centro y con fuerza de tormenta tropical se extienden hacia afuera hasta 310 millas
+(500 km).  Un viento sostenido de 64 mph (103 km/h) con ráfagas de hasta 84 mph 
+Recientemente se reportó una velocidad de 135 km/h en Cedar Key, Florida.   Un 
+Recientemente se reportó una ráfaga de 83 mph (134 km/h) en Steinhatchee, 
+Florida.
+ 
+La presión central mínima estimada basada en Hurricane Hunter 
+Aircraft Observations es de 938 MB (27,70 pulgadas).
+
+Un mareógrafo del Servicio Oceánico Nacional de la NOAA ubicado en Cedar Key 
+Recientemente se reportó un nivel de agua de 7.33 pies sobre el nivel medio más alto 
+Agua.
+ 
+PELIGROS QUE AFECTAN A LA TIERRA
+----------------------
+Los mensajes clave para Helene se pueden encontrar en el Ciclón Tropical
+Debate en relación con el encabezamiento MIATCDAT4 AWIPS y el encabezamiento WTNT44 KNHC de la OMM
+y en la web en hurricanes.gov/text/MIATCDAT4.shtml
+ 
+MAREJADA CICLÓNICA: La combinación de una marejada ciclónica potencialmente mortal y
+La marea hará que las áreas normalmente secas cerca de la costa se inunden
+por el aumento de las aguas que se desplazan hacia el interior desde la costa.  El agua podría
+alcanzar las siguientes alturas sobre el suelo en algún lugar de la
+áreas si el pico de marejada ocurre en el momento de la marea alta...
+ 
+Carrabelle, FL a Suwannee River, FL... 15-20 pies
+Apalachicola, FL a Carrabelle, FL... 10-15 pies
+Río Suwannee, FL a Chassahowitzka, FL... 10-15 pies
+Chassahowitzka, FL a Anclote River, FL... 8-12 pies
+Indian Pass, FL a Apalachicola, FL... 6-10 pies
+Río Anclote, FL a la mitad de Longboat Key, FL... 5-8 pies
+Bahía de Tampa... 5-8 pies
+Medio de Longboat Key, FL a Englewood, FL ... 4-7 pies
+Al este de Mexico Beach, FL a Indian Pass, FL... 3-5 pies
+Englewood, FL a Flamingo, FL... 3-5 pies
+Puerto de Charlotte... 3-5 pies
+ 
+Las aguas más profundas se producirán a lo largo de la costa inmediata cerca y hacia
+al este del lugar donde tocó tierra, donde se producirá la marejada.
+acompañado de grandes y peligrosas olas.  Inundaciones relacionadas con marejadas
+depende del momento relativo de la marejada y del ciclo de las mareas,
+y puede variar mucho en distancias cortas.  A título informativo
+específico para su área, consulte los productos emitidos por su
+Oficina de pronósticos del Servicio Meteorológico Nacional.
+ 
+Para una descripción completa de las áreas en riesgo de inundación por marejada ciclónica,
+consulte el gráfico de marejadas ciclónicas máximas del Servicio Meteorológico Nacional,
+Disponible en hurricanes.gov/graphics_at4.shtml?peakSurge.
+ 
+VIENTO: Las condiciones de huracán están ocurriendo dentro del huracán
+zona de advertencia.  Cuando el ojo pasa, se les recuerda a las personas que no deben
+Aventúrese en la calma relativa, ya que los vientos peligrosos aumentarán
+muy rápidamente cuando pasa el ojo.  Las condiciones de tormenta tropical son
+que ocurren en el sur y centro de la Florida, y estas condiciones
+continúan extendiéndose hacia el norte a través de la advertencia de tormenta tropical
+áreas en el sureste de EE. UU. hasta la madrugada del viernes.  Fuerte
+Es probable que los vientos dañinos, especialmente en ráfagas, penetren hasta
+tierra adentro como el terreno más alto del sur de los Apalaches.
+ 
+PRECIPITACIONES: Sobre porciones del sureste de los EE. UU. hacia el sur
+Apalaches, se espera que Helene produzca acumulaciones totales de lluvia
+de 6 a 12 pulgadas, con totales aislados alrededor de 20 pulgadas. Éste
+Es probable que las lluvias provoquen consecuencias catastróficas y potencialmente
+inundaciones repentinas y urbanas que amenazan la vida, junto con importantes
+crecidas de ríos. Se prevén numerosos deslizamientos de tierra importantes en
+terreno escarpado a través del sur de los Apalaches.
+ 
+Para una descripción completa de las precipitaciones pronosticadas asociadas con
+Huracán Helene, por favor vea la tormenta del Servicio Meteorológico Nacional
+Gráfico de precipitaciones totales, disponible en
+hurricanes.gov/graphics_at4.shtml?rainqpf y el riesgo de inundaciones repentinas
+gráfico en hurricanes.gov/graphics_at4.shtml?ero.
+ 
+Para obtener una lista de las observaciones de lluvia (e informes de viento) asociadas
+esta tormenta, vea el resumen de la tormenta compañera en WBCSCCNS4 con el
+Cabecera de la OMM ACUS44 KWBC o en el siguiente enlace:
+www.wpc.ncep.noaa.gov/discussions/nfdscc4.html.
+ 
+TORNADOS: El riesgo de varios tornados continúa esta noche
+la madrugada del viernes sobre partes del norte/centro de Florida, Georgia,
+Carolina del Sur y el sur de Carolina del Norte. El riesgo de tornados
+persisten el viernes en las Carolinas y el sur de Virginia.
+ 
+OLEAJE: Las marejadas generadas por Helene afectarán gran parte de Florida y
+las costas de Georgia y las Carolinas durante los próximos dos años
+Días.  Es probable que estas olas causen oleaje potencialmente mortal y
+condiciones de la corriente de resaca.  Por favor, consulte los productos de su local
+Oficina Meteorológica.
+ 
+SIGUIENTE AVISO
+-------------
+Próximo aviso intermedio a las 200 AM EDT.
+Siguiente aviso completo a las 500 AM EDT.
+ 
+$$
+Pronosticador Pasch
+ 
+NNNN

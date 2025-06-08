@@ -1,0 +1,41 @@
+YẾU TỐ PAAQ 300402
+TIBAK1
+
+Bản tin thông tin về sóng thần số 1
+Trung tâm cảnh báo sóng thần quốc gia NWS Palmer AK
+802 PM AKDT Thứ Ba 29 tháng 4 năm 2025
+
+...ĐÂY LÀ THÔNG BÁO VỀ SÓNG THẦN...
+
+SỰ ĐÁNH GIÁ
+----------
+ * KHÔNG có nguy cơ sóng thần từ trận động đất này.
+
+
+THÔNG SỐ ĐỘNG ĐẤT SƠ BỘ
+---------------------------------
+
+ * Các thông số sau đây dựa trên một bản tóm tắt nhanh
+   đánh giá động đất và những thay đổi có thể xảy ra.
+
+ * Độ lớn 4.4
+ * Thời gian gốc 1959 AKDT 29 tháng 4 năm 2025
+                  2059 PDT ngày 29 tháng 4 năm 2025
+                  0359 UTC ngày 30 tháng 4 năm 2025
+ * Tọa độ 59,7 Bắc 152,7 Tây
+ * Độ sâu 59 dặm
+ * Vị trí 45 dặm về phía Tây của Homer, Alaska
+                  140 dặm về phía Tây Nam của Anchorage, Alaska
+
+
+THÔNG TIN BỔ SUNG VÀ CẬP NHẬT TIẾP THEO
+--------------------------------------
+ * Hoa Kỳ sẽ ban hành thêm thông tin
+   Khảo sát địa chất (earthquake.usgs.gov) hoặc cơ quan thích hợp
+   mạng lưới địa chấn khu vực.
+
+ * Đây sẽ là Trung tâm cảnh báo sóng thần quốc gia duy nhất của Hoa Kỳ
+   tin nhắn được phát hành cho sự kiện này trừ khi có thêm thông tin
+   trở nên khả dụng.
+
+$$

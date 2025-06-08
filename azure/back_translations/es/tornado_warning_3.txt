@@ -1,0 +1,55 @@
+/O.NEW. KPAH. PARA. W.0111.250429T2013Z-250429T2045Z/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Paducah, KY
+313 PM CDT Tue 29 Apr 2025
+
+The National Meteorological Service in Paducah has issued a
+
+* Tornado warning for...
+  Southeast Wayne County, in south-central Illinois...
+
+* Until 345 PM CDT.
+
+* At 312 PM CDT, a severe thunderstorm capable of producing a tornado
+  it was located 7 miles southwest of Fairfield, moving northeast at 45
+  Mph.
+
+DANGER... Tornado.
+
+FOUNTAIN... Rotation indicated by radar.
+
+IMPACT... Flying debris will be dangerous for those who are caught without 
+           refuge. Mobile homes will be damaged or destroyed. 
+           Damage will occur to roofs, windows and vehicles.  Tree 
+           Damage is likely.
+
+* This dangerous storm will be near...
+  Fairfield around 320 p.m. CDT.
+
+Other places affected by this tornadic thunderstorm include Mount
+Erie and Golden Gate.
+
+This includes Interstate 64 in Illinois between mile markers 103 and
+105.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+COVER UP NOW! Move to a basement or interior room on the lowest floor
+floor of a robust building. Avoid windows. If you're outdoors, in a
+mobile home, or in a vehicle, move to the nearest substantial shelter
+and protect yourself from flying debris.
+
+&&
+
+LAT... LON 3853 8815 3837 8815 3826 8846 3830 8860
+      3854 8824
+HOUR... MOT... LOC 2012Z 236DEG 41KT 3831 8846 
+
+TORNADO... INDICATED RADAR
+MAXIMUM HAIL SIZE...<.75 IN
+
+$$
+
+CN

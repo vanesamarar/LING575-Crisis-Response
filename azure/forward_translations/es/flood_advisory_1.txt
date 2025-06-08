@@ -1,0 +1,48 @@
+Aviso de inundación
+Servicio Meteorológico Nacional, Nueva Orleans, LA
+850 p. m. CDT jueves 1 de mayo de 2025
+
+LAC091-105-020500-
+/O.NUEVO. KLIX.FA. Y.0028.250502T0150Z-250502T0500Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Santa Elena LA-Tangipahoa LA-
+850 p. m. CDT jueves 1 de mayo de 2025
+
+... AVISO DE INUNDACIÓN VIGENTE HASTA LA MEDIANOCHE CDT DE ESTA NOCHE...
+
+*QUÉ... Se esperan inundaciones causadas por lluvias excesivas.
+
+*DÓNDE... Una porción del sureste de Luisiana, incluyendo lo siguiente 
+  parroquias, Santa Elena y Tangipahoa.
+
+*CUANDO... Hasta la medianoche CDT de esta noche.
+
+*IMPACTOS... Inundaciones menores en zonas bajas y de drenaje deficiente. 
+
+* DETALLES ADICIONALES...
+  - A las 850 PM CDT, el radar Doppler indicó fuertes lluvias debido a
+    Tormentas. Inundaciones menores están en curso o se espera que comiencen
+    próximamente en el área de asesoramiento. Entre 1.5 y 3 pulgadas de
+    Ha llovido.
+  - Se esperan cantidades adicionales de lluvia de hasta 2 pulgadas
+    la zona. Estas lluvias adicionales resultarán en inundaciones menores.
+  - Algunos lugares que experimentarán inundaciones incluyen...
+    Amite, Ciudad Amite, Independencia y Roseland.
+  - http://www.weather.gov/safety/flood
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+Dé la vuelta, no se ahogue cuando se encuentre con carreteras inundadas. La mayoría de las inundaciones 
+Las muertes ocurren en vehículos.
+
+Tenga especial cuidado por la noche, cuando es más difícil reconocer el 
+peligros de inundación.
+
+&&
+
+LAT... LON 3080 9062 3082 9046 3068 9037 3061 9047
+      3063 9055 3071 9062
+
+$$
+
+TJS

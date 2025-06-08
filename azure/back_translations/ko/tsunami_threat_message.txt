@@ -1,0 +1,134 @@
+ ZCZC
+WEPA40 PEP 021340
+Tsupack
+
+Tsunami message number 2
+NWS Pacific Tsunami Warning Center, Honolulu, HI
+1340 UTC on Friday, May 2, 2025
+
+... PTWC Tsunami Threat Message...
+
+Notice **** Notice **** Notice **** Notice **** Notice **** Notice *****
+
+This message is issued for informational purposes only to support:
+ UNESCO/International Biosafety Organisation (IOC) Pacific Tsunami Warning and Mitigation System and
+ It is intended for national authorities in each country of that system.
+
+The country's authorities will determine the appropriate level.
+ You can issue alerts for each country and make additional or more granular issuances.
+ Information.
+
+Notice **** Notice **** Notice **** Notice **** Notice **** Notice *****
+
+In this message, the tsunami forecast is updated.
+
+Preliminary Seismic Parameters
+---------------------------------
+
+* Scale 7.5
+  * Starting time: 1259 UTC, May 2, 2025
+  * Coordinates: South 56.8, West 67.9
+  * DEPTH 48KM / 30 MILES
+  * Location: Drake Passage
+
+evaluation
+----------
+
+* An earthquake with a preliminary magnitude of 7.5 occurred at .
+    Drake route on Friday, May 2, 2025 at 1259 UTC.
+
+* Based on all available data... Dangerous tsunami waves include:
+    Forecast for some coasts.
+
+Tsunami threat prediction... update
+---------------------------------
+
+* Tsunami waves reaching 1-3 meters above the tide level are:
+    Available along some coasts
+
+Chile.
+
+* Tsunami waves range from 0.3 to 1 meter at tidal level.
+    It is possible on some coasts.
+
+Antarctica.
+
+* Actual amplitude on the coast may differ from forecast.
+    Amplitude due to forecasts and regional uncertainty
+    Function. Especially the maximum tsunami amplitude in the atoll
+    And in locations with fringing reefs or barrier reefs, this is likely to be the case
+    It should be much smaller than the forecast indicates.
+
+* There are no predictions for other regions covered by this product.
+    It has not yet been calculated. The prediction is scaled out when:
+    It is required for subsequent products.
+
+Recommended Action
+-------------------
+
+* Government agencies responsible for threatened coastal areas
+    Actions must be taken to inform and instruct the coast.
+    Populations at risk according to themselves
+    Evaluation... Procedures and threat levels.
+
+* People in threatened coastal areas should remain vigilant.
+    Follow the instructions in NATIONAL and NATIONAL AND for more information.
+    Local authorities.
+
+Estimated time of arrival
+--------------------------
+
+*Estimated arrival time of early tsunami wave -ETA-
+    Places within the threatened area include: actual
+    Arrival times may vary and early waves may not.
+    Maximum. A tsunami is a series of waves and the time in between.
+    Waves can be from 5 minutes to 1 hour.
+
+Location Area Coordinates ETA (UTC)
+    ------------------------------------------------------------
+    GOLFO DE PENAS CHILE 47.1S 74.9W 1522 05/02
+
+Potential impact
+-----------------
+
+* A tsunami is a continuous wave. Time between waves
+    It can vary from 5 minutes to 1 hour. The risk may persist.
+    A few hours or more after the initial wave.
+
+* Impacts can vary greatly in one section of the coast.
+    The following is due to local bathymetry and its shape and elevation
+    of the coastline.
+
+* Effects may also vary depending on tide conditions.
+    The time of the maximum tsunami wave.
+
+* A person who falls into the water of a tsunami can drown... be
+    crushed by debris in the water ... Or maybe you will be swept away by the sea.
+
+Next updates and more information
+--------------------------------------
+
+* The next message will be issued in 1 hour... or faster,
+    The situation is justified.
+
+* Authoritative information on earthquakes from the United States
+    Geological surveys can be found on the Internet.
+    Earthquake. USGS.GOV.
+
+* More information about this event can be found here:
+    WWW. TSUNAMI.GOV.
+
+* Hawaii's Coastal Areas... American Samoa... Guam... and
+    CNMI should refer to Pacific Tsunami Warning Center messages.
+    Especially for the places that can be found in
+    WWW. TSUNAMI.GOV.
+
+* California's Coastal Areas ... Oregon... Washington...
+    British Columbia and Alaska should refer only to the United States.
+    NATIONAL SUNAMI WARNING CENTER MESSAGES THAT CAN BE FOUND
+    WWW. TSUNAMI.GOV.
+
+$$
+
+NNNN
+

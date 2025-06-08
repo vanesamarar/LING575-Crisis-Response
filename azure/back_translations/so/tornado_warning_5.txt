@@ -1,0 +1,55 @@
+/O.NEW. KOHX. KU. W.0014.250316T0031Z-250316T0100Z/
+
+BulletIN - EAS WORK REQUESTED
+Tornado warning
+National Weather Service Nashville TN
+731 PM CDT Sat Apr 15 2025
+
+The National Weather Service in Nashville has released a
+
+* Tornado warning for...
+  East Cumberland County in East Middle Tennessee...
+  Middle East Fentress County in Middle Tennessee...
+
+* Aa 800 PM CDT.
+
+* At 731 PM CDT, a severe thunderstorm capable of producing tornadoes
+  it is located 7 miles west of Rockwood, moving north at 50mph.
+
+SEARCH... Tornado.
+
+REFERENCES... Radar indicated a circle.
+
+IMPACT... Flying litter will be dangerous for those caught without 
+           shelter Mobile homes will be damaged or destroyed. 
+           Damage to the roof, windows, and cars will happen.  Trees 
+           injury likely.
+
+* This tornadic storm will remain in most of the rural areas of
+  Eastern Cumberland and East Fentress Counties, including
+  the following sites... Orchard foliage.
+
+This includes Interstate 40 between the mile markers 328 and 340.
+ 
+CAUTION/PREPAREDNESS OF STEPS...
+
+TAKE COVER NOW! Move to the basement or lowest basement room
+a floor of a very drastic building. Avoid windows. If you are out there, in a
+a moving house or in a car, shifts to the nearest concrete shelter
+and will not drown you.
+
+&&
+
+LAT... LON 3637 8350 8478 8472 8475 8473 8473 8473 8474
+      3633 8474 3632 8479 3611 8485 3608 8483
+      3610 8482 3609 8480 3605 8479 3600 8472
+      3591 8468 3583 8477 3579 8485 3580 8494
+      3646 8476 3644 8469 3640 8466
+BRAND... Mot... AH 0031Z 196DEG 44KT 3587 8481 
+
+YEAR... SIGNALED RADAR
+MAX HAIL SIZE...<.75 IN
+
+$$
+
+10

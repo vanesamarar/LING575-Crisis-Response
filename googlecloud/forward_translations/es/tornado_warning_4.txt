@@ -1,0 +1,62 @@
+/O.NUEVO.KLMK.TO.W.0019.250331T0245Z-250331T0315Z/
+
+BOLETÍN - SE SOLICITA ACTIVACIÓN DE EAS
+Advertencia de tornado
+Servicio Meteorológico Nacional Louisville KY
+945 PM CDT domingo 30 de marzo de 2025
+
+El Servicio Meteorológico Nacional de Louisville ha emitido un
+
+* Advertencia de tornado para...
+  Condado central de Logan en el centro sur de Kentucky...
+  El noroeste del condado de Simpson en el centro sur de Kentucky...
+  Condado de Butler, centro sur, en el centro sur de Kentucky...
+  El oeste del condado de Warren en el centro sur de Kentucky...
+
+*Hasta las 22.15 CDT.
+
+* A las 944 PM CDT, una tormenta eléctrica severa capaz de producir un tornado.
+  Estaba ubicado cerca de Russellville y se movía hacia el este a 65 mph.
+
+  PELIGRO...Tornado.
+
+  FUENTE...El radar indicó rotación.
+
+  IMPACTO...Los escombros que salen volando serán peligrosos para quienes se encuentren sin ellos. 
+           refugio. Las casas móviles se dañarán o destruirán. 
+           Se producirán daños en techos, ventanas y vehículos. Árbol 
+           Es probable que se produzcan daños.
+
+*Esta peligrosa tormenta estará cerca...
+  Bowling Green alrededor de las 10:00 p.m. CDT.
+  Memphis Junction y Crestmoor alrededor de las 10:05 p.m. CDT.
+  Plum Springs y Mount Victor alrededor de las 10:10 p.m. CDT.
+
+Otras localidades afectadas por esta tormenta eléctrica tornadica incluyen Insco,
+Gordonsville, Spa, Epleys, Dennis, Rich Pond, Crossroad, Buffalo
+Tenedor, Ciudad Perdida y Compartidor.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+¡CÚBRETE AHORA! Muévete a un sótano o a una habitación interior en el nivel más bajo.
+Piso de un edificio robusto. Evite las ventanas. Si está al aire libre, en un
+En una casa móvil o en un vehículo, muévase al refugio sólido más cercano.
+y protéjase de los escombros que vuelan.
+
+Este grupo de tormentas eléctricas es capaz de producir tornados y
+Daños eólicos importantes y generalizados. No espere a ver ni escuchar el
+Tornado. Para su protección, muévase a una habitación interior en el nivel más bajo.
+piso de un edificio.
+
+&&
+
+LAT...LON 3698 8705 3704 8679 3706 8669 3707 8665
+      3712 8641 3686 8634 3680 8702
+TIEMPO...MOT...LOC 0244Z 259DEG 57KT 3691 8691 
+
+TORNADO...RADAR INDICADO
+TAMAÑO MÁXIMO DEL GRANIZO...<.75 PULGADAS
+
+$$
+
+Webb

@@ -1,0 +1,6 @@
+Language   COMET-QE   MonoTransQuest 
+es         0.4768     0.5308         
+vi         0.4745     0.4877         
+ko         0.5450     0.5562         
+km         0.5431     0.5342         
+so         0.3772     0.3542         

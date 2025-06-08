@@ -1,0 +1,55 @@
+/O.NEW.KOHX.TO.W.0014.250316T0031Z-250316T0100Z/
+
+PARTY - EASY FUN requested
+Tornado Warning
+National Weather Service Nashville TN
+731 PM CDT Saturday March 15 2025
+
+The National Weather Service in Nashville issued a
+
+* Tornado warning for...
+  East Cumberland in Middle Tennessee...
+  In east-central Fentress County, Middle Tennessee...
+
+*Until 800 PM CDT.
+
+* 731 PM CDT, severe thunderstorms capable of producing tornadoes
+  It was located 7 miles west of Rockwood, moving north at 50 mph.
+
+  HAZARD...Tornado.
+
+  SOURCE...Radar indicated a circle.
+
+  IMPACT... Flying debris will be a danger to those who are not caught. 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur. Tree 
+           There may be an injury.
+
+* This severe storm will continue to affect most rural areas.
+  eastern Cumberland and east central Fentress Counties, including
+  next places... Crab Orchard.
+
+This includes Interstate 40 between mile markers 328 and 340.
+
+PREPARED STEPS...
+
+TURN AWAY NOW! Move to a lower room or the lowest room inside.
+floor of a solid building. Stay away from windows. If you are outside, inside a
+Move the mobile home, or car, to the nearest essential shelter.
+and protect yourself from flying debris.
+
+&&
+
+LAT...LON 3637 8470 3638 8472 3635 8473 3635 8474
+      3633 8474 3632 8479 3611 8485 3608 8483
+      3610 8482 3609 8480 3605 8479 3600 8472
+      3591 8468 3583 8477 3579 8485 3580 8494
+      3646 8476 3644 8469 3640 8466
+TIME...MOT...LOC 0031Z 196DEG 44KT 3587 8481 
+
+TORNADO...RADAR indicated.
+MAX HAIL SIZE...<.75 IN
+
+$$
+
+10

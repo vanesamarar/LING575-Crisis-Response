@@ -1,0 +1,53 @@
+WUUS51 KLWX 010100
+SVRLWX
+MDC015-010130-
+/O.NUEVO. KLWX.SV. W.0021.250401T0100Z-250401T0130Z/
+
+BOLETÍN - SE SOLICITA TRANSMISIÓN INMEDIATA
+Advertencia de tormenta eléctrica severa
+Servicio Meteorológico Nacional, Baltimore, MD/Washington DC
+900 PM EDT lun 31 de marzo de 2025
+
+El Servicio Meteorológico Nacional en Sterling, Virginia, ha emitido una
+
+* Advertencia de tormenta eléctrica severa para...
+  El sureste del condado de Cecil, en el noreste de Maryland...
+
+* Hasta las 930 PM EDT.
+
+* A las 859 PM EDT, se localizaron tormentas eléctricas severas a lo largo de una línea
+  extendiéndose desde Brantwood hasta cerca de Cecilton, moviéndose hacia el este a 35 mph.
+
+PELIGRO... Ráfagas de viento de 60 mph.
+
+FUENTE... Observaciones meteorológicas de superficie automatizadas.
+
+IMPACTO... Los vientos dañinos causarán algunos árboles y ramas grandes 
+           caer. Esto podría lesionar a las personas que están al aire libre, así como 
+           Dañar viviendas y vehículos. Las carreteras pueden quedar bloqueadas por 
+           árboles caídos. Es posible que se produzcan cortes de energía localizados. 
+           Los objetos ligeros no asegurados pueden convertirse en proyectiles.
+
+* Las ubicaciones afectadas incluyen...
+  Warwick, Cecilton, Brantwood, Chesapeake City, Bohemias Mills y
+  Cayots.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+Para su protección, muévase a una habitación interior en el piso más bajo de un
+edificio.
+
+&&
+
+LAT... LON 3938 7582 3937 7585 3937 7588 3954 7591
+      3957 7578 3938 7577
+HORA... MOT... LOC 0059Z 265DEG 32KT 3953 7582 3937 7586 
+
+AMENAZA DE GRANIZO... RADAR INDICADO
+TAMAÑO MÁXIMO DE GRANIZO...<.75 IN
+AMENAZA DE VIENTO... OBSERVADO
+RÁFAGA DE VIENTO MÁXIMA... 60 MPH
+
+$$
+
+CJL

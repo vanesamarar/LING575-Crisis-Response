@@ -1,0 +1,71 @@
+WWUS51 KLWX 170710
+SQWLWX
+
+PARTY - URGENT DISTRIBUTION requested
+Snow Squall Warning
+National Weather Service Baltimore MD/Washington DC
+210 AM EST Monday Feb 17 2025
+
+VAC069-WVC003-027-037-065-170800-
+/O.NEW.KLWX.SQ.W.0009.250217T0710Z-250217T0800Z/
+Frederick VA-Jefferson WV-Morgan WV-Berkeley WV-Hampshire WV-
+210 AM EST Monday Feb 17 2025
+
+The National Weather Service in Sterling, Virginia, has issued a
+
+* Snow Squall Warning for...
+  Northeast Frederick County in northwest Virginia...
+  Jefferson County in the Panhandle of West Virginia...
+  Southwest Morgan County in the Panhandle of West Virginia...
+  South of Berkeley County in the Panhandle of West Virginia...
+  Northeast Hampshire County, eastern West Virginia...
+
+* Until 300 AM EST.
+
+* At 208 AM EST, a dangerous snowstorm was over Inwood, OR
+  8 miles southwest of Martinsburg, heading east at 50 mph.
+
+  DANGER...Strong blast of heavy snow. Hot winds leading to... 
+           blowing snow and the scenery quickly fades to less than 
+           a quarter mile. Winds are blowing at more than 50 mph. 
+           Beating tree limbs and blowing on uncertain objects.
+
+  SOURCE...Radar and webcams.
+
+  IMPACT... Dangerous and life-threatening travel situations are 
+           expected to develop rapidly in the warning area.
+
+This includes Interstate 81 between Martinsburg West Virginia and 
+Cedar Hill Virginia.
+
+The affected areas include...
+Charles Town, Greenwood, Ranson, Inwood, Harpers Ferry,
+Kearneysville, Ranson Company, Bolivar, Shenandoah Junction,
+Middle Road, Clear Brook, Ridgeway, Bunker Hill, Bloomery, Arden, Cedar
+Hill, Unger, Millville, Brucetown, and Glengary.
+
+PREPARED STEPS...
+
+Consider avoiding or postponing travel until the snow has passed.
+your location. If you must travel, use extra caution and allow for extra
+time. Sudden changes in visibility and slippery road conditions can cause
+accidents.
+
+If you are traveling on a highway, find the nearest exit or rest area and
+Park safely away from traffic. Allow snow to pass before
+trying to restart the journey.
+
+&&
+
+LAT...LON 3939 7774 3938 7775 3936 7774 3934 7776
+      3932 7772 3931 7774 3925 7777 3924 7777
+      3921 7779 3923 7799 3926 7803 3924 7804
+      3925 7812 3941 7849 3949 7849
+TIME...MOT...LOC 0708Z 282DEG 43KT 3937 7809 
+
+SQUALL Snow... SEEN
+SQUALL IMPACT... IMPORTANT 
+
+$$
+
+DHOF

@@ -1,0 +1,48 @@
+/O.NEW.KEWX.FF.W.0001.250501T2316Z-250502T0215Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+
+BULLETIN - Requested easy action
+Flash flood warning
+National Weather Service Austin/San Antonio TX
+616 PM CDT Thursday, May 1, 2025
+
+The National Weather Service in Austin/San Antonio issued a
+
+* Flash flood warning for...
+  Burnet County, northwest Texas...
+  Llano County, northeast of central Texas...
+
+*Until 915 PM CDT.
+
+* At 616 PM CDT, Doppler radar showed thunderstorms 
+  Heavy rain across the warning area. Rainfall amounts between 2 and 4 inches. 
+  has fallen. Flash flooding is ongoing or expected to begin. 
+  Not long ago.
+
+  HAZARD... Life-threatening flash flooding. Thunderstorms
+           Creates instant flooding.
+
+  Source...radar.
+
+  Impact... Flooding along rivers and streams threatens life
+           Urban areas, highways, streets and subways.
+
+* Some locations that will experience flash flooding include...
+  Burnet, Buchanan Dam, Buchanan Lake Village, Inks Lake State Park 
+  And Tow.
+
+Preventive/preparatory actions...
+
+Turn around and don't drown when you encounter a flooded road. Most floods 
+Death occurs in vehicles.
+
+&&
+
+Lat...lon 3092 9832 3070 9818 3070 9840 3090 9850
+
+FLASH FLOOD... Radar indicated
+The threat of flood damage...consider
+
+$$
+
+27

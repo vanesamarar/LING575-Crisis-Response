@@ -1,0 +1,73 @@
+ ZCZC
+WEPA42 PHEB 291501
+TIBPAC
+
+Tsunami Information Statement No. 1
+NWS Pacific Tsunami Warning Center, Honolulu, HI
+1501 UTC Tuesday April 29, 2025
+
+... PTWC Tsunami Information Statement...
+
+Notice **** Notice **** Notice **** Notice **** Notice **** Notice *****
+
+This statement is issued for informational purposes only, supporting the following:
+ UNESCO/International Biosafety Organisation (IOC) Pacific Tsunami Warning and Mitigation System and
+ It is intended for national authorities in each country of that system.
+
+The country's authorities will determine the appropriate level.
+ You can issue alerts for each country and make additional or more granular issuances.
+ Information.
+
+Notice **** Notice **** Notice **** Notice **** Notice **** Notice *****
+
+Preliminary Seismic Parameters
+---------------------------------
+
+* Rating 6.8
+  * Departure time: 1454 UTC, April 29, 2025
+  * Coordinates: 54.3 South 155.6 East
+  * DEPTH 10KM / 6 MINES
+  * Location: Macquarie Island Area
+
+evaluation
+----------
+
+* In the event of a 6.8 magnitude earthquake
+    Macquarie Islands Region Tuesday, April 29 at 1454 UTC
+    2025.
+
+* Based on all available data... No tsunami threat
+    From this earthquake.
+
+Recommended Action
+-------------------
+
+*No action is required.
+
+Next updates and more information
+--------------------------------------
+
+* This is the only statement issued for this event, except in the following cases:
+    Additional data will be received or the situation will change.
+
+* Authoritative information on earthquakes from the United States
+    Geological surveys can be found on the Internet.
+    Earthquake. USGS.GOV.
+
+* More information about this event can be found here:
+    WWW. TSUNAMI.GOV.
+
+* Hawaii's Coastal Areas... American Samoa... Guam... and
+    CNMI should refer to Pacific Tsunami Warning Center messages.
+    Especially for the places that can be found in
+    WWW. TSUNAMI.GOV.
+
+* California's Coastal Areas ... Oregon... Washington...
+    British Columbia and Alaska should refer only to the United States.
+    NATIONAL SUNAMI WARNING CENTER MESSAGES THAT CAN BE FOUND
+    WWW. TSUNAMI.GOV.
+
+$$
+
+NNNN
+

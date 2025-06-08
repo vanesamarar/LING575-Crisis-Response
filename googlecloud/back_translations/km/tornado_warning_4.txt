@@ -1,0 +1,62 @@
+/O.NEW.KLMK.TO.W.0019.250331T0245Z-250331T0315Z/
+
+BULLETIN - Requested easy action
+Tornado warning
+National Weather Service Louisville KY
+945 PM CDT Sunday, March 30, 2025
+
+The National Weather Service in Louisville issued
+
+*Tornado warning...
+  Central Logan County in central Kentucky...
+  Simpson County, northwestern Kentucky...
+  Butler County, south-central Kentucky...
+  Warren County, west central Kentucky...
+
+*Until 1015 PM CDT.
+
+* At 944 PM CDT, a severe thunderstorm capable of producing tornadoes
+  Located near Russellville, moving east at 65 mph.
+
+  Danger...tornado.
+
+  Source...radar shows rotation.
+
+  Impact... Flying debris will be dangerous to those caught unawares. 
+           Shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur. Trees 
+           Damage is likely.
+
+* This dangerous storm is approaching...
+  Bowling Green at 1000 PM CDT.
+  Memphis Junction and Crestmoor at 1005 PM CDT.
+  Plum Springs and Mount Victor around 1010 PM CDT.
+
+Other locations affected by the thunderstorm include Insco,
+Gordonsville, Spa, Epleys, Dennis, Rich Pond, Crossroad, Buffalo
+Fork, Lost City, and Sharer.
+
+Preventive/preparatory actions...
+
+Take cover now! Move to the basement or the lowest interior room.
+The floor of a solid building. Avoid windows. If you are outside, in a
+Mobile homes or in vehicles, move to the nearest major shelter.
+And protect yourself from flying debris.
+
+This cluster of thunderstorms has the potential to produce tornadoes and
+Severe wind damage. Don't wait to see or hear.
+Tornado. For your protection, move to the lowest interior room.
+A floor of a building.
+
+&&
+
+Lat...lon 3698 8705 3704 8679 3706 8669 3707 8665
+      3712 8641 3686 8634 3680 8702
+TIME...MOT...LOC 0244Z 259DEG 57KT 3691 8691 
+
+TORNADO... Radar indicated.
+Maximum HAIL Size...<.75 inches
+
+$$
+
+Web

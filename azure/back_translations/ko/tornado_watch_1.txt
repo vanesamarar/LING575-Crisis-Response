@@ -1,0 +1,63 @@
+WATCH County Reminder for WATCH 196/197
+National Weather Service, Fort Worth, Texas
+953 AM CDT Wednesday April 30 2025
+
+TXC147-277-302200-
+/O.CAN. KFWD.SV. A.0196.000000T0000Z-250430T1500Z/
+/O.NEW. KFWD. Recipient. A.0197.250430T1453Z-250430T2200Z/
+
+THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO ADVISORY 197.
+Today at 5 p.m. CST replaces some of the serious.
+Thunderstorm Clock 196. Your new watch is valid for:
+area
+
+In Texas, the new clock includes 2 counties
+
+Located in North Central Texas
+
+Fannin Lamar                 
+
+THESE INCLUDE BONHAM AND PARIS.
+
+$$
+
+TXC097-181-237-337-363-429-497-503-301600-
+/O.Express. KFWD.SV. A.0196.000000T0000Z-250430T1500Z/
+
+THE NATIONAL WEATHER SERVICE WILL ALLOW SEVERE THUNDERSTORM WARNINGS.
+196 expires this morning at 10 CST for the following areas:
+
+In Texas, 8 counties can expire
+
+Located in North Central Texas
+
+Cook Grayson Jack                 
+Montague Palo Pinto Stevens             
+Wise Young                 
+
+THESE INCLUDE BOWIE, BRECKENRIDGE, BRIDGEPORT, 
+Decatur, Denison, Gainesville, Graham, Jacksboro, Mineral Wells, 
+Nokona, Olney, and Sherman.
+
+$$
+
+TXC119-223-231-257-379-397-467-302200-
+/O.NEW. KFWD. Recipient. A.0197.250430T1453Z-250430T2200Z/
+
+THE NATIONAL WEATHER SERVICE HAS ISSUED A TORNADO WARNING 197.
+It will be in effect for the following regions through 5 p.m. CST today:
+
+In Texas, this clock includes seven counties
+
+Located in North Central Texas
+
+Delta Hopkins Hunt                 
+Kaufman Raines Rockwall             
+Van Zandt             
+
+THESE INCLUDE CANTON, COMMERCE, COOPER, 
+East Tawakoni, Edgewood, Emory, Pony, Grandsaline, Greenville,
+Heath, Kaufman, Point, Rockwall, Sulphur Springs, Terrell, Van, 
+and Wills Point.
+
+$$

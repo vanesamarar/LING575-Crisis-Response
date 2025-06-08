@@ -1,0 +1,55 @@
+/O.NEW.KOHX.TO.W.0014.250316T0031Z-250316T0100Z/
+
+Bulletin Board - EAS Activation Request
+Tornado warning
+National Weather Service Nashville Tennessee
+Saturday, March 15, 2025 7:31 PM CDT
+
+The National Weather Service in Nashville said:
+
+* A TORNADO WARNING has been issued.
+  Eastern Cumberland County in central Tennessee...
+  East-central Pentress County in central Tennessee...
+
+* Until 8:00 PM CDT.
+
+* 7:31 p.m. CDT, severe thunderstorms capable of producing tornadoes
+  It is located 7 miles west of Lockwood and moving north at 50 miles per hour.
+
+  Danger...Tornado.
+
+  Source...radar indicates rotation.
+
+  Impact... Flying debris can be dangerous to those not caught. 
+           Shelters. Mobile homes can be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles may occur. Trees 
+           Damage is expected.
+
+* This tornado storm will remain primarily in rural areas.
+  Including eastern Cumberland County and east-central Fentress County.
+  Next location... Crab Orchard.
+
+This includes Interstate 40 between mile markers 328 and 340.
+
+Preventive/Preventive Measures...
+
+Take cover now! Go to the lowest basement or indoor location.
+Floors of a sturdy building. Avoid windows. If outdoors.
+For mobile homes or vehicles, move to the nearest sturdy shelter.
+Protect yourself from flying debris.
+
+&&
+
+Latitude...Path 3637 8470 3638 8472 3635 8473 3635 8474
+      3633 8474 3632 8479 3611 8485 3608 8483
+      3610 8482 3609 8480 3605 8479 3600 8472
+      3591 8468 3583 8477 3579 8485 3580 8494
+      3646 8476 3644 8469 3640 8466
+Time...MOT...LOC 0031Z 196DEG 44KT 3587 8481 
+
+Tornado...shown on radar
+Maximum hail size...<0.75 inches
+
+$$
+
+10

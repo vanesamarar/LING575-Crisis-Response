@@ -1,0 +1,56 @@
+WEXX30 PAAQ 081842
+Tsuate
+
+notice
+Public Tsunami Message No. 3
+NWS National Tsunami Warning Center Palmer AK
+Friday, July 7, 2016 at 8:242 PM ET
+
+... The tsunami warning has been lifted...
+
+* Tsunami warnings for coastal areas are lifted.
+   South Carolina to North Carolina, VA
+
+Tsunami Activity Observations - Update
+------------------------------------------
+ * The maximum observed tsunami height is the highest water level ever recorded.
+   By the time this message appears, it is above the tide level.
+
+Observation time maximum
+ Measurement site tsunami height
+ ---------------------------- ----------------       --------------
+ Hatteras NC 1537 EDT Jul 8 0.9ft
+ Oregon Inlet NC 1554 EDT Jul 8 1.7ft
+ Beaufort, NC, 1529 EDT, July 8, 4.4 ft
+
+Recommended Action - Updated
+-----------------------------
+ * Do not reoccupy the danger zone until there are local emergency officials.
+   It indicates that it is safe to do so.
+
+Impact - Updated
+-----------------
+ * Tsunami activity has sunk along the coast of Puerto Rico.
+   U.S. Virgin Islands, British Virgin Islands, and U.S. territories and
+   Canadian coast in the Atlantic Ocean.
+
+* In some areas, ongoing activity may continue and become powerful.
+   Dangerous currents for swimmers and boats.
+
+* The decision to reoccupy the danger zone must be made as follows:
+   Local officials.
+
+Additional Information and Next Updates
+--------------------------------------
+ * For details, please refer to the ntwc.arh.noaa.gov of the Internet site.
+   Information.
+
+* Caribbean Coast, excluding Puerto Rico, U.S. Virgin
+   The islands of the British Virgin Islands should refer to the Pacific Ocean.
+   Tsunami Warning Center message ptwc.weather.gov.
+
+* This will be the last U.S. National Tsunami Warning Center.
+   The message generated for this event.
+
+$$
+

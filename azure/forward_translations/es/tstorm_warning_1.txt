@@ -1,0 +1,50 @@
+/O.NUEVO. KEWX.SV. W.0087.250501T2335Z-250502T0015Z/
+
+BOLETÍN - SE SOLICITA TRANSMISIÓN INMEDIATA
+Advertencia de tormenta eléctrica severa
+Servicio Meteorológico Nacional Austin/San Antonio, TX
+635 PM CDT jueves 1 de mayo de 2025
+
+El Servicio Meteorológico Nacional en Austin, San Antonio, ha emitido una
+
+* Advertencia de tormenta eléctrica severa para...
+  El centro norte del condado de Burnet, en el centro sur de Texas...
+
+* Hasta las 715 PM CDT.
+
+* A las 635 PM CDT, una tormenta eléctrica severa se ubicó a 7 millas al suroeste
+  de Lampasas, moviéndose hacia el noreste a 5 mph.
+
+PELIGRO... Ráfagas de viento de 60 mph y granizo del tamaño de medio dólar.
+
+FUENTE... Radar indicado.
+
+IMPACTO... Se esperan daños por granizo en vehículos. Espere daños por viento 
+           a techos, revestimientos y árboles.
+
+* Esta tormenta eléctrica severa permanecerá principalmente sobre áreas rurales de
+  centro-norte del condado de Burnet.
+
+ACCIONES DE PRECAUCIÓN/PREPARACIÓN...
+
+Para su protección, muévase a una habitación interior en el piso más bajo de un
+edificio.
+
+Granizo grande, viento dañino y relámpagos continuos de nube a tierra
+están ocurriendo con esta tormenta. Muévase al interior de inmediato. El rayo es
+uno de los principales asesinos de la naturaleza. Recuerda, si puedes oír truenos,
+Estás lo suficientemente cerca como para ser alcanzado por un rayo.
+
+&&
+
+LAT... LON 3101 9800 3089 9822 3103 9840 3103 9803
+HORA... MOT... LOC 2335Z 233DEG 5KT 3099 9829 
+
+AMENAZA DE GRANIZO... RADAR INDICADO
+TAMAÑO MÁXIMO DE GRANIZO... 1.25 PULGADAS
+AMENAZA DE VIENTO... RADAR INDICADO
+RÁFAGA DE VIENTO MÁXIMA... 60 MPH
+
+$$
+
+Brady

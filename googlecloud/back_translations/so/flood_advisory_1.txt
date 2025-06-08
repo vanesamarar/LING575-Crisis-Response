@@ -1,0 +1,49 @@
+Flood Advisory
+National Weather Service New Orleans LA
+850 PM CDT Thursday May 1 2025
+
+LAC091-105-020500-
+/O.NEW.KLIX.FA.Y.0028.250502T0150Z-250502T0500Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+St. Helena LA-Tangipahoa LA-
+850 PM CDT Thursday May 1 2025
+
+...THE CURRENT ADVICE IS ON UNTIL THE CCDT EVENING...
+
+* WHAT...Floods resulting from excessive rains are expected.
+
+* WHERE...Southeast Louisiana, including the following 
+  churches, St. Helena and Tangipahoa.
+
+* WHEN...Until midnight CDT tonight.
+
+* IMPACT...Small flooding in low-lying areas and those with poor drainage. 
+
+* MORE DETAILS...
+  - At 850 PM CDT, Doppler radar showed heavy rain falling
+    Thunderstorms. Minor flooding is underway or expected to begin.
+    just before the consultation site. Between 1.5 and 3 inches
+    It rained.
+  - Additional rainfall of up to 2 inches is expected to end
+    The area. This additional rain will cause minor flooding.
+  - Some of the areas that will experience flooding include...
+    Amit, Amit City, Independence and Roseland.
+  - http://www.weather.gov/safety/flood
+
+PREPARED STEPS...
+
+Be careful, don't drown when you encounter flooded roads. The most severe flooding 
+Deaths occur in cars.
+
+Be especially careful at night when it is difficult to identify. 
+Flood risks.
+
+&&
+
+LAT...LON 3080 9062 3082 9046 3068 9037 3061 9047
+      3063 9055 3071 9062
+
+
+$$
+
+TJS

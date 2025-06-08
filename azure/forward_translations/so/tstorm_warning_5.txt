@@ -1,0 +1,53 @@
+WUU51 KLWX 010100
+SVRLWX
+MDC015-010130-
+/O.NEW. KLWX.SV. W.0021.250401T0100Z-250401T0130Z/
+
+BULLETIN - BAAHINTA DEGDEGGA AH CODSATAY
+Digniin Duufaano Duufaan oo aad u daran
+National Weather Service Baltimore MD/Washington DC
+900 PM EDT Mon 31 Mar 2025
+
+Adeegga Qaranka ee Cimilada ee Sterling Virginia ayaa soo saaray a
+
+* Digniin Duufaan Duufaan oo aad u daran ...
+  Koonfur-bari Cecil County ee waqooyi-bari Maryland ...
+
+* Aa 930 PM EDT.
+
+* Markay ahayd 859 PM EDT, duufaanno ba'an ayaa ku dhuftay xariijin
+  laga bilaabo Brantwood ilaa meel u dhow Cecilton, oo u dhaqaaqaysa xagga bari 35 mph.
+
+HAKU... 60 mph dabayl xoog leh.
+
+XIGASHO ... Ku-oogista cimilada dusha Automated.
+
+IMPACT... Dabaylo waxyeelleeya ayaa sababi doona geedaha qaarkood iyo laamo waawayn 
+           dhici lahaa. Tani waxay dhaawac u geysan kartaa kuwa dibadda ah, iyo sidoo kale 
+           waxyeelo u geysato guryaha iyo baabuurta. Waxaa laga yaabaa in wadooyinka ay xiraan 
+           geed la riday. Koranto la'aanta maxalliga ahi waa suuragal. 
+           Walxaha iftiinka aan adkayn ayaa noqon kara gantaallo.
+
+* Meelaha ay saameynta ku yeelato waxaa ka mid ah ...
+  Warwick, Cecilton, Brantwood, Magaalada Chesapeake, Bohemias Mills, iyo
+  Cayots.
+
+TAXADDAR / DIYAARGAROOBNIMADA TALLAABOOYINKA ...
+
+Si aad u ilaaliso qolka gudaha oo ku yaal dabaqa ugu hooseeya ee a
+dhismaha.
+
+&&
+
+LAT... LON 3938 7582 7582 7585 7585 3937 7588 3954 7591
+      3957 7578 3938 7577
+MARKA... Mot... LOC 0059Z 265DEG 32KT 3953 7582 3937 7586 
+
+HANJABAAD... RADAR TILMAAMAY
+MAX HAIL SIZE ...<.75 IN
+HANJABAAD DABAYSHA ... kudhaca
+MAX GUST DABAYSHA ... 60 MPH
+
+$$
+
+CJL
