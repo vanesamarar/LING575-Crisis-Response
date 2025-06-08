@@ -1,6 +1,0 @@
-Provider     Language   COMET-Kiwi  
-azure        es         0.4856      
-azure        vi         0.4567      
-azure        ko         0.5000      
-azure        km         0.5271      
-azure        so         0.3587      
