@@ -12,7 +12,11 @@ Data is compiled from the National Weather Service (NWS) Product Translations, N
 
 ## Setup
 
-In order to run any translators, you need to configure environmental variables. You will also need to create Google Cloud and Azure accounts, then create API keys for each. Azure requires an endpoint. The Azure and Google API keys can be the same. For the purpose of this project, we each have individual API keys, therefore we needed to set up two sets of credentials for each platform.
+In order to run the pipeline, you need to complete the following 3 steps:
+1. Configure environmental variables
+2. Create Google Cloud account and get API key
+3. Create Azure account and get API key and endpoint
+These are outlined in greater detail down below
 
 Configure your API credentials in a .env file. If you are only using one API key per provider, modify the script accordingly (e.g., removing _2):
 
