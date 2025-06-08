@@ -2,7 +2,7 @@
 
 This project evaluates the performance of Google Translate and Microsoft Translator in translating emergency weather alerts issued by the U.S. National Weather Service (NWS). The goal is to assess machine translation quality in both forward (English → target language) and backward (target language → English) directions across five high-priority languages: Spanish, Somali, Khmer, Korean, and Vietnamese.
 
-#Authors 
+# Authors 
 
 Melody Bechler & Vanesa Marar
 
@@ -14,7 +14,7 @@ Data is compiled from the National Weather Service (NWS) Product Translations, N
 
 In order to run any translators, you need to configure environmental variables. You will also need to create Google Cloud and Azure accounts, then create API keys for each. Azure requires an endpoint. The Azure and Google API keys can be the same. For the purpose of this project, we each have individual API keys, therefore we needed to set up two sets of credentials for each platform.
 
-1. Configure your API credentials in a .env file. If you are only using one API key per provider, modify the script accordingly (e.g., removing _2):
+Configure your API credentials in a .env file. If you are only using one API key per provider, modify the script accordingly (e.g., removing _2):
 
 '''
 GOOGLE_APPLICATION_CREDENTIALS_1=""
