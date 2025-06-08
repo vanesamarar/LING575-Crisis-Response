@@ -2,13 +2,11 @@
 
 This project evaluates the performance of Google Translate and Microsoft's Azure AI Translator in translating emergency weather alerts issued by the U.S. National Weather Service (NWS). The goal is to assess machine translation quality in both forward (English → target language) and backward (target language → English) directions across five high-priority languages: Spanish, Somali, Khmer, Korean, and Vietnamese.
 
+Data is compiled from the National Weather Service (NWS) Product Translations, NWS Tsunami Products, and National Hurricane Center and Central Pacific Hurricane Center's Advisory Archive. NWS provides limited historical English alerts for a finite number of NWS stations in the United States and the National Hurricane Center has advisory archives dating from 1998. 
+
 # Authors 
 
 Melody Bechler & Vanesa Marar
-
-
-Data is compiled from the National Weather Service (NWS) Product Translations, NWS Tsunami Products, and National Hurricane Center and Central Pacific Hurricane Center's Advisory Archive. NWS provides limited historical English alerts for a finite number of NWS stations in the United States and the National Hurricane Center has advisory archives dating from 1998. 
-
 
 ## Setup
 
@@ -59,7 +57,7 @@ Your .gitignore file should list your json file(s) and your .env file. If only u
 ### Running the Pipeline
 Run the following command to execute the full pipeline:
 ```bash
-python3 pipeline.sh
+./pipeline.sh
 ```
 This will call the scripts outlined in the next section in the order they are presented.
 Please ensure the above Google Cloud and Azure API credentials are correct prior to running.
