@@ -24,6 +24,12 @@ AZURE_KEY_2=""
 AZURE_ENDPOINT=""
 '''
 
+GOOGLE_APPLICATION_CREDENTIALS_1=""
+GOOGLE_APPLICATION_CREDENTIALS_2=""
+AZURE_KEY_1=""
+AZURE_KEY_2=""
+AZURE_ENDPOINT=""
+
 ### Google Setup
 Google Cloud Translation can be accessed via Google.
 
