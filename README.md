@@ -16,9 +16,8 @@ In order to run the pipeline, you need to complete the following 3 steps:
 1. Configure environmental variables
 2. Create Google Cloud account and get API key
 3. Create Azure account and get API key and endpoint
-These are outlined in greater detail down below
 
-Configure your API credentials in a .env file. If you are only using one API key per provider, modify the script accordingly (e.g., removing _2):
+Configure your API credentials in a .env file. If you are only using one API key per provider, modify the relevant scripts accordingly (e.g., removing {key}_2 from .env and translation scripts outlined below):
 
 ```bash
 $ GOOGLE_APPLICATION_CREDENTIALS_1=""
@@ -33,10 +32,10 @@ $ AZURE_ENDPOINT=""
 Google Cloud Translation can be accessed via Google.
 
 1. Create free account (https://cloud.google.com/?hl=en)
-2. Ensure the Cloud Translation API is enabled for the project
-3. Go to IAM in search bar and create new Service Account
-4. Grant service account access to use translation API 
-5. Go to keys and create new json key
+2. Enable Cloud Translation API
+3. Create a service account in IAM
+4. Grant service account permission to use translation API 
+5. Create and download a JSON key
 6. Add key to .env file and store json key with other files
 7. Download gcloud CLI (https://cloud.google.com/sdk/gcloud)
 8. Run 'gcloud init'
@@ -49,10 +48,11 @@ Google Cloud Translation can be accessed via Google.
 Azure AI Translator can be accessed via the Azure platform.
 
 1. Create a free Azure account (https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account)
-2. Create a single service resource in the Azure portal. Location 'westus2' was chosen. The key and endpoint are on the Keys and Endpoint page. If an endpoint is not listed, use "https://api.cognitive.microsofttranslator.com".
-3. Add keys and endpoint to .env
-4. Run 'pip install requests uuid'
-5. Store keys and endpoint in .env
+2. Create a single service resource. Location 'westus2' was chosen.
+3. Navigate to Keys and Endpoint page and copy your endpoint and key. If an endpoint is not listed, use "https://api.cognitive.microsofttranslator.com".
+4. Add keys and endpoint to .env
+5. Run 'pip install requests uuid'
+
 
 Your .gitignore file should list your json file(s) and your .env file. If only using a single API key for both Azure and Google Cloud, you can change the 'AZURE_KEY_2' and "GOOGLE_APPLICATION_CREDENTIALS_2' in the azure_backtranslation.py and google_cloud_backtranslation.py scripts to reflect the single key, as 'AZURE_KEY_1' and 'GOOGLE_APPLICATION_CREDENTIALS_1'. If only using a single API credentials in each (compared to our two sets), you must change the scripts below to reflect the single key set. 
 
