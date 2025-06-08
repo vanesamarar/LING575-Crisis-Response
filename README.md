@@ -1,6 +1,6 @@
 # LING575-Crisis-Response
 
-This project evaluates the performance of Google Translate and Microsoft Translator in translating emergency weather alerts issued by the U.S. National Weather Service (NWS). The goal is to assess machine translation quality in both forward (English → target language) and backward (target language → English) directions across five high-priority languages: Spanish, Somali, Khmer, Korean, and Vietnamese.
+This project evaluates the performance of Google Translate and Microsoft Azure AI Translator in translating emergency weather alerts issued by the U.S. National Weather Service (NWS). The goal is to assess machine translation quality in both forward (English → target language) and backward (target language → English) directions across five high-priority languages: Spanish, Somali, Khmer, Korean, and Vietnamese.
 
 # Authors 
 
