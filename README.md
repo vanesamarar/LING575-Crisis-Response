@@ -58,33 +58,62 @@ Your .gitignore file should list your json file(s) and your .env file. If only u
 
 **Anything else to add to these?
 
+### Running the Pipeline
+Run the following command to execute the full pipeline:
+```bash
+python3 pipeline.sh
+```
+This will call the scripts outlined in the next section in the order they are presented.
+Please ensure the above Google Cloud and Azure API credentials are correct prior to running.
+
 ### Scripts
 ```bash
-1. google_cloud_translation.py
+1. azure_translation.py
 ```
-This script translates English text (forward translation) using Neural Machine Translation in Google Cloud Translation API. Please ensure the above Google Cloud API credentials are correct prior to using.
+This script translates English text into the 5 target languages (forward translation) using the Azure Translator.
 
-2. azure_translate.py
-This script translates English text (forward translation) using the Azure Translator. Please ensure the above Azure API credentials are correct prior to using.
+```bash
+2. google_translation.py
+```
+This script translates English text into the 5 target languages (forward translation) using the Neural Machine Translation in Google Cloud Translation API. 
 
-3. google_cloud_backtranslation.py
-This script translates text from 5 languages into English (backtranslation) using Neural Machine Translation in Google Cloud Translation API. Please ensure the above Google Cloud API credentials are correct prior to using.
+```bash
+3. forward_evaluation.py
+```
+This script evaluates the forward translations produced by the first two scripts using Comet-Kiwi and MonoTransQuest.
 
+```bash
 4. azure_backtranslation.py
-This script translates text from 5 languages into English (backtranslation) using the Azure Translator. Please ensure the above Azure API credentials are correct prior to using.
+```
+This script translates the first script's output from the 5 languages back into English (back-translation) using the Azure Translator.
+
+```bash
+5. google_backtranslation.py
+```
+This script translates the second script's output from the 5 languages back into English (back-translation) using Neural Machine Translation in Google Cloud Translation API.
+
+```bash
+6. back_evaluation.py
+```
+This script evaluates the back-translations produced by scripts 4 and 5 using Comet, BLEU, and BERTScore.
+
 
 
 ### Evaluation --- add MORE info here about implementation
 Run the following commands in the terminal to install the required evaluation packages. This process assumes conda is already installed. To download conda, download here: (https://www.anaconda.com/docs/getting-started/anaconda/main)
 
-The following downloads the dotenv module for to handle API keys, transformers 4.6.1, python 3.8, and hf46 environment:
+
+### Requirements
+Install dependencies with:
+```bash
 'pip install python-dotenv'
 'conda install -c huggingface transformers=4.6.1'
 'pip install "unbabel-comet>=2.0.0" '
 'pip install transquest'
 'pip install simpletransformers'
 'pip install bert-score'
-
+```
+We used the HuggingFace Transformers 4.6.1 version within a Conda environment named hf46 using python version 3.8.
 
 
 
