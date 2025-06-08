@@ -117,8 +117,9 @@ pip install simpletransformers
 pip install bert-score
 ```
 
+### File Locations
+The MT system folders (azure and googlecloud) each contain the forward and back translation outputs, each within the forward_translation and back_translation subfolders.
 
-
-
+The MT system evaluation output for forward translation and back translation can be located in the evaluation folder. The final evaluation results are in azure_evaluation_results.txt (forward translation), azure_back_evaluation_results.txt, googlecloud_evaluation_results.txt (forward translation), and googlecloud_back_evaluation_results.txt. The python files for both translation types are in this folder as well.
 
 
