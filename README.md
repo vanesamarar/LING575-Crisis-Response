@@ -16,19 +16,14 @@ In order to run any translators, you need to configure environmental variables. 
 
 Configure your API credentials in a .env file. If you are only using one API key per provider, modify the script accordingly (e.g., removing _2):
 
-'''
-GOOGLE_APPLICATION_CREDENTIALS_1=""
-GOOGLE_APPLICATION_CREDENTIALS_2=""
-AZURE_KEY_1=""
-AZURE_KEY_2=""
-AZURE_ENDPOINT=""
-'''
+```bash
+$ GOOGLE_APPLICATION_CREDENTIALS_1=""
+$ GOOGLE_APPLICATION_CREDENTIALS_2=""
+$ AZURE_KEY_1=""
+$ AZURE_KEY_2=""
+$ AZURE_ENDPOINT=""
+```
 
-GOOGLE_APPLICATION_CREDENTIALS_1=""
-GOOGLE_APPLICATION_CREDENTIALS_2=""
-AZURE_KEY_1=""
-AZURE_KEY_2=""
-AZURE_ENDPOINT=""
 
 ### Google Setup
 Google Cloud Translation can be accessed via Google.
